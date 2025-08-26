@@ -209,70 +209,32 @@ const Flashcards = () => {
   };
 
   const handleAIGeneration = async () => {
-    if ((!inputText.trim() && !uploadedFile) || selectedCardTypes.length === 0) {
-      alert('Please provide content and select at least one card type');
+    if (!inputText.trim()) {
+      alert('Please provide content to generate flashcards');
       return;
     }
     
     setIsGenerating(true);
     
     try {
-      let content = inputText;
-      let endpoint = '/generate';
-      let requestData = {
-        content: content,
-        subject: selectedSubject || undefined,
-        card_types: selectedCardTypes,
-        num_cards: numCards,
-        difficulty_balance: difficultyBalance
-      };
-
-      // If file is uploaded, use file endpoint
-      if (uploadedFile) {
-        endpoint = '/generate-from-file';
-        const formData = new FormData();
-        formData.append('file', uploadedFile);
-        formData.append('subject', selectedSubject || '');
-        formData.append('card_types', selectedCardTypes.join(','));
-        formData.append('num_cards', numCards);
-        formData.append('difficulty_balance', difficultyBalance);
-        
-        // For now, simulate API call since backend isn't running
-        await new Promise(resolve => setTimeout(resolve, 2000));
-        
-        // Call your enhanced AI backend
-        const intelligentCards = await generateIntelligentCards(
-          content || 'Sample content for demonstration', 
-          selectedCardTypes, 
-          numCards,
-          generationMode,
-          answerStyle,
-          examBoard,
-          learningLevel
-        );
-        setGeneratedCards(intelligentCards);
-      } else {
-        // For text input, call the enhanced AI backend
-        await new Promise(resolve => setTimeout(resolve, 2000));
-        
-        // Call the actual enhanced AI backend
-        const intelligentCards = await generateIntelligentCards(
-          content, 
-          selectedCardTypes, 
-          numCards === 0 ? 999 : numCards,
-          generationMode,
-          answerStyle,
-          examBoard,
-          learningLevel
-        );
-        setGeneratedCards(intelligentCards);
-      }
+      console.log('🚀 Starting NOTICAL AI generation...');
       
+      // Call your NOTICAL AI server
+      const response = await apiService.generateFlashcards(inputText, numCards);
+      
+      console.log('✅ NOTICAL AI generated flashcards:', response);
+      
+      // Set the generated cards
+      setGeneratedCards(response.flashcards || []);
+      
+      // Switch to view generated cards
       setActiveTab('create-new');
       
+      console.log(`🎯 Generated ${response.flashcards?.length || 0} flashcards in ${response.generation_time?.toFixed(2) || 0}s`);
+      
     } catch (error) {
-      console.error('AI generation failed:', error);
-      alert('Failed to generate flashcards. Please try again.');
+      console.error('❌ NOTICAL AI generation failed:', error);
+      alert('Failed to generate flashcards. Make sure your NOTICAL server is running on port 8004.');
     } finally {
       setIsGenerating(false);
     }

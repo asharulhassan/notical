@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8001';
+const API_BASE_URL = 'http://localhost:8005'; // Your NOTICAL AI server
 
 class ApiService {
   constructor() {
@@ -34,15 +34,18 @@ class ApiService {
     return this.request('/health');
   }
 
-  // Simple flashcard generation (working now!)
+  // NOTICAL AI Flashcard Generation
   async generateFlashcards(content, numCards = 5) {
-    return this.request('/generate', {
+    console.log('🚀 Generating flashcards with NOTICAL AI...');
+    const response = await this.request('/generate-flashcards', {
       method: 'POST',
       body: JSON.stringify({
         content,
         num_cards: numCards
       }),
     });
+    console.log('✅ NOTICAL AI response:', response);
+    return response;
   }
 
   // Test endpoint

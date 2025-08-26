@@ -1,37 +1,42 @@
 # Core FastAPI and async dependencies
-fastapi==0.95.2
-uvicorn[standard]==0.22.0
-python-multipart==0.0.6
-pydantic==1.10.22
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+pydantic>=2.0.0
 
 # Database
-sqlalchemy==2.0.0
-alembic==1.10.0
+sqlalchemy>=2.0.0
+alembic>=1.12.0
 
-# AI and ML
-transformers==4.30.0
-torch==2.0.0
-numpy==1.24.0
+# AI and ML - Core dependencies for self-learning LLM
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+accelerate>=0.24.0
+peft>=0.6.0
+bitsandbytes>=0.41.0
+sentencepiece>=0.1.99
+numpy>=1.24.0
 
 # Text processing
-PyPDF2==3.0.1
-SpeechRecognition==3.10.0
-pydub==0.9.5
+PyPDF2>=3.0.1
+SpeechRecognition>=3.10.0
+pydub>=0.9.5
 
 # Audio processing
-pyaudio==0.2.11
+pyaudio>=0.2.11
 
 # Utilities
-python-dotenv==1.0.0
-requests==2.31.0
-aiofiles==23.1.0
-python-magic==0.4.27
+python-dotenv>=1.0.0
+requests>=2.31.0
+aiofiles>=23.1.0
+python-magic>=0.4.27
 
 # Development and testing
-pytest==7.3.1
-pytest-asyncio==0.21.1
-black==23.3.0
-flake8==6.0.0
+pytest>=7.4.0
+pytest-asyncio>=0.21.1
+black>=23.3.0
+flake8>=6.0.0
 
 # Production
-gunicorn==20.1.0
+gunicorn>=21.2.0
