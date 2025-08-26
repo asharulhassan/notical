@@ -1,0 +1,52 @@
+notical-flashcards-starter/
+├─ README.md
+├─ requirements.txt
+├─ .env.example
+├─ docker-compose.yml                  # (later) Postgres/Qdrant/MinIO/Redis — optional
+│
+├─ app/
+│  ├─ __init__.py
+│  ├─ main.py                          # FastAPI bootstrap + routes mount
+│  ├─ config.py                        # env vars, paths, feature flags
+│  │
+│  ├─ ingest.py                        # PDF/DOCX text extraction; image/audio stubs
+│  ├─ chunker.py                       # paragraph/semantic chunking (keeps math blocks intact)
+│  ├─ syllabus.py                      # syllabus tree + chunk→topic mapping
+│  ├─ embeddings.py                    # vectorization (bge/e5) + helpers
+│  ├─ rag.py                           # (optional) retrieval from past papers/OER
+│  │
+│  ├─ generator.py                     # 🔑 flashcard generation orchestrator (definition/cloze/MCQ/math)
+│  ├─ validators.py                    # dedup, grounding, MCQ checks, length/format
+│  ├─ math.py                          # LaTeX helpers, im2latex hooks, graph Qs
+│  ├─ srs.py                           # SM-2/FSRS scheduler + weak-area detection (self-learning loop)
+│  │
+│  ├─ storage.py                       # JSON proto now; adapters for Postgres/MinIO/Qdrant later
+│  ├─ export.py                        # CSV (Anki), DOCX export, offline bundles
+│  │
+│  ├─ llm.py                           # local LLM adapter (llama.cpp/TGI/vLLM) + prompt runner
+│  ├─ ocr.py                           # PaddleOCR/Tesseract wrappers
+│  ├─ asr.py                           # Whisper transcription wrappers
+│  │
+│  ├─ prompts/                         # prompt templates (LLM-ready; easy to tweak)
+│  │   ├─ definition_prompt.txt
+│  │   ├─ cloze_prompt.txt
+│  │   ├─ mcq_prompt.txt
+│  │   └─ math_prompt.txt
+│  │
+│  └─ utils/
+│      ├─ __init__.py
+│      └─ text.py                      # small helpers (cleaning, sentence split, hashing)
+│
+├─ worker/
+│  ├─ __init__.py
+│  └─ worker.py                        # job runner (Celery/RQ) — starts simple, can grow
+│
+├─ data/                               # local artifacts: uploaded docs, chunks, dev DB json
+├─ exports/                            # generated CSV/DOCX/offline bundles
+│
+└─ tests/
+   ├─ __init__.py
+   ├─ run_test.sh                      # curl script (PDF → deck → CSV)
+   ├─ test_ingest.py
+   ├─ test_generator.py
+   └─ test_validators.py
