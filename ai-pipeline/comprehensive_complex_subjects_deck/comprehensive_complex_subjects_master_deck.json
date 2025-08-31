@@ -1,0 +1,3128 @@
+{
+  "deck_info": {
+    "name": "Comprehensive Complex Subjects Master Deck",
+    "description": "Complete complex subjects deck covering Physics, Chemistry, Mathematics, Biology, and Computer Science",
+    "total_cards": 128,
+    "created_date": "2025-08-28T19:28:50.395181",
+    "version": "1.0"
+  },
+  "sections": {
+    "physics": {
+      "name": "Physics",
+      "cards": [
+        {
+          "front": "Define and explain: Force",
+          "back": "A push or pull that can change an object's motion. Measured in Newtons (N). Example: Gravity pulling objects toward Earth.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Mass",
+          "back": "The amount of matter in an object. Measured in kilograms (kg). Mass is constant regardless of location.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Weight",
+          "back": "The force of gravity acting on an object's mass. Weight = mass × gravitational acceleration (W = mg).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Acceleration",
+          "back": "The rate of change of velocity with time. Measured in meters per second squared (m/s²).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Momentum",
+          "back": "The product of an object's mass and velocity (p = mv). Momentum is conserved in closed systems.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Energy",
+          "back": "The ability to do work. Types include kinetic (motion), potential (position), and thermal (heat) energy.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Power",
+          "back": "The rate at which work is done or energy is transferred. Measured in Watts (W). Power = Work/Time.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Work",
+          "back": "Force applied over a distance. Work = Force × Distance × cos(θ). Measured in Joules (J).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Efficiency",
+          "back": "The ratio of useful work output to total energy input. Efficiency = (Useful Output/Total Input) × 100%.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Conservation of Energy",
+          "back": "Energy cannot be created or destroyed, only transformed from one form to another.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Temperature",
+          "back": "A measure of the average kinetic energy of particles in a substance. Measured in Kelvin (K) or Celsius (°C).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Heat",
+          "back": "Energy transferred between objects due to temperature difference. Heat flows from hot to cold objects.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Internal Energy",
+          "back": "The total energy of all particles in a system, including kinetic and potential energy.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Entropy",
+          "back": "A measure of disorder or randomness in a system. Entropy always increases in isolated systems.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: First Law of Thermodynamics",
+          "back": "Energy cannot be created or destroyed. The change in internal energy equals heat added minus work done.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Second Law of Thermodynamics",
+          "back": "Heat cannot spontaneously flow from a colder body to a hotter body. Entropy increases over time.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Wave",
+          "back": "A disturbance that transfers energy through a medium or space without transferring matter.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Amplitude",
+          "back": "The maximum displacement of a wave from its equilibrium position. Determines wave intensity.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Wavelength",
+          "back": "The distance between two consecutive points in phase on a wave (e.g., crest to crest).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Frequency",
+          "back": "The number of complete wave cycles per second. Measured in Hertz (Hz).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Wave Speed",
+          "back": "The speed at which a wave travels through a medium. Wave Speed = Frequency × Wavelength.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Interference",
+          "back": "The interaction of two or more waves. Constructive interference increases amplitude; destructive decreases it.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Electric Charge",
+          "back": "A fundamental property of matter. Like charges repel; opposite charges attract. Measured in Coulombs (C).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Electric Field",
+          "back": "A region around a charged object where other charges experience electric force. Field lines show direction.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Current",
+          "back": "The rate of flow of electric charge. Current = Charge/Time. Measured in Amperes (A).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Voltage",
+          "back": "The difference in electric potential between two points. Voltage = Work/Charge. Measured in Volts (V).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Resistance",
+          "back": "The opposition to electric current flow. Resistance = Voltage/Current. Measured in Ohms (Ω).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Ohm's Law",
+          "back": "The relationship between voltage, current, and resistance: V = IR (Voltage = Current × Resistance).",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Photoelectric Effect",
+          "back": "The emission of electrons from a metal surface when light shines on it. Supports particle nature of light.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Wave-Particle Duality",
+          "back": "The concept that light and matter exhibit both wave-like and particle-like properties.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Quantum Mechanics",
+          "back": "The branch of physics that describes the behavior of matter and energy at atomic and subatomic scales.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Relativity",
+          "back": "Einstein's theory that space and time are interconnected, and that the speed of light is constant for all observers.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Nuclear Fission",
+          "back": "The splitting of a heavy nucleus into smaller nuclei, releasing energy. Used in nuclear power plants.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define and explain: Nuclear Fusion",
+          "back": "The combining of light nuclei to form heavier nuclei, releasing energy. Powers the Sun and stars.",
+          "type": "physics",
+          "category": "physics",
+          "difficulty": "advanced",
+          "tags": [
+            "physics",
+            "science",
+            "complex"
+          ]
+        }
+      ],
+      "total_cards": 34,
+      "description": "Physical laws, mechanics, thermodynamics, waves, electricity, and modern physics"
+    },
+    "chemistry": {
+      "name": "Chemistry",
+      "cards": [
+        {
+          "front": "Explain the chemical concept: Atom",
+          "back": "The smallest unit of an element that retains the properties of that element. Consists of protons, neutrons, and electrons.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Proton",
+          "back": "Positively charged subatomic particle found in the nucleus. Determines the element's identity.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Neutron",
+          "back": "Neutrally charged subatomic particle found in the nucleus. Contributes to atomic mass.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Electron",
+          "back": "Negatively charged subatomic particle that orbits the nucleus. Participates in chemical bonding.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Atomic Number",
+          "back": "The number of protons in an atom's nucleus. Determines the element's identity.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Atomic Mass",
+          "back": "The total mass of an atom, including protons, neutrons, and electrons.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Isotope",
+          "back": "Atoms of the same element with different numbers of neutrons, resulting in different atomic masses.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Ionic Bond",
+          "back": "Chemical bond formed by the transfer of electrons from one atom to another, creating oppositely charged ions.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Covalent Bond",
+          "back": "Chemical bond formed by the sharing of electrons between atoms.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Metallic Bond",
+          "back": "Chemical bond formed by the attraction between metal cations and delocalized electrons.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Polar Bond",
+          "back": "Covalent bond where electrons are shared unequally, creating partial positive and negative charges.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Nonpolar Bond",
+          "back": "Covalent bond where electrons are shared equally between atoms.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Hydrogen Bond",
+          "back": "Weak attraction between a hydrogen atom and an electronegative atom (usually oxygen, nitrogen, or fluorine).",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Chemical Reaction",
+          "back": "Process where substances are transformed into new substances with different properties.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Reactant",
+          "back": "Substance that participates in a chemical reaction and is consumed.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Product",
+          "back": "Substance that is formed as a result of a chemical reaction.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Catalyst",
+          "back": "Substance that increases the rate of a chemical reaction without being consumed.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Enzyme",
+          "back": "Biological catalyst that speeds up biochemical reactions in living organisms.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Activation Energy",
+          "back": "Minimum energy required for a chemical reaction to occur.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Solid",
+          "back": "State of matter with definite shape and volume. Particles are closely packed and vibrate in fixed positions.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Liquid",
+          "back": "State of matter with definite volume but no definite shape. Particles are close but can move past each other.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Gas",
+          "back": "State of matter with no definite shape or volume. Particles are far apart and move freely.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Plasma",
+          "back": "State of matter where atoms are ionized and electrons are free. Found in stars and lightning.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Phase Change",
+          "back": "Transition between different states of matter (solid, liquid, gas) due to temperature or pressure changes.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Melting Point",
+          "back": "Temperature at which a solid changes to a liquid.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the chemical concept: Boiling Point",
+          "back": "Temperature at which a liquid changes to a gas.",
+          "type": "chemistry",
+          "category": "chemistry",
+          "difficulty": "advanced",
+          "tags": [
+            "chemistry",
+            "science",
+            "complex"
+          ]
+        }
+      ],
+      "total_cards": 26,
+      "description": "Atomic structure, chemical bonding, reactions, and states of matter"
+    },
+    "mathematics": {
+      "name": "Mathematics",
+      "cards": [
+        {
+          "front": "Define the mathematical concept: Variable",
+          "back": "A symbol (usually a letter) that represents an unknown value or a value that can change.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Equation",
+          "back": "A mathematical statement that two expressions are equal, containing an equals sign (=).",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Inequality",
+          "back": "A mathematical statement that two expressions are not equal, using symbols like <, >, ≤, ≥, ≠.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Function",
+          "back": "A relationship between two sets where each input has exactly one output. Often written as f(x).",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Polynomial",
+          "back": "An expression with multiple terms, each containing variables raised to whole number powers.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Quadratic Equation",
+          "back": "A polynomial equation of degree 2, in the form ax² + bx + c = 0.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Factoring",
+          "back": "The process of breaking down a polynomial into a product of simpler polynomials.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Point",
+          "back": "A location in space with no size or dimension. Represented by a dot.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Line",
+          "back": "A straight path that extends infinitely in both directions. Has length but no width.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Plane",
+          "back": "A flat surface that extends infinitely in all directions. Has length and width but no height.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Angle",
+          "back": "The figure formed by two rays sharing a common endpoint. Measured in degrees or radians.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Triangle",
+          "back": "A polygon with three sides and three angles. Sum of angles equals 180°.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Circle",
+          "back": "A set of points equidistant from a center point. Defined by radius and circumference.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Pythagorean Theorem",
+          "back": "In a right triangle, a² + b² = c², where c is the hypotenuse.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Derivative",
+          "back": "The rate of change of a function with respect to its variable. Represents slope of tangent line.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Integral",
+          "back": "The area under a curve or the accumulation of a quantity over an interval.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Limit",
+          "back": "The value that a function approaches as the input approaches a certain value.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Continuity",
+          "back": "A function is continuous if there are no breaks, jumps, or holes in its graph.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Differentiation",
+          "back": "The process of finding the derivative of a function.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Integration",
+          "back": "The process of finding the integral of a function.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Mean",
+          "back": "The average of a set of numbers, calculated by summing all values and dividing by the count.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Median",
+          "back": "The middle value in a set of numbers when arranged in order.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Mode",
+          "back": "The value that appears most frequently in a set of numbers.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Standard Deviation",
+          "back": "A measure of how spread out numbers are from the mean.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Probability",
+          "back": "The likelihood of an event occurring, expressed as a number between 0 and 1.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the mathematical concept: Correlation",
+          "back": "A measure of the strength and direction of the relationship between two variables.",
+          "type": "mathematics",
+          "category": "mathematics",
+          "difficulty": "advanced",
+          "tags": [
+            "mathematics",
+            "math",
+            "complex"
+          ]
+        }
+      ],
+      "total_cards": 26,
+      "description": "Algebra, geometry, calculus, and statistics"
+    },
+    "biology": {
+      "name": "Biology",
+      "cards": [
+        {
+          "front": "Explain the biological concept: Cell",
+          "back": "The basic unit of life. All living organisms are composed of one or more cells.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Nucleus",
+          "back": "The control center of the cell, containing DNA and regulating cell activities.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Mitochondria",
+          "back": "Organelles that produce energy through cellular respiration. Known as the 'powerhouse of the cell.'",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Chloroplast",
+          "back": "Organelles in plant cells that carry out photosynthesis, converting sunlight into chemical energy.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Cell Membrane",
+          "back": "The outer boundary of the cell that controls what enters and exits.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Cytoplasm",
+          "back": "The gel-like substance inside the cell where organelles are suspended.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: DNA",
+          "back": "Deoxyribonucleic acid, the molecule that carries genetic information in all living organisms.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Gene",
+          "back": "A segment of DNA that codes for a specific protein or trait.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Chromosome",
+          "back": "A structure made of DNA and proteins that carries genetic information.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Mutation",
+          "back": "A change in the DNA sequence that can result in different traits or genetic disorders.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Heredity",
+          "back": "The passing of traits from parents to offspring through genes.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Natural Selection",
+          "back": "The process where organisms with favorable traits are more likely to survive and reproduce.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Evolution",
+          "back": "The process of change in living organisms over time, resulting in new species.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Adaptation",
+          "back": "A trait that helps an organism survive and reproduce in its environment.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Speciation",
+          "back": "The formation of new species from existing ones through evolutionary processes.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Fossil",
+          "back": "The preserved remains or traces of ancient organisms, providing evidence of evolution.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Common Ancestor",
+          "back": "An organism from which two or more species evolved.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Extinction",
+          "back": "The complete disappearance of a species from Earth.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Ecosystem",
+          "back": "A community of living organisms interacting with their physical environment.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Food Chain",
+          "back": "A linear sequence showing how energy and nutrients flow from one organism to another.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Food Web",
+          "back": "A complex network of interconnected food chains in an ecosystem.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Biodiversity",
+          "back": "The variety of life in an ecosystem, including different species and genetic diversity.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Habitat",
+          "back": "The natural environment where an organism lives and grows.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        },
+        {
+          "front": "Explain the biological concept: Niche",
+          "back": "The role and position of an organism in its ecosystem, including its habitat and behavior.",
+          "type": "biology",
+          "category": "biology",
+          "difficulty": "advanced",
+          "tags": [
+            "biology",
+            "science",
+            "complex"
+          ]
+        }
+      ],
+      "total_cards": 24,
+      "description": "Cell biology, genetics, evolution, and ecology"
+    },
+    "computer_science": {
+      "name": "Computer Science",
+      "cards": [
+        {
+          "front": "Define the computer science concept: Algorithm",
+          "back": "A step-by-step procedure for solving a problem or accomplishing a task.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Variable",
+          "back": "A named storage location in computer memory that can hold data.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Function",
+          "back": "A reusable block of code that performs a specific task.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Loop",
+          "back": "A control structure that repeats a block of code multiple times.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Conditional",
+          "back": "A control structure that executes different code based on whether a condition is true or false.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Recursion",
+          "back": "A programming technique where a function calls itself to solve a problem.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Array",
+          "back": "A collection of elements stored at contiguous memory locations, accessible by index.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Linked List",
+          "back": "A data structure where elements are stored in nodes, each pointing to the next node.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Stack",
+          "back": "A data structure that follows Last-In-First-Out (LIFO) principle.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Queue",
+          "back": "A data structure that follows First-In-First-Out (FIFO) principle.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Tree",
+          "back": "A hierarchical data structure with nodes connected by edges, having one root node.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Graph",
+          "back": "A data structure consisting of vertices (nodes) connected by edges.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: CPU",
+          "back": "Central Processing Unit, the brain of the computer that executes instructions.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: RAM",
+          "back": "Random Access Memory, temporary storage that the CPU uses for active programs and data.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Hard Drive",
+          "back": "Permanent storage device that stores the operating system, programs, and files.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Binary",
+          "back": "A number system using only 0 and 1, the foundation of all computer operations.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Operating System",
+          "back": "Software that manages computer hardware and provides services for computer programs.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        },
+        {
+          "front": "Define the computer science concept: Compiler",
+          "back": "A program that translates source code written in a programming language into machine code.",
+          "type": "computer_science",
+          "category": "computer_science",
+          "difficulty": "advanced",
+          "tags": [
+            "computer_science",
+            "programming",
+            "complex"
+          ]
+        }
+      ],
+      "total_cards": 18,
+      "description": "Programming, data structures, and computer architecture"
+    }
+  },
+  "all_cards": [
+    {
+      "front": "Define and explain: Force",
+      "back": "A push or pull that can change an object's motion. Measured in Newtons (N). Example: Gravity pulling objects toward Earth.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Mass",
+      "back": "The amount of matter in an object. Measured in kilograms (kg). Mass is constant regardless of location.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Weight",
+      "back": "The force of gravity acting on an object's mass. Weight = mass × gravitational acceleration (W = mg).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Acceleration",
+      "back": "The rate of change of velocity with time. Measured in meters per second squared (m/s²).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Momentum",
+      "back": "The product of an object's mass and velocity (p = mv). Momentum is conserved in closed systems.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Energy",
+      "back": "The ability to do work. Types include kinetic (motion), potential (position), and thermal (heat) energy.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Power",
+      "back": "The rate at which work is done or energy is transferred. Measured in Watts (W). Power = Work/Time.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Work",
+      "back": "Force applied over a distance. Work = Force × Distance × cos(θ). Measured in Joules (J).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Efficiency",
+      "back": "The ratio of useful work output to total energy input. Efficiency = (Useful Output/Total Input) × 100%.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Conservation of Energy",
+      "back": "Energy cannot be created or destroyed, only transformed from one form to another.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Temperature",
+      "back": "A measure of the average kinetic energy of particles in a substance. Measured in Kelvin (K) or Celsius (°C).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Heat",
+      "back": "Energy transferred between objects due to temperature difference. Heat flows from hot to cold objects.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Internal Energy",
+      "back": "The total energy of all particles in a system, including kinetic and potential energy.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Entropy",
+      "back": "A measure of disorder or randomness in a system. Entropy always increases in isolated systems.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: First Law of Thermodynamics",
+      "back": "Energy cannot be created or destroyed. The change in internal energy equals heat added minus work done.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Second Law of Thermodynamics",
+      "back": "Heat cannot spontaneously flow from a colder body to a hotter body. Entropy increases over time.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Wave",
+      "back": "A disturbance that transfers energy through a medium or space without transferring matter.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Amplitude",
+      "back": "The maximum displacement of a wave from its equilibrium position. Determines wave intensity.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Wavelength",
+      "back": "The distance between two consecutive points in phase on a wave (e.g., crest to crest).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Frequency",
+      "back": "The number of complete wave cycles per second. Measured in Hertz (Hz).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Wave Speed",
+      "back": "The speed at which a wave travels through a medium. Wave Speed = Frequency × Wavelength.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Interference",
+      "back": "The interaction of two or more waves. Constructive interference increases amplitude; destructive decreases it.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Electric Charge",
+      "back": "A fundamental property of matter. Like charges repel; opposite charges attract. Measured in Coulombs (C).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Electric Field",
+      "back": "A region around a charged object where other charges experience electric force. Field lines show direction.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Current",
+      "back": "The rate of flow of electric charge. Current = Charge/Time. Measured in Amperes (A).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Voltage",
+      "back": "The difference in electric potential between two points. Voltage = Work/Charge. Measured in Volts (V).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Resistance",
+      "back": "The opposition to electric current flow. Resistance = Voltage/Current. Measured in Ohms (Ω).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Ohm's Law",
+      "back": "The relationship between voltage, current, and resistance: V = IR (Voltage = Current × Resistance).",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Photoelectric Effect",
+      "back": "The emission of electrons from a metal surface when light shines on it. Supports particle nature of light.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Wave-Particle Duality",
+      "back": "The concept that light and matter exhibit both wave-like and particle-like properties.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Quantum Mechanics",
+      "back": "The branch of physics that describes the behavior of matter and energy at atomic and subatomic scales.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Relativity",
+      "back": "Einstein's theory that space and time are interconnected, and that the speed of light is constant for all observers.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Nuclear Fission",
+      "back": "The splitting of a heavy nucleus into smaller nuclei, releasing energy. Used in nuclear power plants.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define and explain: Nuclear Fusion",
+      "back": "The combining of light nuclei to form heavier nuclei, releasing energy. Powers the Sun and stars.",
+      "type": "physics",
+      "category": "physics",
+      "difficulty": "advanced",
+      "tags": [
+        "physics",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Atom",
+      "back": "The smallest unit of an element that retains the properties of that element. Consists of protons, neutrons, and electrons.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Proton",
+      "back": "Positively charged subatomic particle found in the nucleus. Determines the element's identity.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Neutron",
+      "back": "Neutrally charged subatomic particle found in the nucleus. Contributes to atomic mass.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Electron",
+      "back": "Negatively charged subatomic particle that orbits the nucleus. Participates in chemical bonding.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Atomic Number",
+      "back": "The number of protons in an atom's nucleus. Determines the element's identity.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Atomic Mass",
+      "back": "The total mass of an atom, including protons, neutrons, and electrons.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Isotope",
+      "back": "Atoms of the same element with different numbers of neutrons, resulting in different atomic masses.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Ionic Bond",
+      "back": "Chemical bond formed by the transfer of electrons from one atom to another, creating oppositely charged ions.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Covalent Bond",
+      "back": "Chemical bond formed by the sharing of electrons between atoms.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Metallic Bond",
+      "back": "Chemical bond formed by the attraction between metal cations and delocalized electrons.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Polar Bond",
+      "back": "Covalent bond where electrons are shared unequally, creating partial positive and negative charges.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Nonpolar Bond",
+      "back": "Covalent bond where electrons are shared equally between atoms.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Hydrogen Bond",
+      "back": "Weak attraction between a hydrogen atom and an electronegative atom (usually oxygen, nitrogen, or fluorine).",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Chemical Reaction",
+      "back": "Process where substances are transformed into new substances with different properties.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Reactant",
+      "back": "Substance that participates in a chemical reaction and is consumed.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Product",
+      "back": "Substance that is formed as a result of a chemical reaction.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Catalyst",
+      "back": "Substance that increases the rate of a chemical reaction without being consumed.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Enzyme",
+      "back": "Biological catalyst that speeds up biochemical reactions in living organisms.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Activation Energy",
+      "back": "Minimum energy required for a chemical reaction to occur.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Solid",
+      "back": "State of matter with definite shape and volume. Particles are closely packed and vibrate in fixed positions.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Liquid",
+      "back": "State of matter with definite volume but no definite shape. Particles are close but can move past each other.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Gas",
+      "back": "State of matter with no definite shape or volume. Particles are far apart and move freely.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Plasma",
+      "back": "State of matter where atoms are ionized and electrons are free. Found in stars and lightning.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Phase Change",
+      "back": "Transition between different states of matter (solid, liquid, gas) due to temperature or pressure changes.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Melting Point",
+      "back": "Temperature at which a solid changes to a liquid.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the chemical concept: Boiling Point",
+      "back": "Temperature at which a liquid changes to a gas.",
+      "type": "chemistry",
+      "category": "chemistry",
+      "difficulty": "advanced",
+      "tags": [
+        "chemistry",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Variable",
+      "back": "A symbol (usually a letter) that represents an unknown value or a value that can change.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Equation",
+      "back": "A mathematical statement that two expressions are equal, containing an equals sign (=).",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Inequality",
+      "back": "A mathematical statement that two expressions are not equal, using symbols like <, >, ≤, ≥, ≠.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Function",
+      "back": "A relationship between two sets where each input has exactly one output. Often written as f(x).",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Polynomial",
+      "back": "An expression with multiple terms, each containing variables raised to whole number powers.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Quadratic Equation",
+      "back": "A polynomial equation of degree 2, in the form ax² + bx + c = 0.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Factoring",
+      "back": "The process of breaking down a polynomial into a product of simpler polynomials.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Point",
+      "back": "A location in space with no size or dimension. Represented by a dot.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Line",
+      "back": "A straight path that extends infinitely in both directions. Has length but no width.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Plane",
+      "back": "A flat surface that extends infinitely in all directions. Has length and width but no height.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Angle",
+      "back": "The figure formed by two rays sharing a common endpoint. Measured in degrees or radians.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Triangle",
+      "back": "A polygon with three sides and three angles. Sum of angles equals 180°.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Circle",
+      "back": "A set of points equidistant from a center point. Defined by radius and circumference.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Pythagorean Theorem",
+      "back": "In a right triangle, a² + b² = c², where c is the hypotenuse.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Derivative",
+      "back": "The rate of change of a function with respect to its variable. Represents slope of tangent line.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Integral",
+      "back": "The area under a curve or the accumulation of a quantity over an interval.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Limit",
+      "back": "The value that a function approaches as the input approaches a certain value.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Continuity",
+      "back": "A function is continuous if there are no breaks, jumps, or holes in its graph.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Differentiation",
+      "back": "The process of finding the derivative of a function.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Integration",
+      "back": "The process of finding the integral of a function.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Mean",
+      "back": "The average of a set of numbers, calculated by summing all values and dividing by the count.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Median",
+      "back": "The middle value in a set of numbers when arranged in order.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Mode",
+      "back": "The value that appears most frequently in a set of numbers.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Standard Deviation",
+      "back": "A measure of how spread out numbers are from the mean.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Probability",
+      "back": "The likelihood of an event occurring, expressed as a number between 0 and 1.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the mathematical concept: Correlation",
+      "back": "A measure of the strength and direction of the relationship between two variables.",
+      "type": "mathematics",
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "tags": [
+        "mathematics",
+        "math",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Cell",
+      "back": "The basic unit of life. All living organisms are composed of one or more cells.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Nucleus",
+      "back": "The control center of the cell, containing DNA and regulating cell activities.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Mitochondria",
+      "back": "Organelles that produce energy through cellular respiration. Known as the 'powerhouse of the cell.'",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Chloroplast",
+      "back": "Organelles in plant cells that carry out photosynthesis, converting sunlight into chemical energy.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Cell Membrane",
+      "back": "The outer boundary of the cell that controls what enters and exits.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Cytoplasm",
+      "back": "The gel-like substance inside the cell where organelles are suspended.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: DNA",
+      "back": "Deoxyribonucleic acid, the molecule that carries genetic information in all living organisms.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Gene",
+      "back": "A segment of DNA that codes for a specific protein or trait.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Chromosome",
+      "back": "A structure made of DNA and proteins that carries genetic information.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Mutation",
+      "back": "A change in the DNA sequence that can result in different traits or genetic disorders.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Heredity",
+      "back": "The passing of traits from parents to offspring through genes.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Natural Selection",
+      "back": "The process where organisms with favorable traits are more likely to survive and reproduce.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Evolution",
+      "back": "The process of change in living organisms over time, resulting in new species.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Adaptation",
+      "back": "A trait that helps an organism survive and reproduce in its environment.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Speciation",
+      "back": "The formation of new species from existing ones through evolutionary processes.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Fossil",
+      "back": "The preserved remains or traces of ancient organisms, providing evidence of evolution.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Common Ancestor",
+      "back": "An organism from which two or more species evolved.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Extinction",
+      "back": "The complete disappearance of a species from Earth.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Ecosystem",
+      "back": "A community of living organisms interacting with their physical environment.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Food Chain",
+      "back": "A linear sequence showing how energy and nutrients flow from one organism to another.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Food Web",
+      "back": "A complex network of interconnected food chains in an ecosystem.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Biodiversity",
+      "back": "The variety of life in an ecosystem, including different species and genetic diversity.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Habitat",
+      "back": "The natural environment where an organism lives and grows.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Explain the biological concept: Niche",
+      "back": "The role and position of an organism in its ecosystem, including its habitat and behavior.",
+      "type": "biology",
+      "category": "biology",
+      "difficulty": "advanced",
+      "tags": [
+        "biology",
+        "science",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Algorithm",
+      "back": "A step-by-step procedure for solving a problem or accomplishing a task.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Variable",
+      "back": "A named storage location in computer memory that can hold data.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Function",
+      "back": "A reusable block of code that performs a specific task.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Loop",
+      "back": "A control structure that repeats a block of code multiple times.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Conditional",
+      "back": "A control structure that executes different code based on whether a condition is true or false.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Recursion",
+      "back": "A programming technique where a function calls itself to solve a problem.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Array",
+      "back": "A collection of elements stored at contiguous memory locations, accessible by index.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Linked List",
+      "back": "A data structure where elements are stored in nodes, each pointing to the next node.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Stack",
+      "back": "A data structure that follows Last-In-First-Out (LIFO) principle.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Queue",
+      "back": "A data structure that follows First-In-First-Out (FIFO) principle.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Tree",
+      "back": "A hierarchical data structure with nodes connected by edges, having one root node.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Graph",
+      "back": "A data structure consisting of vertices (nodes) connected by edges.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: CPU",
+      "back": "Central Processing Unit, the brain of the computer that executes instructions.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: RAM",
+      "back": "Random Access Memory, temporary storage that the CPU uses for active programs and data.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Hard Drive",
+      "back": "Permanent storage device that stores the operating system, programs, and files.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Binary",
+      "back": "A number system using only 0 and 1, the foundation of all computer operations.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Operating System",
+      "back": "Software that manages computer hardware and provides services for computer programs.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    },
+    {
+      "front": "Define the computer science concept: Compiler",
+      "back": "A program that translates source code written in a programming language into machine code.",
+      "type": "computer_science",
+      "category": "computer_science",
+      "difficulty": "advanced",
+      "tags": [
+        "computer_science",
+        "programming",
+        "complex"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_cards": 128,
+    "physics_cards": 34,
+    "chemistry_cards": 26,
+    "mathematics_cards": 26,
+    "biology_cards": 24,
+    "computer_science_cards": 18
+  }
+}

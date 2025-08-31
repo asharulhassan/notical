@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "front": "What is Photoelectric Effect?",
+      "back": "The emission of electrons from a metal surface when light shines on it. Supports particle nature of light.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Wave-Particle Duality?",
+      "back": "The concept that light and matter exhibit both wave-like and particle-like properties.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Quantum Mechanics?",
+      "back": "The branch of physics that describes the behavior of matter and energy at atomic and subatomic scales.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Relativity?",
+      "back": "Einstein's theory that space and time are interconnected, and that the speed of light is constant for all observers.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Nuclear Fission?",
+      "back": "The splitting of a heavy nucleus into smaller nuclei, releasing energy. Used in nuclear power plants.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Nuclear Fusion?",
+      "back": "The combining of light nuclei to form heavier nuclei, releasing energy. Powers the Sun and stars.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Radioactivity?",
+      "back": "The spontaneous emission of radiation from unstable atomic nuclei. Types: alpha, beta, gamma decay.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Half-Life?",
+      "back": "The time required for half of a radioactive substance to decay. Each isotope has a unique half-life.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Mass-Energy Equivalence?",
+      "back": "Einstein's famous equation E = mc², showing that mass and energy are interchangeable.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    },
+    {
+      "front": "What is Dark Matter?",
+      "back": "Hypothetical matter that doesn't emit light but exerts gravitational force. Comprises most of the universe's mass.",
+      "type": "concept",
+      "subject": "Physics - Modern Physics",
+      "tags": [
+        "modern_physics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "modern_physics"
+    }
+  ],
+  "total_cards": 10,
+  "subject": "Physics - Modern Physics",
+  "type": "concept",
+  "difficulty": "advanced"
+}

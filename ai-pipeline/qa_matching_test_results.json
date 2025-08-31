@@ -1,0 +1,2506 @@
+{
+  "questions": [
+    {
+      "number": "20",
+      "content": "ages. Any blank pages are indicated.",
+      "line_number": 2,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "1",
+      "content": "ultiple Choice May/June 2022",
+      "line_number": 17,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "1",
+      "content": "our 15 minutes",
+      "line_number": 21,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "40",
+      "content": " \uf0b7",
+      "line_number": 56,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "9",
+      "content": "81 m s\u20132 speed of light in free space",
+      "line_number": 68,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "81",
+      "content": "s\u20132 speed of light in free space",
+      "line_number": 68,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "00 \uf0b4 108 m s\u20131",
+      "line_number": 70,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "1",
+      "content": "60 \uf0b4 10\u201319 C",
+      "line_number": 73,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "1",
+      "content": "66 \uf0b4 10\u201327 kg",
+      "line_number": 76,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "1",
+      "content": "= 1.66 \uf0b4 10\u201327 kg",
+      "line_number": 76,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "1",
+      "content": "67 \uf0b4 10\u201327 kg",
+      "line_number": 79,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "9",
+      "content": "11 \uf0b4 10\u201331 kg",
+      "line_number": 82,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "6",
+      "content": "02 \uf0b4 1023 mol\u20131",
+      "line_number": 85,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "8",
+      "content": "31 J K\u20131 mol\u20131",
+      "line_number": 88,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "31",
+      "content": "K\u20131 mol\u20131",
+      "line_number": 88,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "1",
+      "content": "38 \uf0b4 10\u201323 J K\u20131",
+      "line_number": 91,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "6",
+      "content": "67 \uf0b4 10\u201311 N m2",
+      "line_number": 94,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "8",
+      "content": "85 \uf0b4 10\u201312 F m\u20131",
+      "line_number": 98,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "8",
+      "content": "99 \uf0b4 109 m F\u20131)",
+      "line_number": 106,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "1",
+      "content": " Planck constant",
+      "line_number": 107,
+      "pattern_used": "(\\d+)\\)"
+    },
+    {
+      "number": "6",
+      "content": "63 \uf0b4 10\u201334 J s",
+      "line_number": 109,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "5",
+      "content": "67 \uf0b4 10\u20138 W m\u20132",
+      "line_number": 112,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "1",
+      "content": "t",
+      "line_number": 123,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "or the volume of a tennis ball",
+      "line_number": 169,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "4",
+      "content": "0 m s\u20131 to the right. The velocity of the object",
+      "line_number": 208,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "s\u20131 to the right. The velocity of the object",
+      "line_number": 208,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "0 m s\u20131 downwards, as shown.",
+      "line_number": 209,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "s\u20131 downwards, as shown.",
+      "line_number": 209,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "4",
+      "content": "0 m s\u20131 final velocity",
+      "line_number": 212,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "s\u20131 final velocity",
+      "line_number": 212,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "0 m s\u20131",
+      "line_number": 214,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "s\u20131",
+      "line_number": 214,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "12",
+      "content": ", as shown.",
+      "line_number": 233,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "4",
+      "content": "0 s to move from position P to position Q.",
+      "line_number": 235,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "to move from position P to position Q.",
+      "line_number": 235,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "12",
+      "content": " road",
+      "line_number": 239,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "4",
+      "content": "2 m s\u20131 B",
+      "line_number": 247,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "2",
+      "content": "s\u20131 B",
+      "line_number": 247,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "4",
+      "content": "7 m s\u20131 C",
+      "line_number": 249,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "7",
+      "content": "s\u20131 C",
+      "line_number": 249,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "6",
+      "content": "0 m s\u20131 D",
+      "line_number": 251,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "s\u20131 D",
+      "line_number": 251,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "14",
+      "content": "s\u20131",
+      "line_number": 253,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "78",
+      "content": "0 m below the top of the well. A person at the top of the",
+      "line_number": 257,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "below the top of the well. A person at the top of the",
+      "line_number": 257,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "330",
+      "content": "s\u20131.",
+      "line_number": 260,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "75 s B",
+      "line_number": 264,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "75",
+      "content": " B",
+      "line_number": 264,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "99 s C",
+      "line_number": 266,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "99",
+      "content": " C",
+      "line_number": 266,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "4",
+      "content": "19 s D",
+      "line_number": 268,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "19",
+      "content": " D",
+      "line_number": 268,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "4",
+      "content": "22 s",
+      "line_number": 270,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "20",
+      "content": "g stands on the rough surface of a sledge of mass 40 kg. The sledge can",
+      "line_number": 290,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "12",
+      "content": ". This causes the child and the sledge to move with equal acceleration towards the pole.",
+      "line_number": 302,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "4",
+      "content": "0 N B",
+      "line_number": 307,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": " B",
+      "line_number": 307,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "6",
+      "content": "0 N C",
+      "line_number": 309,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": " C",
+      "line_number": 309,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "8",
+      "content": "0 N D",
+      "line_number": 311,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": " D",
+      "line_number": 311,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "0",
+      "content": "nd fall vertically through the air. Both reach terminal velocity.",
+      "line_number": 318,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "10",
+      "content": "wo balls X and Y are moving towards each other with speeds of 5 m s\u20131 and 15 m s\u20131",
+      "line_number": 359,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "5",
+      "content": "s\u20131 and 15 m s\u20131 respectively.",
+      "line_number": 359,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "5",
+      "content": "s\u20131 Y",
+      "line_number": 363,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "15",
+      "content": "s\u20131",
+      "line_number": 365,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "7",
+      "content": "s\u20131.",
+      "line_number": 369,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "s\u20131 to the left B",
+      "line_number": 373,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "13",
+      "content": "s\u20131 to the left C",
+      "line_number": 375,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "3",
+      "content": "s\u20131 to the right D",
+      "line_number": 377,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "13",
+      "content": "s\u20131 to the right",
+      "line_number": 379,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "11",
+      "content": "wo forces form a couple.",
+      "line_number": 382,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "12",
+      "content": "uniform rod is attached by a hinge at one end to a wall. The other end of the rod is supported",
+      "line_number": 399,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "5",
+      "content": "0 m is hinged at one end and supported 2.0 m from this end by a spring",
+      "line_number": 417,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "13",
+      "content": "diving board of length 5.0 m is hinged at one end and supported 2.0 m from this end by a spring",
+      "line_number": 417,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "0",
+      "content": "is hinged at one end and supported 2.0 m from this end by a spring",
+      "line_number": 417,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "1",
+      "content": "A child of mass 40 kg stands at the far end of the board.",
+      "line_number": 418,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "10",
+      "content": "N m\u20131. A child of mass 40 kg stands at the far end of the board.",
+      "line_number": 418,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "40",
+      "content": "g 2.0 m",
+      "line_number": 421,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "2",
+      "content": "0 m 5.0 m",
+      "line_number": 422,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": " 5.0 m",
+      "line_number": 422,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "5",
+      "content": "0 m diving board",
+      "line_number": 423,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": " diving board",
+      "line_number": 423,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "1",
+      "content": "0 cm B",
+      "line_number": 432,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "m B",
+      "line_number": 432,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "1",
+      "content": "6 cm C",
+      "line_number": 434,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "6",
+      "content": "m C",
+      "line_number": 434,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "9",
+      "content": "8 cm D",
+      "line_number": 436,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "8",
+      "content": "m D",
+      "line_number": 436,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "16",
+      "content": "m",
+      "line_number": 438,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "14",
+      "content": "granite rock at the surface of the Earth has density \uf072. The rock is transported to the surface of",
+      "line_number": 447,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "0",
+      "content": "5\uf072 B",
+      "line_number": 455,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "15",
+      "content": "closed U-shaped tube contains a stationary liquid of density \uf072. One side of the tube contains a",
+      "line_number": 464,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "1",
+      "content": "nd the other side contains a gas at pressure p2, as shown.",
+      "line_number": 465,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "16",
+      "content": "hich product of two quantities is equal to power?",
+      "line_number": 490,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "17",
+      "content": "esearchers have developed a new type of filament lamp with an efficiency of 40%. Old-type",
+      "line_number": 505,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "5",
+      "content": "0%. The two types of lamp produce the same useful output",
+      "line_number": 506,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "13 B",
+      "line_number": 512,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "63 C",
+      "line_number": 514,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "1",
+      "content": "6 D",
+      "line_number": 516,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "8",
+      "content": "0",
+      "line_number": 518,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "18",
+      "content": "student attempts to derive the formula for kinetic energy EK. She begins by considering an",
+      "line_number": 521,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "2",
+      "content": "0 \uf0b4 1011 Pa. The wire has an",
+      "line_number": 540,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "19",
+      "content": "metal wire obeys Hooke\u2019s law and has a Young modulus of 2.0 \uf0b4 1011",
+      "line_number": 540,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "1",
+      "content": "6 m and a diameter of 0.48 \uf0b4 10\u20133",
+      "line_number": 542,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "6",
+      "content": "and a diameter of 0.48 \uf0b4 10\u20133",
+      "line_number": 542,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "7",
+      "content": "2 \uf0b4 103 N m\u20131",
+      "line_number": 547,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "2",
+      "content": "3 \uf0b4 104 N m\u20131",
+      "line_number": 550,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "2",
+      "content": "9 \uf0b4 104 N m\u20131",
+      "line_number": 553,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "9",
+      "content": "0 \uf0b4 104 N m\u20131",
+      "line_number": 556,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "20",
+      "content": "wire is being stretched by a tensile force.",
+      "line_number": 560,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "21",
+      "content": "hich statement is correct for all types of progressive wave?",
+      "line_number": 573,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "22",
+      "content": "transverse water wave is moving along the surface of some water. This causes a ball to move",
+      "line_number": 590,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "2",
+      "content": "4 m 0.70 m",
+      "line_number": 594,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "4",
+      "content": " 0.70 m",
+      "line_number": 594,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "0",
+      "content": "70 m ball",
+      "line_number": 595,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "70",
+      "content": " ball",
+      "line_number": 595,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "0",
+      "content": "20 Hz and an amplitude of 0.70 m. The distance between a trough",
+      "line_number": 603,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "20",
+      "content": "z and an amplitude of 0.70 m. The distance between a trough",
+      "line_number": 603,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "70",
+      "content": ". The distance between a trough",
+      "line_number": 603,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "2",
+      "content": "4 m.",
+      "line_number": 604,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "4",
+      "content": ".",
+      "line_number": 604,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "20",
+      "content": "? A",
+      "line_number": 606,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "5",
+      "content": "6 m B",
+      "line_number": 608,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "6",
+      "content": " B",
+      "line_number": 608,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "9",
+      "content": "6 m C",
+      "line_number": 610,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "6",
+      "content": " C",
+      "line_number": 610,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "11",
+      "content": "2 m D",
+      "line_number": 612,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "2",
+      "content": " D",
+      "line_number": 612,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "19",
+      "content": "2 m",
+      "line_number": 614,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "23",
+      "content": "sound wave travels from left to right across a room. The variation with distance across the",
+      "line_number": 617,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "24",
+      "content": "source emits a sound wave of a single frequency. The Doppler effect causes a different",
+      "line_number": 635,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "2",
+      "content": "5 \uf0b4 1014 Hz.",
+      "line_number": 653,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "25",
+      "content": "n electromagnetic wave in free space has a frequency of 2.5 \uf0b4 1014",
+      "line_number": 653,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "26",
+      "content": "wo polarising filters are placed next to each other so that their planes are parallel.",
+      "line_number": 667,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "8",
+      "content": "0 W m\u20132 is incident normally on the first polarising",
+      "line_number": 674,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "m\u20132 is incident normally on the first polarising",
+      "line_number": 674,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "2",
+      "content": "s incident normally on the first polarising",
+      "line_number": 674,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "2",
+      "content": "5 W m\u20132 C",
+      "line_number": 681,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "5",
+      "content": "m\u20132 C",
+      "line_number": 681,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "2",
+      "content": "9 W m\u20132 D",
+      "line_number": 683,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "9",
+      "content": "m\u20132 D",
+      "line_number": 683,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "6",
+      "content": "0 W m\u20132",
+      "line_number": 685,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "m\u20132",
+      "line_number": 685,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "27",
+      "content": "stationary wave on a stretched string is set up between two points P and T.",
+      "line_number": 688,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "28",
+      "content": "bar vibrates with frequency f to produce water waves in a ripple tank.",
+      "line_number": 715,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "29",
+      "content": "n outdoor concert has two large speakers beside the stage for broadcasting music.",
+      "line_number": 749,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "30",
+      "content": "he equation",
+      "line_number": 770,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "31",
+      "content": "he diagram shows a metal block.",
+      "line_number": 800,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "32",
+      "content": "he circuit diagrams show two lamps X and Y each connected to a cell. The current in lamp X is",
+      "line_number": 834,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "0",
+      "content": "50 A and its resistance is 9.6 \uf057. The current in lamp Y is 3.0 A and its resistance is 1.2 \uf057.",
+      "line_number": 835,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "50",
+      "content": "and its resistance is 9.6 \uf057. The current in lamp Y is 3.0 A and its resistance is 1.2 \uf057.",
+      "line_number": 835,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "0",
+      "content": "50 A lamp X",
+      "line_number": 837,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "50",
+      "content": " lamp X",
+      "line_number": 837,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "9",
+      "content": "6 \ufffd 3.0 A",
+      "line_number": 839,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "3",
+      "content": "0 A lamp Y",
+      "line_number": 840,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": " lamp Y",
+      "line_number": 840,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "1",
+      "content": "2 \ufffd",
+      "line_number": 842,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "22 B",
+      "line_number": 850,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "75 C",
+      "line_number": 852,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "1",
+      "content": "3 D",
+      "line_number": 854,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "4",
+      "content": "5",
+      "line_number": 856,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "33",
+      "content": "he intensity of light incident on a light-dependent resistor (LDR) is increased. The temperature",
+      "line_number": 859,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "8",
+      "content": "0 m and diameter 0.50 mm. The wire has resistance R.",
+      "line_number": 882,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "34",
+      "content": "n iron wire has length 8.0 m and diameter 0.50 mm. The wire has resistance R.",
+      "line_number": 882,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "0",
+      "content": "and diameter 0.50 mm. The wire has resistance R.",
+      "line_number": 882,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "2",
+      "content": "0 m and diameter 1.0 mm.",
+      "line_number": 884,
+      "pattern_used": "(\\d+)\\."
+    },
+    {
+      "number": "0",
+      "content": "and diameter 1.0 mm.",
+      "line_number": 884,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "35",
+      "content": "cell with constant electromotive force (e.m.f.) is connected across a fixed resistor. Over time,",
+      "line_number": 900,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "36",
+      "content": "irchhoff\u2019s first and second laws are consequences of the conservation of different quantities.",
+      "line_number": 917,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "37",
+      "content": "potentiometer circuit is used to determine the electromotive force (e.m.f.) EX of a cell. The",
+      "line_number": 940,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "0",
+      "content": "nd negligible internal resistance, and a uniform",
+      "line_number": 941,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "38",
+      "content": "n an experiment on \uf061-particle scattering, \uf061-particles are directed at a thin gold foil. Most of the",
+      "line_number": 982,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "39",
+      "content": "our nuclei are represented below.",
+      "line_number": 997,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "25",
+      "content": " 15",
+      "line_number": 1002,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "24",
+      "content": " 13",
+      "line_number": 1008,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    },
+    {
+      "number": "24",
+      "content": "rbital electrons. B",
+      "line_number": 1014,
+      "pattern_used": "(\\d+)\\s+[a-z]"
+    },
+    {
+      "number": "40",
+      "content": "neutron is composed of one up (u) quark and two down (d) quarks. When a neutron decays to",
+      "line_number": 1023,
+      "pattern_used": "(\\d+)\\s+[A-Z]"
+    }
+  ],
+  "answers": [],
+  "qa_pairs": [
+    {
+      "question_number": "20",
+      "question_content": "ages. Any blank pages are indicated.",
+      "answer_content": "No matching answer found",
+      "question_line": 2,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "ultiple Choice May/June 2022",
+      "answer_content": "No matching answer found",
+      "question_line": 17,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "our 15 minutes",
+      "answer_content": "No matching answer found",
+      "question_line": 21,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "40",
+      "question_content": " \uf0b7",
+      "answer_content": "No matching answer found",
+      "question_line": 56,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "9",
+      "question_content": "81 m s\u20132 speed of light in free space",
+      "answer_content": "No matching answer found",
+      "question_line": 68,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "81",
+      "question_content": "s\u20132 speed of light in free space",
+      "answer_content": "No matching answer found",
+      "question_line": 68,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "00 \uf0b4 108 m s\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 70,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "60 \uf0b4 10\u201319 C",
+      "answer_content": "No matching answer found",
+      "question_line": 73,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "66 \uf0b4 10\u201327 kg",
+      "answer_content": "No matching answer found",
+      "question_line": 76,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "= 1.66 \uf0b4 10\u201327 kg",
+      "answer_content": "No matching answer found",
+      "question_line": 76,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "67 \uf0b4 10\u201327 kg",
+      "answer_content": "No matching answer found",
+      "question_line": 79,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "9",
+      "question_content": "11 \uf0b4 10\u201331 kg",
+      "answer_content": "No matching answer found",
+      "question_line": 82,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "02 \uf0b4 1023 mol\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 85,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "31 J K\u20131 mol\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 88,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "31",
+      "question_content": "K\u20131 mol\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 88,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "38 \uf0b4 10\u201323 J K\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 91,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "67 \uf0b4 10\u201311 N m2",
+      "answer_content": "No matching answer found",
+      "question_line": 94,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "85 \uf0b4 10\u201312 F m\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 98,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "99 \uf0b4 109 m F\u20131)",
+      "answer_content": "No matching answer found",
+      "question_line": 106,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": " Planck constant",
+      "answer_content": "No matching answer found",
+      "question_line": 107,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "63 \uf0b4 10\u201334 J s",
+      "answer_content": "No matching answer found",
+      "question_line": 109,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "67 \uf0b4 10\u20138 W m\u20132",
+      "answer_content": "No matching answer found",
+      "question_line": 112,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "t",
+      "answer_content": "No matching answer found",
+      "question_line": 123,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "or the volume of a tennis ball",
+      "answer_content": "No matching answer found",
+      "question_line": 169,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "0 m s\u20131 to the right. The velocity of the object",
+      "answer_content": "No matching answer found",
+      "question_line": 208,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "s\u20131 to the right. The velocity of the object",
+      "answer_content": "No matching answer found",
+      "question_line": 208,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "0 m s\u20131 downwards, as shown.",
+      "answer_content": "No matching answer found",
+      "question_line": 209,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "s\u20131 downwards, as shown.",
+      "answer_content": "No matching answer found",
+      "question_line": 209,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "0 m s\u20131 final velocity",
+      "answer_content": "No matching answer found",
+      "question_line": 212,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "s\u20131 final velocity",
+      "answer_content": "No matching answer found",
+      "question_line": 212,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "0 m s\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 214,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "s\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 214,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "12",
+      "question_content": ", as shown.",
+      "answer_content": "No matching answer found",
+      "question_line": 233,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "0 s to move from position P to position Q.",
+      "answer_content": "No matching answer found",
+      "question_line": 235,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "to move from position P to position Q.",
+      "answer_content": "No matching answer found",
+      "question_line": 235,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "12",
+      "question_content": " road",
+      "answer_content": "No matching answer found",
+      "question_line": 239,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "2 m s\u20131 B",
+      "answer_content": "No matching answer found",
+      "question_line": 247,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "s\u20131 B",
+      "answer_content": "No matching answer found",
+      "question_line": 247,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "7 m s\u20131 C",
+      "answer_content": "No matching answer found",
+      "question_line": 249,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "7",
+      "question_content": "s\u20131 C",
+      "answer_content": "No matching answer found",
+      "question_line": 249,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "0 m s\u20131 D",
+      "answer_content": "No matching answer found",
+      "question_line": 251,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "s\u20131 D",
+      "answer_content": "No matching answer found",
+      "question_line": 251,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "14",
+      "question_content": "s\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 253,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "78",
+      "question_content": "0 m below the top of the well. A person at the top of the",
+      "answer_content": "No matching answer found",
+      "question_line": 257,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "below the top of the well. A person at the top of the",
+      "answer_content": "No matching answer found",
+      "question_line": 257,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "330",
+      "question_content": "s\u20131.",
+      "answer_content": "No matching answer found",
+      "question_line": 260,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "75 s B",
+      "answer_content": "No matching answer found",
+      "question_line": 264,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "75",
+      "question_content": " B",
+      "answer_content": "No matching answer found",
+      "question_line": 264,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "99 s C",
+      "answer_content": "No matching answer found",
+      "question_line": 266,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "99",
+      "question_content": " C",
+      "answer_content": "No matching answer found",
+      "question_line": 266,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "19 s D",
+      "answer_content": "No matching answer found",
+      "question_line": 268,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "19",
+      "question_content": " D",
+      "answer_content": "No matching answer found",
+      "question_line": 268,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "22 s",
+      "answer_content": "No matching answer found",
+      "question_line": 270,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "20",
+      "question_content": "g stands on the rough surface of a sledge of mass 40 kg. The sledge can",
+      "answer_content": "No matching answer found",
+      "question_line": 290,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "12",
+      "question_content": ". This causes the child and the sledge to move with equal acceleration towards the pole.",
+      "answer_content": "No matching answer found",
+      "question_line": 302,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "0 N B",
+      "answer_content": "No matching answer found",
+      "question_line": 307,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": " B",
+      "answer_content": "No matching answer found",
+      "question_line": 307,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "0 N C",
+      "answer_content": "No matching answer found",
+      "question_line": 309,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": " C",
+      "answer_content": "No matching answer found",
+      "question_line": 309,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "0 N D",
+      "answer_content": "No matching answer found",
+      "question_line": 311,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": " D",
+      "answer_content": "No matching answer found",
+      "question_line": 311,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "nd fall vertically through the air. Both reach terminal velocity.",
+      "answer_content": "No matching answer found",
+      "question_line": 318,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "10",
+      "question_content": "wo balls X and Y are moving towards each other with speeds of 5 m s\u20131 and 15 m s\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 359,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "s\u20131 and 15 m s\u20131 respectively.",
+      "answer_content": "No matching answer found",
+      "question_line": 359,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "s\u20131 Y",
+      "answer_content": "No matching answer found",
+      "question_line": 363,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "15",
+      "question_content": "s\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 365,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "7",
+      "question_content": "s\u20131.",
+      "answer_content": "No matching answer found",
+      "question_line": 369,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "s\u20131 to the left B",
+      "answer_content": "No matching answer found",
+      "question_line": 373,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "13",
+      "question_content": "s\u20131 to the left C",
+      "answer_content": "No matching answer found",
+      "question_line": 375,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "s\u20131 to the right D",
+      "answer_content": "No matching answer found",
+      "question_line": 377,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "13",
+      "question_content": "s\u20131 to the right",
+      "answer_content": "No matching answer found",
+      "question_line": 379,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "11",
+      "question_content": "wo forces form a couple.",
+      "answer_content": "No matching answer found",
+      "question_line": 382,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "12",
+      "question_content": "uniform rod is attached by a hinge at one end to a wall. The other end of the rod is supported",
+      "answer_content": "No matching answer found",
+      "question_line": 399,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "0 m is hinged at one end and supported 2.0 m from this end by a spring",
+      "answer_content": "No matching answer found",
+      "question_line": 417,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "13",
+      "question_content": "diving board of length 5.0 m is hinged at one end and supported 2.0 m from this end by a spring",
+      "answer_content": "No matching answer found",
+      "question_line": 417,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "is hinged at one end and supported 2.0 m from this end by a spring",
+      "answer_content": "No matching answer found",
+      "question_line": 417,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "A child of mass 40 kg stands at the far end of the board.",
+      "answer_content": "No matching answer found",
+      "question_line": 418,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "10",
+      "question_content": "N m\u20131. A child of mass 40 kg stands at the far end of the board.",
+      "answer_content": "No matching answer found",
+      "question_line": 418,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "40",
+      "question_content": "g 2.0 m",
+      "answer_content": "No matching answer found",
+      "question_line": 421,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "0 m 5.0 m",
+      "answer_content": "No matching answer found",
+      "question_line": 422,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": " 5.0 m",
+      "answer_content": "No matching answer found",
+      "question_line": 422,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "0 m diving board",
+      "answer_content": "No matching answer found",
+      "question_line": 423,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": " diving board",
+      "answer_content": "No matching answer found",
+      "question_line": 423,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "0 cm B",
+      "answer_content": "No matching answer found",
+      "question_line": 432,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "m B",
+      "answer_content": "No matching answer found",
+      "question_line": 432,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "6 cm C",
+      "answer_content": "No matching answer found",
+      "question_line": 434,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "m C",
+      "answer_content": "No matching answer found",
+      "question_line": 434,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "9",
+      "question_content": "8 cm D",
+      "answer_content": "No matching answer found",
+      "question_line": 436,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "m D",
+      "answer_content": "No matching answer found",
+      "question_line": 436,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "16",
+      "question_content": "m",
+      "answer_content": "No matching answer found",
+      "question_line": 438,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "14",
+      "question_content": "granite rock at the surface of the Earth has density \uf072. The rock is transported to the surface of",
+      "answer_content": "No matching answer found",
+      "question_line": 447,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "5\uf072 B",
+      "answer_content": "No matching answer found",
+      "question_line": 455,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "15",
+      "question_content": "closed U-shaped tube contains a stationary liquid of density \uf072. One side of the tube contains a",
+      "answer_content": "No matching answer found",
+      "question_line": 464,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "nd the other side contains a gas at pressure p2, as shown.",
+      "answer_content": "No matching answer found",
+      "question_line": 465,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "16",
+      "question_content": "hich product of two quantities is equal to power?",
+      "answer_content": "No matching answer found",
+      "question_line": 490,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "17",
+      "question_content": "esearchers have developed a new type of filament lamp with an efficiency of 40%. Old-type",
+      "answer_content": "No matching answer found",
+      "question_line": 505,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "0%. The two types of lamp produce the same useful output",
+      "answer_content": "No matching answer found",
+      "question_line": 506,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "13 B",
+      "answer_content": "No matching answer found",
+      "question_line": 512,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "63 C",
+      "answer_content": "No matching answer found",
+      "question_line": 514,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "6 D",
+      "answer_content": "No matching answer found",
+      "question_line": 516,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "0",
+      "answer_content": "No matching answer found",
+      "question_line": 518,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "18",
+      "question_content": "student attempts to derive the formula for kinetic energy EK. She begins by considering an",
+      "answer_content": "No matching answer found",
+      "question_line": 521,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "0 \uf0b4 1011 Pa. The wire has an",
+      "answer_content": "No matching answer found",
+      "question_line": 540,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "19",
+      "question_content": "metal wire obeys Hooke\u2019s law and has a Young modulus of 2.0 \uf0b4 1011",
+      "answer_content": "No matching answer found",
+      "question_line": 540,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "6 m and a diameter of 0.48 \uf0b4 10\u20133",
+      "answer_content": "No matching answer found",
+      "question_line": 542,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "and a diameter of 0.48 \uf0b4 10\u20133",
+      "answer_content": "No matching answer found",
+      "question_line": 542,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "7",
+      "question_content": "2 \uf0b4 103 N m\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 547,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "3 \uf0b4 104 N m\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 550,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "9 \uf0b4 104 N m\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 553,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "9",
+      "question_content": "0 \uf0b4 104 N m\u20131",
+      "answer_content": "No matching answer found",
+      "question_line": 556,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "20",
+      "question_content": "wire is being stretched by a tensile force.",
+      "answer_content": "No matching answer found",
+      "question_line": 560,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "21",
+      "question_content": "hich statement is correct for all types of progressive wave?",
+      "answer_content": "No matching answer found",
+      "question_line": 573,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "22",
+      "question_content": "transverse water wave is moving along the surface of some water. This causes a ball to move",
+      "answer_content": "No matching answer found",
+      "question_line": 590,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "4 m 0.70 m",
+      "answer_content": "No matching answer found",
+      "question_line": 594,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": " 0.70 m",
+      "answer_content": "No matching answer found",
+      "question_line": 594,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "70 m ball",
+      "answer_content": "No matching answer found",
+      "question_line": 595,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "70",
+      "question_content": " ball",
+      "answer_content": "No matching answer found",
+      "question_line": 595,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "20 Hz and an amplitude of 0.70 m. The distance between a trough",
+      "answer_content": "No matching answer found",
+      "question_line": 603,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "20",
+      "question_content": "z and an amplitude of 0.70 m. The distance between a trough",
+      "answer_content": "No matching answer found",
+      "question_line": 603,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "70",
+      "question_content": ". The distance between a trough",
+      "answer_content": "No matching answer found",
+      "question_line": 603,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "4 m.",
+      "answer_content": "No matching answer found",
+      "question_line": 604,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": ".",
+      "answer_content": "No matching answer found",
+      "question_line": 604,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "20",
+      "question_content": "? A",
+      "answer_content": "No matching answer found",
+      "question_line": 606,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "6 m B",
+      "answer_content": "No matching answer found",
+      "question_line": 608,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": " B",
+      "answer_content": "No matching answer found",
+      "question_line": 608,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "9",
+      "question_content": "6 m C",
+      "answer_content": "No matching answer found",
+      "question_line": 610,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": " C",
+      "answer_content": "No matching answer found",
+      "question_line": 610,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "11",
+      "question_content": "2 m D",
+      "answer_content": "No matching answer found",
+      "question_line": 612,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": " D",
+      "answer_content": "No matching answer found",
+      "question_line": 612,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "19",
+      "question_content": "2 m",
+      "answer_content": "No matching answer found",
+      "question_line": 614,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "23",
+      "question_content": "sound wave travels from left to right across a room. The variation with distance across the",
+      "answer_content": "No matching answer found",
+      "question_line": 617,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "24",
+      "question_content": "source emits a sound wave of a single frequency. The Doppler effect causes a different",
+      "answer_content": "No matching answer found",
+      "question_line": 635,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "5 \uf0b4 1014 Hz.",
+      "answer_content": "No matching answer found",
+      "question_line": 653,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "25",
+      "question_content": "n electromagnetic wave in free space has a frequency of 2.5 \uf0b4 1014",
+      "answer_content": "No matching answer found",
+      "question_line": 653,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "26",
+      "question_content": "wo polarising filters are placed next to each other so that their planes are parallel.",
+      "answer_content": "No matching answer found",
+      "question_line": 667,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "0 W m\u20132 is incident normally on the first polarising",
+      "answer_content": "No matching answer found",
+      "question_line": 674,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "m\u20132 is incident normally on the first polarising",
+      "answer_content": "No matching answer found",
+      "question_line": 674,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "s incident normally on the first polarising",
+      "answer_content": "No matching answer found",
+      "question_line": 674,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "5 W m\u20132 C",
+      "answer_content": "No matching answer found",
+      "question_line": 681,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "5",
+      "question_content": "m\u20132 C",
+      "answer_content": "No matching answer found",
+      "question_line": 681,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "9 W m\u20132 D",
+      "answer_content": "No matching answer found",
+      "question_line": 683,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "9",
+      "question_content": "m\u20132 D",
+      "answer_content": "No matching answer found",
+      "question_line": 683,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "6",
+      "question_content": "0 W m\u20132",
+      "answer_content": "No matching answer found",
+      "question_line": 685,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "m\u20132",
+      "answer_content": "No matching answer found",
+      "question_line": 685,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "27",
+      "question_content": "stationary wave on a stretched string is set up between two points P and T.",
+      "answer_content": "No matching answer found",
+      "question_line": 688,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "28",
+      "question_content": "bar vibrates with frequency f to produce water waves in a ripple tank.",
+      "answer_content": "No matching answer found",
+      "question_line": 715,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "29",
+      "question_content": "n outdoor concert has two large speakers beside the stage for broadcasting music.",
+      "answer_content": "No matching answer found",
+      "question_line": 749,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "30",
+      "question_content": "he equation",
+      "answer_content": "No matching answer found",
+      "question_line": 770,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "31",
+      "question_content": "he diagram shows a metal block.",
+      "answer_content": "No matching answer found",
+      "question_line": 800,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "32",
+      "question_content": "he circuit diagrams show two lamps X and Y each connected to a cell. The current in lamp X is",
+      "answer_content": "No matching answer found",
+      "question_line": 834,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "50 A and its resistance is 9.6 \uf057. The current in lamp Y is 3.0 A and its resistance is 1.2 \uf057.",
+      "answer_content": "No matching answer found",
+      "question_line": 835,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "50",
+      "question_content": "and its resistance is 9.6 \uf057. The current in lamp Y is 3.0 A and its resistance is 1.2 \uf057.",
+      "answer_content": "No matching answer found",
+      "question_line": 835,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "50 A lamp X",
+      "answer_content": "No matching answer found",
+      "question_line": 837,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "50",
+      "question_content": " lamp X",
+      "answer_content": "No matching answer found",
+      "question_line": 837,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "9",
+      "question_content": "6 \ufffd 3.0 A",
+      "answer_content": "No matching answer found",
+      "question_line": 839,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "question_content": "0 A lamp Y",
+      "answer_content": "No matching answer found",
+      "question_line": 840,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": " lamp Y",
+      "answer_content": "No matching answer found",
+      "question_line": 840,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "2 \ufffd",
+      "answer_content": "No matching answer found",
+      "question_line": 842,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "22 B",
+      "answer_content": "No matching answer found",
+      "question_line": 850,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "75 C",
+      "answer_content": "No matching answer found",
+      "question_line": 852,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "question_content": "3 D",
+      "answer_content": "No matching answer found",
+      "question_line": 854,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "4",
+      "question_content": "5",
+      "answer_content": "No matching answer found",
+      "question_line": 856,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "33",
+      "question_content": "he intensity of light incident on a light-dependent resistor (LDR) is increased. The temperature",
+      "answer_content": "No matching answer found",
+      "question_line": 859,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "8",
+      "question_content": "0 m and diameter 0.50 mm. The wire has resistance R.",
+      "answer_content": "No matching answer found",
+      "question_line": 882,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "34",
+      "question_content": "n iron wire has length 8.0 m and diameter 0.50 mm. The wire has resistance R.",
+      "answer_content": "No matching answer found",
+      "question_line": 882,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "and diameter 0.50 mm. The wire has resistance R.",
+      "answer_content": "No matching answer found",
+      "question_line": 882,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "question_content": "0 m and diameter 1.0 mm.",
+      "answer_content": "No matching answer found",
+      "question_line": 884,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "and diameter 1.0 mm.",
+      "answer_content": "No matching answer found",
+      "question_line": 884,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "35",
+      "question_content": "cell with constant electromotive force (e.m.f.) is connected across a fixed resistor. Over time,",
+      "answer_content": "No matching answer found",
+      "question_line": 900,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "36",
+      "question_content": "irchhoff\u2019s first and second laws are consequences of the conservation of different quantities.",
+      "answer_content": "No matching answer found",
+      "question_line": 917,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "37",
+      "question_content": "potentiometer circuit is used to determine the electromotive force (e.m.f.) EX of a cell. The",
+      "answer_content": "No matching answer found",
+      "question_line": 940,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "0",
+      "question_content": "nd negligible internal resistance, and a uniform",
+      "answer_content": "No matching answer found",
+      "question_line": 941,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "38",
+      "question_content": "n an experiment on \uf061-particle scattering, \uf061-particles are directed at a thin gold foil. Most of the",
+      "answer_content": "No matching answer found",
+      "question_line": 982,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "39",
+      "question_content": "our nuclei are represented below.",
+      "answer_content": "No matching answer found",
+      "question_line": 997,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "25",
+      "question_content": " 15",
+      "answer_content": "No matching answer found",
+      "question_line": 1002,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "24",
+      "question_content": " 13",
+      "answer_content": "No matching answer found",
+      "question_line": 1008,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "24",
+      "question_content": "rbital electrons. B",
+      "answer_content": "No matching answer found",
+      "question_line": 1014,
+      "answer_line": null,
+      "confidence": "low"
+    },
+    {
+      "question_number": "40",
+      "question_content": "neutron is composed of one up (u) quark and two down (d) quarks. When a neutron decays to",
+      "answer_content": "No matching answer found",
+      "question_line": 1023,
+      "answer_line": null,
+      "confidence": "low"
+    }
+  ],
+  "summary": {
+    "total_pairs": 178,
+    "high_confidence": 0,
+    "medium_confidence": 0,
+    "low_confidence": 178,
+    "success_rate": 0.0
+  }
+}

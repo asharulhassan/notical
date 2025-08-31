@@ -1,0 +1,282 @@
+{
+  "paper_info": {
+    "question_paper": "9702_s22_qp_22.pdf",
+    "mark_scheme": "9702_s22_ms_22.pdf",
+    "total_questions": 6,
+    "total_answers": 38,
+    "matched_pairs": 0
+  },
+  "theory_questions": [
+    {
+      "question_number": "1",
+      "part": "",
+      "question_text": "1 hour 15 minutes You must answer on the question paper. No additional materials are needed. INSTRUCTIONS ● Answer all questions. ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs. ● Write your name, centre number and candidate number in the boxes at the top of the page. ● Write your answer to each question in the space provided. ● Do not use an erasable pen or correction fluid. ● Do not write on any bar codes. ● You may use a calculator. ● You should show all your working and use appropriate units. INFORMATION ● The total mark for this paper is 60. ● The number of marks for each question or part question is shown in brackets [ ]. 2 9702/22/M/J/22 © UCLES 2022 Data acceleration of free fall g� =� 9.81 m s–2 speed�of�light�in�free�space�� c = 3.00 × 108 m s–1 elementary�charge�� e = 1.60 × 10–19 C unified�atomic�mass�unit��",
+      "line_number": 51
+    },
+    {
+      "question_number": "1",
+      "part": "",
+      "question_text": "1 u� =� 1.66�× 10–27 kg rest�mass�of�proton�� mp = 1.67 × 10–27 kg rest�mass�of�electron�� me = 9.11 × 10–31 kg Avogadro�constant�� NA = 6.02 × 1023 mol–1 molar�gas�constant�� R� =� 8.31 J K–1 mol–1 Boltzmann�constant�� k = 1.38 × 10–23 J K–1 gravitational�constant�� G = 6.67 × 10–11 N m2 kg–2 permittivity�of�free�space�� ε0 = 8.85 × 10–12 F m–1  (4 1 0 rf = 8.99 × 109 m F–1) Planck�constant�� h = 6.63 × 10–34 J s Stefan–Boltzmann�constant�� σ = 5.67 × 10–8 W m–2 K–4 Formulae uniformly�accelerated�motion� s = ut + 2",
+      "line_number": 90
+    },
+    {
+      "question_number": "1",
+      "part": "",
+      "question_text": "1 at 2  v 2 = u 2 + 2as hydrostatic�pressure� ∆p = ρg∆h upthrust� F = ρgV Doppler�effect�for�sound�waves� fo = v v f v s s ! electric current I = Anvq resistors�in�series� R = R1 + R2 + ... resistors�in�parallel� R 1 = R 1 1 + R 1 2 + ... 3 9702/22/M/J/22 © UCLES 2022 [Turn over BLANK PAGE 4 9702/22/M/J/22 © UCLES 2022 1 (a) In the following list, underline all units that are SI base units.   ampere   degree Celsius   kilogram   newton [1]  (b) Fig. 1.1 shows a horizontal beam clamped at one end with a block attached to the other end. block clamp beam direction of oscillations Fig. 1.1   The block is made to oscillate vertically.   The Young modulus E of the material of the beam is given by E = kM T2   where M is the mass of the block,    T is the period of the oscillations   and k is a constant.   A student determines the values and percentage uncertainties of k, M and T.   Table 1.1 lists the percentage uncertainties. Table 1.1 quantity percentage uncertainty k ± 2.1% M ± 0.6% T ± 1.5%   The student uses the values of k, M and T to calculate the value of E as 8.245 × 109 Pa.   (i) Calculate the percentage uncertainty in the value of E.  percentage uncertainty =  ..................................................... % [2] 5 9702/22/M/J/22 © UCLES 2022 [Turn over   (ii)  Use your answer in (b)(i) to determine the value of E, with its absolute uncertainty, to an appropriate number of significant figures.  E = (..................................... ± .....................................) × 109 Pa [2]  [Total: 5] 6 9702/22/M/J/22 © UCLES 2022 2 A sphere is attached by a metal wire to the horizontal surface at the bottom of a river, as shown in Fig. 2.1. 68° direction of flow of water wire sphere water horizontal surface Fig. 2.1 (not to scale)  The sphere is fully submerged and in equilibrium, with the wire at an angle of 68° to the horizontal surface. The weight of the sphere is 32 N. The upthrust acting on the sphere is 280 N. The density of the water is 1.0 × 103 kg m–3.  Assume that the force on the sphere due to the water flow is in a horizontal direction.  (a) By considering the components of force in the vertical direction, determine the tension in the wire.  tension =  .....................................................  N [2]  (b) For the sphere, calculate:   (i)  the volume  volume =  .................................................... m3 [1]   (ii) the density.  density =  .............................................. kg m–3 [2] 7 9702/22/M/J/22 © UCLES 2022 [Turn over  (c) The centre of the sphere is initially at a height of 6.2 m above the horizontal surface. The speed of the water then increases, causing the sphere to move to a different position. This movement of the sphere causes its gravitational potential energy to decrease by 77 J.   Calculate the final height of the centre of the sphere above the horizontal surface.  height =  ..................................................... m [3]  (d) The extension of the wire increases when the sphere changes position as described in (c). The wire obeys Hooke’s law.   (i) State a symbol equation that gives the relationship between the tension T in the wire and its extension x. Identify any other symbol that you use. ........................................................................................................................................... ..................................................................................................................................... [1]   (ii) Before the sphere changed position, the initial elastic potential energy of the wire was 0.65 J. The change in position of the sphere causes the extension of the wire to double.   Calculate the final elastic potential energy of the wire after the sphere has changed position.  final elastic potential energy =  ......................................................  J [2]  [Total: 11] 8 9702/22/M/J/22 © UCLES 2022 3 A man standing on a wall throws a small ball vertically upwards with a velocity of 5.6 m s–1. The ball leaves his hand when it is at a height of 3.1 m above the ground, as shown in Fig. 3.1. 3.1 m velocity 5.6 m s–1 wall man ball ground Fig. 3.1 (not to scale)  Assume that air resistance is negligible.  (a) Show that the ball reaches a maximum height above the ground of 4.7 m.  [2]  (b) The man does not catch the ball as it falls.   Calculate the time taken for the ball to fall from its maximum height to the ground.  time taken =  ......................................................  s [2] 9 9702/22/M/J/22 © UCLES 2022 [Turn over  (c) The ball leaves the man’s hand at time t = 0 and hits the ground at time t = T.   On Fig. 3.2, sketch a graph to show the variation of the velocity v of the ball with time t from t = 0 to t = T. Numerical values of v and t are not required. Assume that v is positive in the upward direction. 0 t T v 0 Fig. 3.2  [3]  (d) State what is represented by the gradient of the graph in (c). ............................................................................................................................................. [1]  (e) The man now throws a second ball with the same velocity and from the same height as the first ball. The mass of the second ball is greater than that of the first ball. Assume that air resistance is still negligible.   For the first and second balls, compare:   (i) the magnitudes of their accelerations ..................................................................................................................................... [1]   (ii) the speeds with which they hit the ground. ..................................................................................................................................... [1]  [Total: 10] 10 9702/22/M/J/22 © UCLES 2022 4 (a) State the principle of conservation of momentum. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) Two balls, X and Y, move along a horizontal frictionless surface, as shown from above in Fig. 4.1. X Y A B A B 3.0 kg 4.0 m s–1 3.7 m s–1 4.8 m s–1 2.5 kg θ θ X Y before collision after collision  Fig. 4.1 (not to scale) Fig. 4.2 (not to scale)   Ball X has a mass of 3.0 kg and a velocity of 4.0 m s–1 in a direction at angle θ to a line AB. Ball Y has a mass of 2.5 kg and a velocity of 4.8 m s–1 in a direction at angle θ to the line AB.   The balls collide and stick together. After colliding, the balls have a velocity of 3.7 m s–1 along the line AB on the horizontal surface, as shown in Fig. 4.2.   (i) By considering the components of the momenta along the line AB, calculate θ.  θ =  ....................................................... ° [3] 11 9702/22/M/J/22 © UCLES 2022 [Turn over   (ii)  By calculation of kinetic energies, state and explain whether the collision of the balls is inelastic or perfectly elastic. ........................................................................................................................................... ..................................................................................................................................... [2]  [Total: 7] 12 9702/22/M/J/22 © UCLES 2022 5 Light from a laser is used to produce an interference pattern on a screen, as shown in Fig. 5.1. light of wavelength",
+      "line_number": 401
+    },
+    {
+      "question_number": "660",
+      "part": "",
+      "question_text": "660 nm O P Q R 0.44 mm 1.8 m double slit screen central bright fringe dark fringe bright fringe dark fringe Fig. 5.1 (not to scale)  The light of wavelength 660 nm is incident normally on two slits that have a separation of 0.44 mm. The double slit is parallel to the screen. The perpendicular distance between the double slit and the screen is 1.8 m.  The central bright fringe on the screen is formed at point O. The next dark fringe below point O is formed at point P. The next bright fringe and the next dark fringe below point P are formed at points Q and R respectively.  (a) The light waves from the two slits are coherent.   State what is meant by coherent. ................................................................................................................................................... ............................................................................................................................................. [1]  (b) For the two light waves superposing at R, calculate:   (i) the difference in their path lengths, in nm, from the slits  path difference =  ................................................... nm [1]   (ii) their phase difference.  phase difference =  ....................................................... ° [1]  13 9702/22/M/J/22 © UCLES 2022 [Turn over  (c) Calculate the distance OQ.  distance OQ =  ..................................................... m [3]  (d) The intensity of the light incident on the double slit is increased without changing the frequency.   Describe how the appearance of the fringes after this change is different from, and similar to, their appearance before the change. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [3]  (e) The light of wavelength 660 nm is now replaced by blue light from a laser.   State and explain the change, if any, that must be made to the separation of the two slits so that the fringe separation on the screen is the same as it was for light of wavelength 660 nm. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  [Total: 11] 14 9702/22/M/J/22 © UCLES 2022 6 (a) A network of three resistors of resistances R1, R2 and R3 is shown in Fig. 6.1. R1 V1 I R2 V2 V R3 V3 Fig. 6.1   The individual potential differences across the resistors are V1, V2 and V3. The current in the combination of resistors is I and the total potential difference across the combination is V.   Show that the combined resistance R of the network is given by R = R1 + R2 + R3.  [2]  (b) A battery of electromotive force (e.m.f.) 8.0 V and negligible internal resistance is connected to a thermistor, a switch X and two fixed resistors, as shown in Fig. 6.2. 8.0 V 6.0 kΩ 4.0 kΩ R2 R1 X Fig. 6.2   Resistor R1 has resistance 6.0 kΩ and resistor R2 has resistance 4.0 kΩ. 15 9702/22/M/J/22 © UCLES 2022 [Turn over   (i) Switch X is open.   Calculate the potential difference across R1.  potential difference =  ...................................................... V [2]   (ii) Switch X is now closed. The resistance of the thermistor is 12.0 kΩ.   Calculate the current in the battery.  current =  ...................................................... A [2]  (c) The switch X in the circuit in (b) remains closed. The temperature of the thermistor decreases.   By reference to the current in the battery, state and explain the effect, if any, of the decrease in temperature on the power produced by the battery. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [3]  [Total: 9] 16 9702/22/M/J/22 © UCLES 2022 7 (a) A nucleus of caesium-137 (137",
+      "line_number": 551
+    },
+    {
+      "question_number": "55",
+      "part": "",
+      "question_text": "55Cs) decays by emitting a β– particle to produce a nucleus of an element X and an antineutrino. The decay is represented by 137",
+      "line_number": 554
+    },
+    {
+      "question_number": "55",
+      "part": "",
+      "question_text": "55Cs Q SX  +  P R β–  +  0 0ν.   (i) State the number represented by each of the following letters.    P .......................    Q .......................    R .......................    S .......................  [2]   (ii) State the name of the class (group) of particles that includes the β– particle and the antineutrino. ..................................................................................................................................... [1]  (b) A particle Y has a quark composition of ddd where d represents a down quark.   A particle Z has a quark composition of u̅ d where u̅  represents an up antiquark.   (i) Show that the charges of particles Y and Z are equal.  [2]   (ii) State and explain which particle is a meson and which particle is a baryon. meson:  .............................................................................................................................. ........................................................................................................................................... baryon:  .............................................................................................................................. ...........................................................................................................................................  [2]  [Total: 7] Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.",
+      "line_number": 615
+    }
+  ],
+  "mark_scheme_answers": [
+    {
+      "question_number": "1",
+      "part": "a",
+      "answer_text": "1(a) only ampere and kilogram underlined B1",
+      "line_number": 279
+    },
+    {
+      "question_number": "1",
+      "part": "b",
+      "answer_text": "1(b)(i) percentage uncertainty  = 2.1 + 0.6 + (1.5  2) C1   = 5.7% A1",
+      "line_number": 286
+    },
+    {
+      "question_number": "1",
+      "part": "b",
+      "answer_text": "1(b)(ii) absolute uncertainty = (5.7 / 100)  8.245  109  ( = 4.7  108 Pa  or  0.47  109 Pa) C1  E = (8.2 ± 0.5)  109 Pa A1    Question Answer Marks",
+      "line_number": 301
+    },
+    {
+      "question_number": "2",
+      "part": "a",
+      "answer_text": "2(a) T sin 68° + 32 = 280 C1  T = 270 N A1",
+      "line_number": 307
+    },
+    {
+      "question_number": "2",
+      "part": "b",
+      "answer_text": "2(b)(i) F = gV  V = 280 / (1.0  103  9.81)  = 0.029 m3 A1",
+      "line_number": 314
+    },
+    {
+      "question_number": "2",
+      "part": "b",
+      "answer_text": "2(b)(ii)  = (32 / 9.81) / 0.029 C1  = 110 kg m–3 A1 9702/22 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 8 of 14   Question Answer Marks",
+      "line_number": 332
+    },
+    {
+      "question_number": "2",
+      "part": "c",
+      "answer_text": "2(c) (∆)E = mg(∆)h  or  (∆)E = W(∆)h C1  (∆)h = (–) 77 / 32 C1  (∆)h = (–) 2.4  final height = 6.2 – 2.4   = 3.8 m A1",
+      "line_number": 346
+    },
+    {
+      "question_number": "2",
+      "part": "d",
+      "answer_text": "2(d)(i) T = kx  where k is a constant  or  T = (EA / L)x  where A is (cross-sectional) area, E is Young modulus, L is (original/unstretched) length B1",
+      "line_number": 353
+    },
+    {
+      "question_number": "2",
+      "part": "d",
+      "answer_text": "2(d)(ii)  2 1 2 E kx or  1 2 E Fx  and F = kx C1  E = 0.65  22  = 2.6 J A1  or    1 2 E Fx    1 0.65 270 2 x  and so x = 4.8  10–3 m k = F / x = 270 / 4.8  10–3  = 5.6  104 (C1) 9702/22 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 9 of 14   Question Answer Marks",
+      "line_number": 403
+    },
+    {
+      "question_number": "2",
+      "part": "d",
+      "answer_text": "2(d)(ii) final      3 1 540 9.6 10 2 E   or  E =          3  1 270 2 4.8 10 2 2   or  E =        2 4 3 1 5.6 10 9.6 10 2    = 2.6 J (A1) 9702/22 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 10 of 14   Question Answer Marks",
+      "line_number": 475
+    },
+    {
+      "question_number": "3",
+      "part": "a",
+      "answer_text": "3(a) v2 = u2 + 2as  s = 5.62 / (2  9.81) C1  (max height =) 3.1 + 5.62 / (2  9.81) = 4.7 (m) A1",
+      "line_number": 483
+    },
+    {
+      "question_number": "3",
+      "part": "b",
+      "answer_text": "3(b)   2 1 2 s ut at     2 1 4.7 9.81 2 t  C1  t = 0.98 s A1",
+      "line_number": 507
+    },
+    {
+      "question_number": "3",
+      "part": "c",
+      "answer_text": "3(c) line drawn from a non-zero speed at t = 0 to a greater speed at t = T B1  a single sloping straight line drawn from t = 0 to t = T B1  line starts with a positive non-zero value of v and ends with a negative non-zero value of v B1",
+      "line_number": 516
+    },
+    {
+      "question_number": "3",
+      "part": "d",
+      "answer_text": "3(d) acceleration (of the ball) B1",
+      "line_number": 519
+    },
+    {
+      "question_number": "3",
+      "part": "e",
+      "answer_text": "3(e)(i) (magnitudes of accelerations are) equal / same B1",
+      "line_number": 522
+    },
+    {
+      "question_number": "3",
+      "part": "e",
+      "answer_text": "3(e)(ii) (speeds are) equal / same B1 9702/22 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 11 of 14   Question Answer Marks",
+      "line_number": 537
+    },
+    {
+      "question_number": "4",
+      "part": "a",
+      "answer_text": "4(a) sum/total momentum before = sum/total momentum after or sum/total momentum (of a system of objects) is constant M1  if no (resultant) external force/for a closed system A1",
+      "line_number": 545
+    },
+    {
+      "question_number": "4",
+      "part": "b",
+      "answer_text": "4(b)(i) (3.0  4.0  cos)  or  (2.5  4.8  cos)  or  (5.5  3.7) C1  (3.0  4.0  cos) + (2.5  4.8  cos) = (5.5  3.7) C1   = 32° A1",
+      "line_number": 554
+    },
+    {
+      "question_number": "4",
+      "part": "b",
+      "answer_text": "4(b)(ii) (initial EK = 1 2   3.0  4.02 + 1 2   2.5  4.82 =) 53 (J) or (final EK = 1 2   5.5  3.72 =) 38 (J) C1  values of initial EK and final EK both correct and inelastic stated A1    9702/22 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 12 of 14   Question Answer Marks",
+      "line_number": 580
+    },
+    {
+      "question_number": "5",
+      "part": "a",
+      "answer_text": "5(a) constant phase difference (between the waves) B1",
+      "line_number": 583
+    },
+    {
+      "question_number": "5",
+      "part": "b",
+      "answer_text": "5(b)(i) path difference = 1.5  660   = 990 nm A1",
+      "line_number": 589
+    },
+    {
+      "question_number": "5",
+      "part": "b",
+      "answer_text": "5(b)(ii) phase difference = 360°  1.5   = 540° A1",
+      "line_number": 595
+    },
+    {
+      "question_number": "5",
+      "part": "c",
+      "answer_text": "5(c)  = ax / D C1  x = (660  10–9  1.8) / 0.44  10–3 C1  = 2.7  10–3 m A1",
+      "line_number": 604
+    },
+    {
+      "question_number": "5",
+      "part": "d",
+      "answer_text": "5(d) bright fringes are brighter B1  no change to dark fringes B1  no change to (fringe) separation / (fringe) spacing B1",
+      "line_number": 613
+    },
+    {
+      "question_number": "5",
+      "part": "e",
+      "answer_text": "5(e) (blue light has) shorter wavelength M1  (so) decrease (slit) separation A1    9702/22 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 13 of 14   Question Answer Marks",
+      "line_number": 634
+    },
+    {
+      "question_number": "6",
+      "part": "a",
+      "answer_text": "6(a) V = V1 + V2 + V3 B1  IR = IR1 + IR2 + IR3  or  (V / I) = (V1 / I) + (V2 / I) + (V3 / I)  and  R = R1 + R2 + R3 B1",
+      "line_number": 644
+    },
+    {
+      "question_number": "6",
+      "part": "b",
+      "answer_text": "6(b)(i) V / 8.0 = 6.0  103 / (4.0  103 + 6.0  103)  or  I = 8.0 / (4.0  103 + 6.0  103) = 8.0  10–4  V = 8.0  10–4  6.0  103 C1  V = 4.8 V A1",
+      "line_number": 656
+    },
+    {
+      "question_number": "6",
+      "part": "b",
+      "answer_text": "6(b)(ii) total resistance in parallel = 3.0  103 ()  or  3.0 (k) C1  current = 8.0 / (3.0  103 + 6.0  103)   = 8.9  10–4 A A1",
+      "line_number": 665
+    },
+    {
+      "question_number": "6",
+      "part": "c",
+      "answer_text": "6(c) thermistor resistance increases B1  (thermistor resistance increases so total resistance increases so) current decreases (in battery) M1  (P = EI and E constant so) power decreases A1    9702/22 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 14 of 14   Question Answer Marks",
+      "line_number": 689
+    },
+    {
+      "question_number": "7",
+      "part": "a",
+      "answer_text": "7(a)(i) P = 0  and  Q = 137 A1  R = –1  and  S = 56 A1",
+      "line_number": 695
+    },
+    {
+      "question_number": "7",
+      "part": "a",
+      "answer_text": "7(a)(ii) lepton(s) B1",
+      "line_number": 698
+    },
+    {
+      "question_number": "7",
+      "part": "b",
+      "answer_text": "7(b)(i) (charge of ddd / Y =)  1  ",
+      "line_number": 701
+    },
+    {
+      "question_number": "3",
+      "part": "",
+      "answer_text": "3 e  1  ",
+      "line_number": 703
+    },
+    {
+      "question_number": "3",
+      "part": "",
+      "answer_text": "3 e  1  ",
+      "line_number": 705
+    },
+    {
+      "question_number": "3",
+      "part": "",
+      "answer_text": "3 e  = –1(e) B1  (charge of ud / Z =)  1  ",
+      "line_number": 710
+    },
+    {
+      "question_number": "3",
+      "part": "",
+      "answer_text": "3 e  2  ",
+      "line_number": 712
+    },
+    {
+      "question_number": "3",
+      "part": "",
+      "answer_text": "3 e  = –1(e) B1",
+      "line_number": 714
+    },
+    {
+      "question_number": "7",
+      "part": "b",
+      "answer_text": "7(b)(ii) meson: Z / u d because consists of a quark and an antiquark B1  baryon: Y / ddd because consists of three quarks B1",
+      "line_number": 722
+    }
+  ],
+  "qa_pairs": [],
+  "summary": {
+    "success_rate": 0.0,
+    "paper_type": "Theory Paper (Structured Questions)"
+  }
+}

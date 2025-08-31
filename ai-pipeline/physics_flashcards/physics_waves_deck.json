@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "front": "Explain the concept of Wave",
+      "back": "A disturbance that transfers energy through a medium or space without transferring matter.",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Amplitude",
+      "back": "The maximum displacement of a wave from its equilibrium position. Determines wave intensity.",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Wavelength",
+      "back": "The distance between two consecutive points in phase on a wave (e.g., crest to crest).",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Frequency",
+      "back": "The number of complete wave cycles per second. Measured in Hertz (Hz).",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Period",
+      "back": "The time for one complete wave cycle. Period = 1/Frequency.",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Wave Speed",
+      "back": "The speed at which a wave travels through a medium. Wave Speed = Frequency × Wavelength.",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Transverse Wave",
+      "back": "A wave where particles vibrate perpendicular to the direction of wave travel (e.g., light waves).",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Longitudinal Wave",
+      "back": "A wave where particles vibrate parallel to the direction of wave travel (e.g., sound waves).",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Interference",
+      "back": "The interaction of two or more waves. Constructive interference increases amplitude; destructive decreases it.",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    },
+    {
+      "front": "Explain the concept of Resonance",
+      "back": "The phenomenon where a system vibrates at maximum amplitude at its natural frequency.",
+      "type": "concept",
+      "subject": "Physics - Waves",
+      "tags": [
+        "waves",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "waves"
+    }
+  ],
+  "total_cards": 10,
+  "subject": "Physics - Waves",
+  "type": "concept",
+  "difficulty": "intermediate"
+}

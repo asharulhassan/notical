@@ -1,0 +1,830 @@
+{
+  "Mechanics": {
+    "cards": [
+      {
+        "front": "Define and explain: Force",
+        "back": "A push or pull that can change an object's motion. Measured in Newtons (N). Example: Gravity pulling objects toward Earth.",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Mass",
+        "back": "The amount of matter in an object. Measured in kilograms (kg). Mass is constant regardless of location.",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Weight",
+        "back": "The force of gravity acting on an object's mass. Weight = mass × gravitational acceleration (W = mg).",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Acceleration",
+        "back": "The rate of change of velocity with time. Measured in meters per second squared (m/s²).",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Momentum",
+        "back": "The product of an object's mass and velocity (p = mv). Momentum is conserved in closed systems.",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Energy",
+        "back": "The ability to do work. Types include kinetic (motion), potential (position), and thermal (heat) energy.",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Power",
+        "back": "The rate at which work is done or energy is transferred. Measured in Watts (W). Power = Work/Time.",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Work",
+        "back": "Force applied over a distance. Work = Force × Distance × cos(θ). Measured in Joules (J).",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Efficiency",
+        "back": "The ratio of useful work output to total energy input. Efficiency = (Useful Output/Total Input) × 100%.",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      },
+      {
+        "front": "Define and explain: Conservation of Energy",
+        "back": "Energy cannot be created or destroyed, only transformed from one form to another.",
+        "type": "concept",
+        "subject": "Physics - Mechanics",
+        "tags": [
+          "mechanics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "mechanics"
+      }
+    ],
+    "total_cards": 10,
+    "subject": "Physics - Mechanics",
+    "type": "concept",
+    "difficulty": "intermediate"
+  },
+  "Thermodynamics": {
+    "cards": [
+      {
+        "front": "What is Temperature?",
+        "back": "A measure of the average kinetic energy of particles in a substance. Measured in Kelvin (K) or Celsius (°C).",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Heat?",
+        "back": "Energy transferred between objects due to temperature difference. Heat flows from hot to cold objects.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Internal Energy?",
+        "back": "The total energy of all particles in a system, including kinetic and potential energy.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Entropy?",
+        "back": "A measure of disorder or randomness in a system. Entropy always increases in isolated systems.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is First Law of Thermodynamics?",
+        "back": "Energy cannot be created or destroyed. The change in internal energy equals heat added minus work done.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Second Law of Thermodynamics?",
+        "back": "Heat cannot spontaneously flow from a colder body to a hotter body. Entropy increases over time.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Heat Capacity?",
+        "back": "The amount of heat required to raise the temperature of a substance by 1°C. Units: J/°C or J/K.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Specific Heat?",
+        "back": "The heat capacity per unit mass of a substance. Units: J/kg°C or J/kgK.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Latent Heat?",
+        "back": "The heat required to change the phase of a substance (solid to liquid, liquid to gas) without changing temperature.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      },
+      {
+        "front": "What is Thermal Expansion?",
+        "back": "The tendency of matter to change volume in response to temperature changes. Most substances expand when heated.",
+        "type": "concept",
+        "subject": "Physics - Thermodynamics",
+        "tags": [
+          "thermodynamics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "thermodynamics"
+      }
+    ],
+    "total_cards": 10,
+    "subject": "Physics - Thermodynamics",
+    "type": "concept",
+    "difficulty": "advanced"
+  },
+  "Waves": {
+    "cards": [
+      {
+        "front": "Explain the concept of Wave",
+        "back": "A disturbance that transfers energy through a medium or space without transferring matter.",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Amplitude",
+        "back": "The maximum displacement of a wave from its equilibrium position. Determines wave intensity.",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Wavelength",
+        "back": "The distance between two consecutive points in phase on a wave (e.g., crest to crest).",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Frequency",
+        "back": "The number of complete wave cycles per second. Measured in Hertz (Hz).",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Period",
+        "back": "The time for one complete wave cycle. Period = 1/Frequency.",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Wave Speed",
+        "back": "The speed at which a wave travels through a medium. Wave Speed = Frequency × Wavelength.",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Transverse Wave",
+        "back": "A wave where particles vibrate perpendicular to the direction of wave travel (e.g., light waves).",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Longitudinal Wave",
+        "back": "A wave where particles vibrate parallel to the direction of wave travel (e.g., sound waves).",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Interference",
+        "back": "The interaction of two or more waves. Constructive interference increases amplitude; destructive decreases it.",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      },
+      {
+        "front": "Explain the concept of Resonance",
+        "back": "The phenomenon where a system vibrates at maximum amplitude at its natural frequency.",
+        "type": "concept",
+        "subject": "Physics - Waves",
+        "tags": [
+          "waves",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "intermediate",
+        "category": "waves"
+      }
+    ],
+    "total_cards": 10,
+    "subject": "Physics - Waves",
+    "type": "concept",
+    "difficulty": "intermediate"
+  },
+  "Electricity": {
+    "cards": [
+      {
+        "front": "Define Electric Charge in physics",
+        "back": "A fundamental property of matter. Like charges repel; opposite charges attract. Measured in Coulombs (C).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Electric Field in physics",
+        "back": "A region around a charged object where other charges experience electric force. Field lines show direction.",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Electric Potential in physics",
+        "back": "The electric potential energy per unit charge at a point. Measured in Volts (V).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Current in physics",
+        "back": "The rate of flow of electric charge. Current = Charge/Time. Measured in Amperes (A).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Voltage in physics",
+        "back": "The difference in electric potential between two points. Voltage = Work/Charge. Measured in Volts (V).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Resistance in physics",
+        "back": "The opposition to electric current flow. Resistance = Voltage/Current. Measured in Ohms (Ω).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Power in physics",
+        "back": "The rate at which electrical energy is transferred. Power = Voltage × Current. Measured in Watts (W).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Capacitance in physics",
+        "back": "The ability of a capacitor to store electric charge. Capacitance = Charge/Voltage. Measured in Farads (F).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Inductance in physics",
+        "back": "The ability of an inductor to store energy in a magnetic field. Measured in Henries (H).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      },
+      {
+        "front": "Define Ohm's Law in physics",
+        "back": "The relationship between voltage, current, and resistance: V = IR (Voltage = Current × Resistance).",
+        "type": "concept",
+        "subject": "Physics - Electricity",
+        "tags": [
+          "electricity",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "electricity"
+      }
+    ],
+    "total_cards": 10,
+    "subject": "Physics - Electricity",
+    "type": "concept",
+    "difficulty": "advanced"
+  },
+  "Modern Physics": {
+    "cards": [
+      {
+        "front": "What is Photoelectric Effect?",
+        "back": "The emission of electrons from a metal surface when light shines on it. Supports particle nature of light.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Wave-Particle Duality?",
+        "back": "The concept that light and matter exhibit both wave-like and particle-like properties.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Quantum Mechanics?",
+        "back": "The branch of physics that describes the behavior of matter and energy at atomic and subatomic scales.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Relativity?",
+        "back": "Einstein's theory that space and time are interconnected, and that the speed of light is constant for all observers.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Nuclear Fission?",
+        "back": "The splitting of a heavy nucleus into smaller nuclei, releasing energy. Used in nuclear power plants.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Nuclear Fusion?",
+        "back": "The combining of light nuclei to form heavier nuclei, releasing energy. Powers the Sun and stars.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Radioactivity?",
+        "back": "The spontaneous emission of radiation from unstable atomic nuclei. Types: alpha, beta, gamma decay.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Half-Life?",
+        "back": "The time required for half of a radioactive substance to decay. Each isotope has a unique half-life.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Mass-Energy Equivalence?",
+        "back": "Einstein's famous equation E = mc², showing that mass and energy are interchangeable.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      },
+      {
+        "front": "What is Dark Matter?",
+        "back": "Hypothetical matter that doesn't emit light but exerts gravitational force. Comprises most of the universe's mass.",
+        "type": "concept",
+        "subject": "Physics - Modern Physics",
+        "tags": [
+          "modern_physics",
+          "physics",
+          "concept"
+        ],
+        "difficulty": "advanced",
+        "category": "modern_physics"
+      }
+    ],
+    "total_cards": 10,
+    "subject": "Physics - Modern Physics",
+    "type": "concept",
+    "difficulty": "advanced"
+  },
+  "Formulas": {
+    "cards": [
+      {
+        "front": "What is the formula for Kinetic Energy?",
+        "back": "KE = ½mv² (Kinetic Energy = ½ × mass × velocity²)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Gravitational Potential Energy?",
+        "back": "GPE = mgh (GPE = mass × gravitational acceleration × height)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Power?",
+        "back": "P = W/t (Power = Work/Time)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Density?",
+        "back": "ρ = m/V (Density = mass/volume)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Pressure?",
+        "back": "P = F/A (Pressure = Force/Area)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Wave Speed?",
+        "back": "v = fλ (Wave Speed = frequency × wavelength)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Ohm's Law?",
+        "back": "V = IR (Voltage = Current × Resistance)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Work?",
+        "back": "W = Fd cos(θ) (Work = Force × distance × cos(angle))",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Momentum?",
+        "back": "p = mv (Momentum = mass × velocity)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      },
+      {
+        "front": "What is the formula for Acceleration?",
+        "back": "a = (v-u)/t (Acceleration = change in velocity/time)",
+        "type": "formula",
+        "subject": "Physics - Formulas",
+        "tags": [
+          "formula",
+          "physics",
+          "calculation"
+        ],
+        "difficulty": "intermediate",
+        "category": "formulas"
+      }
+    ],
+    "total_cards": 10,
+    "subject": "Physics - Formulas",
+    "type": "formula",
+    "difficulty": "intermediate"
+  }
+}

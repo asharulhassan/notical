@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "front": "Define Electric Charge in physics",
+      "back": "A fundamental property of matter. Like charges repel; opposite charges attract. Measured in Coulombs (C).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Electric Field in physics",
+      "back": "A region around a charged object where other charges experience electric force. Field lines show direction.",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Electric Potential in physics",
+      "back": "The electric potential energy per unit charge at a point. Measured in Volts (V).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Current in physics",
+      "back": "The rate of flow of electric charge. Current = Charge/Time. Measured in Amperes (A).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Voltage in physics",
+      "back": "The difference in electric potential between two points. Voltage = Work/Charge. Measured in Volts (V).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Resistance in physics",
+      "back": "The opposition to electric current flow. Resistance = Voltage/Current. Measured in Ohms (Ω).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Power in physics",
+      "back": "The rate at which electrical energy is transferred. Power = Voltage × Current. Measured in Watts (W).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Capacitance in physics",
+      "back": "The ability of a capacitor to store electric charge. Capacitance = Charge/Voltage. Measured in Farads (F).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Inductance in physics",
+      "back": "The ability of an inductor to store energy in a magnetic field. Measured in Henries (H).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    },
+    {
+      "front": "Define Ohm's Law in physics",
+      "back": "The relationship between voltage, current, and resistance: V = IR (Voltage = Current × Resistance).",
+      "type": "concept",
+      "subject": "Physics - Electricity",
+      "tags": [
+        "electricity",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "electricity"
+    }
+  ],
+  "total_cards": 10,
+  "subject": "Physics - Electricity",
+  "type": "concept",
+  "difficulty": "advanced"
+}

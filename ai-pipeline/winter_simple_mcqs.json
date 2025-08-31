@@ -1,0 +1,85 @@
+{
+  "paper_info": {
+    "question_paper": "9702_w22_qp_12.pdf",
+    "mark_scheme": "9702_w22_ms_12.pdf",
+    "total_questions": 5
+  },
+  "mcq_data": [
+    {
+      "question_number": "10",
+      "question_content": "10 A parachutist falls from rest from a balloon. The variation with time of the vertical velocity of the parachutist is shown. In which region is the force due to air resistance much greater than the weight of the parachutist? vertical velocity time 0 0",
+      "options": {
+        "B": "They act along different lines.",
+        "C": "They have the same magnitude.",
+        "D": "They produce a resultant force.",
+        "A": "They act in opposite directions."
+      },
+      "correct_answer": "C",
+      "question_line": 360,
+      "answer_line": 79,
+      "confidence": "high"
+    },
+    {
+      "question_number": "21",
+      "question_content": "21 A wire is extended by different forces. The wire obeys Hooke’s law.",
+      "options": {
+        "A": "elastic potential energy",
+        "B": "extension",
+        "C": "force",
+        "D": "extension"
+      },
+      "correct_answer": "A",
+      "question_line": 611,
+      "answer_line": 112,
+      "confidence": "high"
+    },
+    {
+      "question_number": "31",
+      "question_content": "31 A nichrome wire has a resistance of 15  and a diameter of 3.0 mm. The number density of the free electrons in nichrome is 9.0  1028 m–3.",
+      "options": {
+        "A": "The resistance of the lamp decreases because the temperature decreases.",
+        "B": "The resistance of the lamp decreases because the temperature increases.",
+        "C": "The resistance of the lamp increases because the temperature decreases.",
+        "D": "The resistance of the lamp increases because the temperature increases."
+      },
+      "correct_answer": "B",
+      "question_line": 883,
+      "answer_line": 155,
+      "confidence": "high"
+    },
+    {
+      "question_number": "34",
+      "question_content": "34 A metal wire has resistance R. The wire is stretched so that its diameter decreases to 94.0% of the original diameter. The volume of the wire is unchanged. What is the resistance of the stretched wire?",
+      "options": {
+        "B": "0.43 W",
+        "C": "0.64 W",
+        "D": "1.0 W",
+        "A": "0.22 W"
+      },
+      "correct_answer": "D",
+      "question_line": 942,
+      "answer_line": 164,
+      "confidence": "high"
+    },
+    {
+      "question_number": "37",
+      "question_content": "37 A potential divider circuit is designed to detect the difference in temperature between two different places. V X Y 20 mV The cell has electromotive force (e.m.f.) 20 mV and negligible internal resistance. Initially, thermistors X and Y are at the same temperature and have the same resistance. The voltmeter reads 10 mV. X is then placed in a cold environment and its resistance doubles. Y is placed in a warm environment and its resistance halves. What is the new reading on the voltmeter?",
+      "options": {
+        "B": "positron",
+        "C": "proton",
+        "D": "quark",
+        "A": "meson"
+      },
+      "correct_answer": "A",
+      "question_line": 1008,
+      "answer_line": 173,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "total_pairs": 5,
+    "simple_mcqs_with_options": 5,
+    "questions_without_options": 0,
+    "success_rate": 12.5
+  }
+}

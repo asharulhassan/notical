@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "front": "What is Temperature?",
+      "back": "A measure of the average kinetic energy of particles in a substance. Measured in Kelvin (K) or Celsius (°C).",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Heat?",
+      "back": "Energy transferred between objects due to temperature difference. Heat flows from hot to cold objects.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Internal Energy?",
+      "back": "The total energy of all particles in a system, including kinetic and potential energy.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Entropy?",
+      "back": "A measure of disorder or randomness in a system. Entropy always increases in isolated systems.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is First Law of Thermodynamics?",
+      "back": "Energy cannot be created or destroyed. The change in internal energy equals heat added minus work done.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Second Law of Thermodynamics?",
+      "back": "Heat cannot spontaneously flow from a colder body to a hotter body. Entropy increases over time.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Heat Capacity?",
+      "back": "The amount of heat required to raise the temperature of a substance by 1°C. Units: J/°C or J/K.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Specific Heat?",
+      "back": "The heat capacity per unit mass of a substance. Units: J/kg°C or J/kgK.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Latent Heat?",
+      "back": "The heat required to change the phase of a substance (solid to liquid, liquid to gas) without changing temperature.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    },
+    {
+      "front": "What is Thermal Expansion?",
+      "back": "The tendency of matter to change volume in response to temperature changes. Most substances expand when heated.",
+      "type": "concept",
+      "subject": "Physics - Thermodynamics",
+      "tags": [
+        "thermodynamics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "advanced",
+      "category": "thermodynamics"
+    }
+  ],
+  "total_cards": 10,
+  "subject": "Physics - Thermodynamics",
+  "type": "concept",
+  "difficulty": "advanced"
+}

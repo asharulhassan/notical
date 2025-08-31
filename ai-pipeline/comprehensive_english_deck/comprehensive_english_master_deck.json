@@ -1,0 +1,3488 @@
+{
+  "deck_info": {
+    "name": "Comprehensive English Master Deck",
+    "description": "Complete English language deck covering vocabulary, grammar, literature, writing, and reading",
+    "total_cards": 143,
+    "created_date": "2025-08-28T19:20:01.039818",
+    "version": "1.0"
+  },
+  "sections": {
+    "vocabulary": {
+      "name": "Vocabulary",
+      "cards": [
+        {
+          "front": "What is the meaning of 'Ubiquitous'?",
+          "back": "Present, appearing, or found everywhere; omnipresent.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Ephemeral'?",
+          "back": "Lasting for a very short time; transitory.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Serendipity'?",
+          "back": "The occurrence and development of events by chance in a happy or beneficial way.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Mellifluous'?",
+          "back": "Sweet or musical; pleasant to hear.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Perspicacious'?",
+          "back": "Having a ready insight into and understanding of things.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Ineffable'?",
+          "back": "Too great or extreme to be expressed or described in words.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Sycophant'?",
+          "back": "A person who acts obsequiously toward someone important in order to gain advantage.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Pulchritudinous'?",
+          "back": "Beautiful, especially in a way that is pleasing to the eye.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Defenestration'?",
+          "back": "The act of throwing someone out of a window.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Sesquipedalian'?",
+          "back": "Given to using long words; characterized by long words.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "intermediate",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Antidisestablishmentarianism'?",
+          "back": "Opposition to the withdrawal of state support from an established church.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "advanced",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Hippopotomonstrosesquippedaliophobia'?",
+          "back": "Fear of long words.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "advanced",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Pneumonoultramicroscopicsilicovolcanoconios'?",
+          "back": "A lung disease caused by inhaling very fine silicate or quartz dust.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "advanced",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Supercalifragilisticexpialidocious'?",
+          "back": "Extraordinarily good; wonderful.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "advanced",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Floccinaucinihilipilification'?",
+          "back": "The action or habit of estimating something as worthless.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "advanced",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Honorificabilitudinitatibus'?",
+          "back": "The state of being able to achieve honors.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "advanced",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        },
+        {
+          "front": "What is the meaning of 'Lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphiokarabomelitokatakechymenokichlepikossyphophattoperisteralektryonoptekephalliokigklopeleiolagoiosiraiobaphetraganopterygon'?",
+          "back": "A fictional dish mentioned in Aristophanes' comedy Assemblywomen.",
+          "type": "vocabulary",
+          "category": "vocabulary",
+          "difficulty": "advanced",
+          "tags": [
+            "vocabulary",
+            "english",
+            "words"
+          ]
+        }
+      ],
+      "total_cards": 17,
+      "description": "Advanced vocabulary words and definitions"
+    },
+    "grammar": {
+      "name": "Grammar",
+      "cards": [
+        {
+          "front": "Explain the grammar rule: Noun",
+          "back": "A word that names a person, place, thing, or idea. Examples: cat, London, happiness, democracy.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Pronoun",
+          "back": "A word that takes the place of a noun. Examples: he, she, it, they, we, you, I.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Verb",
+          "back": "A word that expresses action or state of being. Examples: run, jump, is, was, have, do.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Adjective",
+          "back": "A word that describes or modifies a noun or pronoun. Examples: big, red, beautiful, intelligent.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Adverb",
+          "back": "A word that describes or modifies a verb, adjective, or other adverb. Examples: quickly, very, well, often.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Preposition",
+          "back": "A word that shows the relationship between a noun/pronoun and other words. Examples: in, on, at, by, for, with.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Conjunction",
+          "back": "A word that connects words, phrases, or clauses. Examples: and, but, or, because, although.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Interjection",
+          "back": "A word that expresses emotion or surprise. Examples: wow, oh, ouch, hurray.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Subject",
+          "back": "The person, place, thing, or idea that performs the action or is described in the sentence.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Predicate",
+          "back": "The part of the sentence that contains the verb and tells what the subject does or is.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Direct Object",
+          "back": "The noun or pronoun that receives the action of the verb directly.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Indirect Object",
+          "back": "The noun or pronoun that receives the direct object or for whom the action is done.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Object of Preposition",
+          "back": "The noun or pronoun that follows a preposition.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Present Simple",
+          "back": "Used for habits, general truths, and scheduled events. Example: 'I work every day.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Present Continuous",
+          "back": "Used for actions happening now or around now. Example: 'I am working right now.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Present Perfect",
+          "back": "Used for actions that started in the past and continue to the present. Example: 'I have worked here for five years.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Past Simple",
+          "back": "Used for completed actions in the past. Example: 'I worked yesterday.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Past Continuous",
+          "back": "Used for actions that were in progress at a specific time in the past. Example: 'I was working when you called.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Past Perfect",
+          "back": "Used for actions that were completed before another action in the past. Example: 'I had worked before you arrived.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Future Simple",
+          "back": "Used for predictions and spontaneous decisions. Example: 'I will work tomorrow.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Future Continuous",
+          "back": "Used for actions that will be in progress at a specific time in the future. Example: 'I will be working at 3 PM.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Future Perfect",
+          "back": "Used for actions that will be completed before a specific time in the future. Example: 'I will have worked for ten years by next month.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Subjunctive Mood",
+          "back": "A verb form used to express wishes, suggestions, or hypothetical situations. Example: 'If I were rich...'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Conditional Sentences",
+          "back": "Sentences that express hypothetical situations using 'if' clauses and different verb forms.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Passive Voice",
+          "back": "A sentence structure where the subject receives the action rather than performing it. Example: 'The book was written by the author.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Active Voice",
+          "back": "A sentence structure where the subject performs the action. Example: 'The author wrote the book.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Gerund",
+          "back": "A verb form ending in -ing that functions as a noun. Example: 'Swimming is good exercise.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Infinitive",
+          "back": "The base form of a verb, usually preceded by 'to'. Example: 'I want to learn.'",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Participle",
+          "back": "A verb form that can function as an adjective. Examples: 'The running water' (present participle), 'The broken glass' (past participle).",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Modal Verbs",
+          "back": "Auxiliary verbs that express necessity, possibility, permission, or ability. Examples: can, could, may, might, must, shall, should, will, would.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Relative Clauses",
+          "back": "Clauses that provide additional information about a noun, introduced by relative pronouns (who, which, that, whose).",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        },
+        {
+          "front": "Explain the grammar rule: Subordinate Clauses",
+          "back": "Clauses that cannot stand alone as sentences and depend on a main clause for meaning.",
+          "type": "grammar",
+          "category": "grammar",
+          "difficulty": "intermediate",
+          "tags": [
+            "grammar",
+            "english",
+            "rules"
+          ]
+        }
+      ],
+      "total_cards": 32,
+      "description": "Complete English grammar rules and explanations"
+    },
+    "literature": {
+      "name": "Literature",
+      "cards": [
+        {
+          "front": "Define and explain: Metaphor",
+          "back": "A direct comparison between two unlike things without using 'like' or 'as'. Example: 'Life is a journey.'",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Simile",
+          "back": "A comparison between two unlike things using 'like' or 'as'. Example: 'Life is like a box of chocolates.'",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Personification",
+          "back": "Giving human qualities to non-human objects or ideas. Example: 'The wind whispered through the trees.'",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Alliteration",
+          "back": "Repetition of initial consonant sounds in nearby words. Example: 'Peter Piper picked a peck of pickled peppers.'",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Assonance",
+          "back": "Repetition of vowel sounds in nearby words. Example: 'The rain in Spain falls mainly on the plain.'",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Consonance",
+          "back": "Repetition of consonant sounds in nearby words. Example: 'The lumpy, bumpy road.'",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Onomatopoeia",
+          "back": "Words that imitate sounds. Examples: buzz, hiss, roar, meow, bang.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Hyperbole",
+          "back": "Exaggeration for emphasis or effect. Example: 'I've told you a million times.'",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Understatement",
+          "back": "Presenting something as less significant than it actually is. Example: 'It's just a scratch' (for a major injury).",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Irony",
+          "back": "A contrast between expectation and reality. Example: A fire station burning down.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Dramatic Irony",
+          "back": "When the audience knows something that the characters in the story do not.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Verbal Irony",
+          "back": "When someone says the opposite of what they mean, often sarcastically.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Situational Irony",
+          "back": "When the outcome is the opposite of what was expected.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Plot",
+          "back": "The sequence of events that make up a story. Includes exposition, rising action, climax, falling action, and resolution.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Character",
+          "back": "A person, animal, or being in a story. Can be round (complex) or flat (simple), static (unchanging) or dynamic (changing).",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Setting",
+          "back": "The time and place where a story takes place. Includes physical location, historical period, and social environment.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Theme",
+          "back": "The central message or underlying meaning of a literary work. Examples: love, death, good vs. evil, coming of age.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Point of View",
+          "back": "The perspective from which a story is told. First person (I), second person (you), third person (he/she/they).",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Tone",
+          "back": "The author's attitude toward the subject or audience. Examples: serious, humorous, sarcastic, formal, informal.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Mood",
+          "back": "The emotional atmosphere created by a literary work. Examples: mysterious, tense, peaceful, gloomy.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Symbolism",
+          "back": "Using objects, characters, or events to represent abstract ideas or qualities. Example: A dove representing peace.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Foreshadowing",
+          "back": "Hints or clues about what will happen later in the story.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Flashback",
+          "back": "A scene that interrupts the present action to show events from the past.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Climax",
+          "back": "The turning point or highest point of tension in a story.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Resolution",
+          "back": "The conclusion of a story where conflicts are resolved.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Rhyme",
+          "back": "The repetition of similar sounds at the end of lines in poetry.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Rhythm",
+          "back": "The pattern of stressed and unstressed syllables in poetry.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Meter",
+          "back": "The regular pattern of stressed and unstressed syllables in a line of poetry.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Stanza",
+          "back": "A group of lines in poetry, similar to a paragraph in prose.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Couplet",
+          "back": "Two consecutive lines of poetry that rhyme.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Quatrain",
+          "back": "A four-line stanza in poetry.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Sonnet",
+          "back": "A 14-line poem with a specific rhyme scheme, often written in iambic pentameter.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Haiku",
+          "back": "A traditional Japanese poem with three lines of 5, 7, and 5 syllables.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Free Verse",
+          "back": "Poetry that doesn't follow a regular meter or rhyme scheme.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        },
+        {
+          "front": "Define and explain: Blank Verse",
+          "back": "Unrhymed poetry written in iambic pentameter.",
+          "type": "literature",
+          "category": "literature",
+          "difficulty": "intermediate",
+          "tags": [
+            "literature",
+            "english",
+            "devices"
+          ]
+        }
+      ],
+      "total_cards": 35,
+      "description": "Literary devices, elements, and poetry terms"
+    },
+    "writing": {
+      "name": "Writing",
+      "cards": [
+        {
+          "front": "Explain the writing concept: Introduction",
+          "back": "The opening paragraph that introduces the topic, provides background information, and presents the thesis statement.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Thesis Statement",
+          "back": "A clear, specific statement that presents the main argument or point of an essay.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Body Paragraphs",
+          "back": "The main sections of an essay that develop and support the thesis statement with evidence and analysis.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Topic Sentence",
+          "back": "The first sentence of each body paragraph that introduces the main idea of that paragraph.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Evidence",
+          "back": "Facts, examples, statistics, or expert opinions that support your claims.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Analysis",
+          "back": "Explanation of how your evidence supports your argument and why it matters.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Transitions",
+          "back": "Words or phrases that connect ideas and help readers follow your logic.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Conclusion",
+          "back": "The final paragraph that restates the thesis, summarizes main points, and provides closing thoughts.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Active Voice",
+          "back": "Writing where the subject performs the action, making sentences more direct and engaging.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Passive Voice",
+          "back": "Writing where the subject receives the action. Can be useful but often makes writing less clear.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Concise Writing",
+          "back": "Eliminating unnecessary words and phrases to make writing clear and powerful.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Parallel Structure",
+          "back": "Using the same grammatical form for similar ideas in a sentence or paragraph.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Varied Sentence Structure",
+          "back": "Mixing different sentence types (simple, compound, complex) to create rhythm and interest.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Strong Verbs",
+          "back": "Using specific, action-oriented verbs instead of weak or vague ones.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Specific Details",
+          "back": "Including concrete, specific information rather than general statements.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Show, Don't Tell",
+          "back": "Using descriptive details and examples instead of simply stating facts.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Claim",
+          "back": "A statement that presents your position on an issue.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Counterargument",
+          "back": "Addressing opposing viewpoints to strengthen your own argument.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Rebuttal",
+          "back": "Responding to counterarguments and explaining why your position is stronger.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Logical Fallacies",
+          "back": "Errors in reasoning that weaken arguments. Examples: ad hominem, straw man, false dilemma.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Ethos",
+          "back": "Appealing to credibility and character to persuade an audience.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Pathos",
+          "back": "Appealing to emotions to persuade an audience.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Logos",
+          "back": "Appealing to logic and reason to persuade an audience.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Primary Source",
+          "back": "Original documents or firsthand accounts of events.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Secondary Source",
+          "back": "Sources that analyze, interpret, or comment on primary sources.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Plagiarism",
+          "back": "Using someone else's words or ideas without proper attribution.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Citation",
+          "back": "Giving credit to sources used in your writing.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Bibliography",
+          "back": "A list of all sources consulted during research.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        },
+        {
+          "front": "Explain the writing concept: Works Cited",
+          "back": "A list of sources actually cited in your paper.",
+          "type": "writing",
+          "category": "writing",
+          "difficulty": "intermediate",
+          "tags": [
+            "writing",
+            "english",
+            "techniques"
+          ]
+        }
+      ],
+      "total_cards": 29,
+      "description": "Writing techniques, essay structure, and argumentation"
+    },
+    "reading": {
+      "name": "Reading",
+      "cards": [
+        {
+          "front": "What is Skimming in reading?",
+          "back": "Reading quickly to get the main idea or overview of a text.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Scanning in reading?",
+          "back": "Reading quickly to find specific information or details.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Close Reading in reading?",
+          "back": "Reading carefully and attentively to understand the text deeply.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Active Reading in reading?",
+          "back": "Engaging with the text by asking questions, making connections, and taking notes.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Annotation in reading?",
+          "back": "Adding notes, comments, or marks to a text while reading.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Summarizing in reading?",
+          "back": "Briefly restating the main ideas and key points of a text in your own words.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Paraphrasing in reading?",
+          "back": "Restating information from a text in your own words while maintaining the original meaning.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Inferring in reading?",
+          "back": "Drawing conclusions or making educated guesses based on evidence in the text.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Predicting in reading?",
+          "back": "Making educated guesses about what will happen next in a text.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Questioning in reading?",
+          "back": "Asking questions about the text to deepen understanding.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Main Idea in reading?",
+          "back": "The central point or most important message of a text.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Supporting Details in reading?",
+          "back": "Facts, examples, or information that support the main idea.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Context Clues in reading?",
+          "back": "Information in surrounding text that helps determine the meaning of unfamiliar words.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Text Structure in reading?",
+          "back": "The organization and arrangement of information in a text.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Cause and Effect in reading?",
+          "back": "A relationship where one event leads to another.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Compare and Contrast in reading?",
+          "back": "Examining similarities and differences between two or more things.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Chronological Order in reading?",
+          "back": "Arrangement of events in the order they occurred.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Problem and Solution in reading?",
+          "back": "A structure that presents a problem and then offers solutions.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Sequence in reading?",
+          "back": "A series of steps or events in a specific order.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Description in reading?",
+          "back": "A structure that provides detailed information about a topic.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Author's Purpose in reading?",
+          "back": "The reason why an author wrote a text (to inform, persuade, entertain, etc.).",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Author's Bias in reading?",
+          "back": "A preference or prejudice that influences how an author presents information.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Fact vs. Opinion in reading?",
+          "back": "Distinguishing between statements that can be proven (facts) and personal beliefs (opinions).",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Credibility in reading?",
+          "back": "The quality of being believable or trustworthy.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Reliability in reading?",
+          "back": "The consistency and dependability of information.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Relevance in reading?",
+          "back": "How closely information relates to the topic or question at hand.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Currency in reading?",
+          "back": "How up-to-date or recent the information is.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Authority in reading?",
+          "back": "The expertise or qualifications of the author or source.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Accuracy in reading?",
+          "back": "The correctness and truthfulness of information.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        },
+        {
+          "front": "What is Objectivity in reading?",
+          "back": "The absence of bias or personal opinion in information.",
+          "type": "reading",
+          "category": "reading",
+          "difficulty": "intermediate",
+          "tags": [
+            "reading",
+            "english",
+            "comprehension"
+          ]
+        }
+      ],
+      "total_cards": 30,
+      "description": "Reading strategies and comprehension skills"
+    }
+  },
+  "all_cards": [
+    {
+      "front": "What is the meaning of 'Ubiquitous'?",
+      "back": "Present, appearing, or found everywhere; omnipresent.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Ephemeral'?",
+      "back": "Lasting for a very short time; transitory.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Serendipity'?",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Mellifluous'?",
+      "back": "Sweet or musical; pleasant to hear.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Perspicacious'?",
+      "back": "Having a ready insight into and understanding of things.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Ineffable'?",
+      "back": "Too great or extreme to be expressed or described in words.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Sycophant'?",
+      "back": "A person who acts obsequiously toward someone important in order to gain advantage.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Pulchritudinous'?",
+      "back": "Beautiful, especially in a way that is pleasing to the eye.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Defenestration'?",
+      "back": "The act of throwing someone out of a window.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Sesquipedalian'?",
+      "back": "Given to using long words; characterized by long words.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "intermediate",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Antidisestablishmentarianism'?",
+      "back": "Opposition to the withdrawal of state support from an established church.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "advanced",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Hippopotomonstrosesquippedaliophobia'?",
+      "back": "Fear of long words.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "advanced",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Pneumonoultramicroscopicsilicovolcanoconios'?",
+      "back": "A lung disease caused by inhaling very fine silicate or quartz dust.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "advanced",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Supercalifragilisticexpialidocious'?",
+      "back": "Extraordinarily good; wonderful.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "advanced",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Floccinaucinihilipilification'?",
+      "back": "The action or habit of estimating something as worthless.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "advanced",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Honorificabilitudinitatibus'?",
+      "back": "The state of being able to achieve honors.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "advanced",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "What is the meaning of 'Lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphiokarabomelitokatakechymenokichlepikossyphophattoperisteralektryonoptekephalliokigklopeleiolagoiosiraiobaphetraganopterygon'?",
+      "back": "A fictional dish mentioned in Aristophanes' comedy Assemblywomen.",
+      "type": "vocabulary",
+      "category": "vocabulary",
+      "difficulty": "advanced",
+      "tags": [
+        "vocabulary",
+        "english",
+        "words"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Noun",
+      "back": "A word that names a person, place, thing, or idea. Examples: cat, London, happiness, democracy.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Pronoun",
+      "back": "A word that takes the place of a noun. Examples: he, she, it, they, we, you, I.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Verb",
+      "back": "A word that expresses action or state of being. Examples: run, jump, is, was, have, do.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Adjective",
+      "back": "A word that describes or modifies a noun or pronoun. Examples: big, red, beautiful, intelligent.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Adverb",
+      "back": "A word that describes or modifies a verb, adjective, or other adverb. Examples: quickly, very, well, often.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Preposition",
+      "back": "A word that shows the relationship between a noun/pronoun and other words. Examples: in, on, at, by, for, with.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Conjunction",
+      "back": "A word that connects words, phrases, or clauses. Examples: and, but, or, because, although.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Interjection",
+      "back": "A word that expresses emotion or surprise. Examples: wow, oh, ouch, hurray.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Subject",
+      "back": "The person, place, thing, or idea that performs the action or is described in the sentence.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Predicate",
+      "back": "The part of the sentence that contains the verb and tells what the subject does or is.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Direct Object",
+      "back": "The noun or pronoun that receives the action of the verb directly.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Indirect Object",
+      "back": "The noun or pronoun that receives the direct object or for whom the action is done.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Object of Preposition",
+      "back": "The noun or pronoun that follows a preposition.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Present Simple",
+      "back": "Used for habits, general truths, and scheduled events. Example: 'I work every day.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Present Continuous",
+      "back": "Used for actions happening now or around now. Example: 'I am working right now.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Present Perfect",
+      "back": "Used for actions that started in the past and continue to the present. Example: 'I have worked here for five years.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Past Simple",
+      "back": "Used for completed actions in the past. Example: 'I worked yesterday.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Past Continuous",
+      "back": "Used for actions that were in progress at a specific time in the past. Example: 'I was working when you called.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Past Perfect",
+      "back": "Used for actions that were completed before another action in the past. Example: 'I had worked before you arrived.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Future Simple",
+      "back": "Used for predictions and spontaneous decisions. Example: 'I will work tomorrow.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Future Continuous",
+      "back": "Used for actions that will be in progress at a specific time in the future. Example: 'I will be working at 3 PM.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Future Perfect",
+      "back": "Used for actions that will be completed before a specific time in the future. Example: 'I will have worked for ten years by next month.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Subjunctive Mood",
+      "back": "A verb form used to express wishes, suggestions, or hypothetical situations. Example: 'If I were rich...'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Conditional Sentences",
+      "back": "Sentences that express hypothetical situations using 'if' clauses and different verb forms.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Passive Voice",
+      "back": "A sentence structure where the subject receives the action rather than performing it. Example: 'The book was written by the author.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Active Voice",
+      "back": "A sentence structure where the subject performs the action. Example: 'The author wrote the book.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Gerund",
+      "back": "A verb form ending in -ing that functions as a noun. Example: 'Swimming is good exercise.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Infinitive",
+      "back": "The base form of a verb, usually preceded by 'to'. Example: 'I want to learn.'",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Participle",
+      "back": "A verb form that can function as an adjective. Examples: 'The running water' (present participle), 'The broken glass' (past participle).",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Modal Verbs",
+      "back": "Auxiliary verbs that express necessity, possibility, permission, or ability. Examples: can, could, may, might, must, shall, should, will, would.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Relative Clauses",
+      "back": "Clauses that provide additional information about a noun, introduced by relative pronouns (who, which, that, whose).",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Explain the grammar rule: Subordinate Clauses",
+      "back": "Clauses that cannot stand alone as sentences and depend on a main clause for meaning.",
+      "type": "grammar",
+      "category": "grammar",
+      "difficulty": "intermediate",
+      "tags": [
+        "grammar",
+        "english",
+        "rules"
+      ]
+    },
+    {
+      "front": "Define and explain: Metaphor",
+      "back": "A direct comparison between two unlike things without using 'like' or 'as'. Example: 'Life is a journey.'",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Simile",
+      "back": "A comparison between two unlike things using 'like' or 'as'. Example: 'Life is like a box of chocolates.'",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Personification",
+      "back": "Giving human qualities to non-human objects or ideas. Example: 'The wind whispered through the trees.'",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Alliteration",
+      "back": "Repetition of initial consonant sounds in nearby words. Example: 'Peter Piper picked a peck of pickled peppers.'",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Assonance",
+      "back": "Repetition of vowel sounds in nearby words. Example: 'The rain in Spain falls mainly on the plain.'",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Consonance",
+      "back": "Repetition of consonant sounds in nearby words. Example: 'The lumpy, bumpy road.'",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Onomatopoeia",
+      "back": "Words that imitate sounds. Examples: buzz, hiss, roar, meow, bang.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Hyperbole",
+      "back": "Exaggeration for emphasis or effect. Example: 'I've told you a million times.'",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Understatement",
+      "back": "Presenting something as less significant than it actually is. Example: 'It's just a scratch' (for a major injury).",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Irony",
+      "back": "A contrast between expectation and reality. Example: A fire station burning down.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Dramatic Irony",
+      "back": "When the audience knows something that the characters in the story do not.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Verbal Irony",
+      "back": "When someone says the opposite of what they mean, often sarcastically.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Situational Irony",
+      "back": "When the outcome is the opposite of what was expected.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Plot",
+      "back": "The sequence of events that make up a story. Includes exposition, rising action, climax, falling action, and resolution.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Character",
+      "back": "A person, animal, or being in a story. Can be round (complex) or flat (simple), static (unchanging) or dynamic (changing).",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Setting",
+      "back": "The time and place where a story takes place. Includes physical location, historical period, and social environment.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Theme",
+      "back": "The central message or underlying meaning of a literary work. Examples: love, death, good vs. evil, coming of age.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Point of View",
+      "back": "The perspective from which a story is told. First person (I), second person (you), third person (he/she/they).",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Tone",
+      "back": "The author's attitude toward the subject or audience. Examples: serious, humorous, sarcastic, formal, informal.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Mood",
+      "back": "The emotional atmosphere created by a literary work. Examples: mysterious, tense, peaceful, gloomy.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Symbolism",
+      "back": "Using objects, characters, or events to represent abstract ideas or qualities. Example: A dove representing peace.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Foreshadowing",
+      "back": "Hints or clues about what will happen later in the story.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Flashback",
+      "back": "A scene that interrupts the present action to show events from the past.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Climax",
+      "back": "The turning point or highest point of tension in a story.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Resolution",
+      "back": "The conclusion of a story where conflicts are resolved.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Rhyme",
+      "back": "The repetition of similar sounds at the end of lines in poetry.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Rhythm",
+      "back": "The pattern of stressed and unstressed syllables in poetry.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Meter",
+      "back": "The regular pattern of stressed and unstressed syllables in a line of poetry.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Stanza",
+      "back": "A group of lines in poetry, similar to a paragraph in prose.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Couplet",
+      "back": "Two consecutive lines of poetry that rhyme.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Quatrain",
+      "back": "A four-line stanza in poetry.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Sonnet",
+      "back": "A 14-line poem with a specific rhyme scheme, often written in iambic pentameter.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Haiku",
+      "back": "A traditional Japanese poem with three lines of 5, 7, and 5 syllables.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Free Verse",
+      "back": "Poetry that doesn't follow a regular meter or rhyme scheme.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Define and explain: Blank Verse",
+      "back": "Unrhymed poetry written in iambic pentameter.",
+      "type": "literature",
+      "category": "literature",
+      "difficulty": "intermediate",
+      "tags": [
+        "literature",
+        "english",
+        "devices"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Introduction",
+      "back": "The opening paragraph that introduces the topic, provides background information, and presents the thesis statement.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Thesis Statement",
+      "back": "A clear, specific statement that presents the main argument or point of an essay.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Body Paragraphs",
+      "back": "The main sections of an essay that develop and support the thesis statement with evidence and analysis.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Topic Sentence",
+      "back": "The first sentence of each body paragraph that introduces the main idea of that paragraph.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Evidence",
+      "back": "Facts, examples, statistics, or expert opinions that support your claims.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Analysis",
+      "back": "Explanation of how your evidence supports your argument and why it matters.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Transitions",
+      "back": "Words or phrases that connect ideas and help readers follow your logic.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Conclusion",
+      "back": "The final paragraph that restates the thesis, summarizes main points, and provides closing thoughts.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Active Voice",
+      "back": "Writing where the subject performs the action, making sentences more direct and engaging.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Passive Voice",
+      "back": "Writing where the subject receives the action. Can be useful but often makes writing less clear.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Concise Writing",
+      "back": "Eliminating unnecessary words and phrases to make writing clear and powerful.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Parallel Structure",
+      "back": "Using the same grammatical form for similar ideas in a sentence or paragraph.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Varied Sentence Structure",
+      "back": "Mixing different sentence types (simple, compound, complex) to create rhythm and interest.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Strong Verbs",
+      "back": "Using specific, action-oriented verbs instead of weak or vague ones.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Specific Details",
+      "back": "Including concrete, specific information rather than general statements.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Show, Don't Tell",
+      "back": "Using descriptive details and examples instead of simply stating facts.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Claim",
+      "back": "A statement that presents your position on an issue.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Counterargument",
+      "back": "Addressing opposing viewpoints to strengthen your own argument.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Rebuttal",
+      "back": "Responding to counterarguments and explaining why your position is stronger.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Logical Fallacies",
+      "back": "Errors in reasoning that weaken arguments. Examples: ad hominem, straw man, false dilemma.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Ethos",
+      "back": "Appealing to credibility and character to persuade an audience.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Pathos",
+      "back": "Appealing to emotions to persuade an audience.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Logos",
+      "back": "Appealing to logic and reason to persuade an audience.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Primary Source",
+      "back": "Original documents or firsthand accounts of events.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Secondary Source",
+      "back": "Sources that analyze, interpret, or comment on primary sources.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Plagiarism",
+      "back": "Using someone else's words or ideas without proper attribution.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Citation",
+      "back": "Giving credit to sources used in your writing.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Bibliography",
+      "back": "A list of all sources consulted during research.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "Explain the writing concept: Works Cited",
+      "back": "A list of sources actually cited in your paper.",
+      "type": "writing",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "tags": [
+        "writing",
+        "english",
+        "techniques"
+      ]
+    },
+    {
+      "front": "What is Skimming in reading?",
+      "back": "Reading quickly to get the main idea or overview of a text.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Scanning in reading?",
+      "back": "Reading quickly to find specific information or details.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Close Reading in reading?",
+      "back": "Reading carefully and attentively to understand the text deeply.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Active Reading in reading?",
+      "back": "Engaging with the text by asking questions, making connections, and taking notes.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Annotation in reading?",
+      "back": "Adding notes, comments, or marks to a text while reading.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Summarizing in reading?",
+      "back": "Briefly restating the main ideas and key points of a text in your own words.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Paraphrasing in reading?",
+      "back": "Restating information from a text in your own words while maintaining the original meaning.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Inferring in reading?",
+      "back": "Drawing conclusions or making educated guesses based on evidence in the text.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Predicting in reading?",
+      "back": "Making educated guesses about what will happen next in a text.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Questioning in reading?",
+      "back": "Asking questions about the text to deepen understanding.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Main Idea in reading?",
+      "back": "The central point or most important message of a text.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Supporting Details in reading?",
+      "back": "Facts, examples, or information that support the main idea.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Context Clues in reading?",
+      "back": "Information in surrounding text that helps determine the meaning of unfamiliar words.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Text Structure in reading?",
+      "back": "The organization and arrangement of information in a text.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Cause and Effect in reading?",
+      "back": "A relationship where one event leads to another.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Compare and Contrast in reading?",
+      "back": "Examining similarities and differences between two or more things.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Chronological Order in reading?",
+      "back": "Arrangement of events in the order they occurred.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Problem and Solution in reading?",
+      "back": "A structure that presents a problem and then offers solutions.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Sequence in reading?",
+      "back": "A series of steps or events in a specific order.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Description in reading?",
+      "back": "A structure that provides detailed information about a topic.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Author's Purpose in reading?",
+      "back": "The reason why an author wrote a text (to inform, persuade, entertain, etc.).",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Author's Bias in reading?",
+      "back": "A preference or prejudice that influences how an author presents information.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Fact vs. Opinion in reading?",
+      "back": "Distinguishing between statements that can be proven (facts) and personal beliefs (opinions).",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Credibility in reading?",
+      "back": "The quality of being believable or trustworthy.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Reliability in reading?",
+      "back": "The consistency and dependability of information.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Relevance in reading?",
+      "back": "How closely information relates to the topic or question at hand.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Currency in reading?",
+      "back": "How up-to-date or recent the information is.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Authority in reading?",
+      "back": "The expertise or qualifications of the author or source.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Accuracy in reading?",
+      "back": "The correctness and truthfulness of information.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    },
+    {
+      "front": "What is Objectivity in reading?",
+      "back": "The absence of bias or personal opinion in information.",
+      "type": "reading",
+      "category": "reading",
+      "difficulty": "intermediate",
+      "tags": [
+        "reading",
+        "english",
+        "comprehension"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_cards": 143,
+    "vocabulary_cards": 17,
+    "grammar_cards": 32,
+    "literature_cards": 35,
+    "writing_cards": 29,
+    "reading_cards": 30
+  }
+}

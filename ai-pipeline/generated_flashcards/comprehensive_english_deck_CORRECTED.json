@@ -1,0 +1,340 @@
+{
+  "name": "Comprehensive English Master Deck (Corrected)",
+  "total_cards": 53,
+  "categories": [
+    "Vocabulary",
+    "Grammar",
+    "Literature"
+  ],
+  "cards": [
+    {
+      "front": "Define: magnificent",
+      "back": "Extremely beautiful, elaborate, or impressive",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: industrious",
+      "back": "Diligent and hardworking",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: luminous",
+      "back": "Giving off light; bright or shining",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: aurora",
+      "back": "Natural light display in the sky, especially in polar regions",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: determined",
+      "back": "Having made a firm decision and being resolved not to change it",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: articulate",
+      "back": "Having or showing the ability to speak fluently and coherently",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: steadfast",
+      "back": "Resolutely or dutifully firm and unwavering",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: inventive",
+      "back": "Having the ability to create or design new things",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: conscientious",
+      "back": "Wishing to do what is right, especially to do one's work well",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Passive Voice",
+      "question": "How do you form passive voice?",
+      "back": "Object + be + past participle + by + subject",
+      "type": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: tenacious",
+      "back": "Tending to keep a firm hold of something; clinging or adhering closely",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: empathetic",
+      "back": "Showing an ability to understand and share the feelings of another",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: credible",
+      "back": "Able to be believed; convincing",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Present Perfect vs Past Simple",
+      "question": "When do you use \"have been\" vs \"was\"?",
+      "back": "Present perfect for ongoing/recent actions, past simple for completed actions",
+      "type": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: convincing",
+      "back": "Able to persuade someone that something is true or right",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: expressive",
+      "back": "Effectively conveying thought or feeling",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: reliable",
+      "back": "Consistently good in quality or performance; able to be trusted",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: meticulous",
+      "back": "Showing great attention to detail; very careful and precise",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: innovative",
+      "back": "Featuring new methods or ideas",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: kind",
+      "back": "Having or showing a friendly, generous, and considerate nature",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: persistent",
+      "back": "Continuing firmly or obstinately in a course of action",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: resplendent",
+      "back": "Attractive and impressive through being richly colorful or sumptuous",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "The Great Gatsby",
+      "question": "What is the green light a symbol of in \"The Great Gatsby\"?",
+      "back": "The American Dream",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Conditional Sentences",
+      "question": "What are the 4 types of conditional sentences?",
+      "back": "Zero, First, Second, and Third conditionals",
+      "type": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Shakespeare",
+      "question": "Who wrote \"Romeo and Juliet\"?",
+      "back": "William Shakespeare",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: compassionate",
+      "back": "Feeling or showing sympathy and concern for others",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: genuine",
+      "back": "Truly what something is said to be; authentic",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: eloquent",
+      "back": "Fluent or persuasive in speaking or writing",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: resilient",
+      "back": "Able to withstand or recover quickly from difficult conditions",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "To Kill a Mockingbird",
+      "question": "Who is the narrator of \"To Kill a Mockingbird\"?",
+      "back": "Scout Finch",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: ephemeral",
+      "back": "Lasting for a very short time; transitory",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: hardworking",
+      "back": "Tending to work with energy and commitment; diligent",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: compelling",
+      "back": "Evoking interest, attention, or admiration in a powerfully irresistible way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: original",
+      "back": "Present or existing from the beginning; first or earliest",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: mellifluous",
+      "back": "Sweet or musical; pleasant to hear",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Reported Speech",
+      "question": "How do you change direct to reported speech?",
+      "back": "Change tense back one step and adjust pronouns/time expressions",
+      "type": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: authentic",
+      "back": "Of undisputed origin and not a copy; genuine",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: diligent",
+      "back": "Having or showing care and conscientiousness in one's work or duties",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: creative",
+      "back": "Relating to or involving the imagination or original ideas",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Modal Verbs",
+      "question": "What do modal verbs express?",
+      "back": "Possibility, necessity, ability, permission, obligation",
+      "type": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: communicative",
+      "back": "Willing, eager, or able to talk or impart information",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: caring",
+      "back": "Displaying kindness and concern for others",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: sympathetic",
+      "back": "Feeling, showing, or expressing sympathy",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: petrichor",
+      "back": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: serendipity",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: imaginative",
+      "back": "Having or showing creativity or inventiveness",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Pride and Prejudice",
+      "question": "Who is the protagonist of \"Pride and Prejudice\"?",
+      "back": "Elizabeth Bennet",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: ethereal",
+      "back": "Extremely delicate and light in a way that seems not to be of this world",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: legitimate",
+      "back": "Conforming to the law or to rules",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: fluent",
+      "back": "Able to express oneself easily and articulately",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: ubiquitous",
+      "back": "Present, appearing, or found everywhere",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "1984",
+      "question": "Who wrote \"1984\"?",
+      "back": "George Orwell",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: persuasive",
+      "back": "Good at persuading someone to do or believe something",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    }
+  ],
+  "created_at": "2024-12-19 (Corrected)"
+}

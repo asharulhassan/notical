@@ -1,0 +1,623 @@
+{
+  "name": "Humanities Training Deck (80%)",
+  "total_cards": 88,
+  "cards": [
+    {
+      "front": "Epicurus",
+      "question": "What did Epicurus believe was the goal of life?",
+      "back": "Pleasure and absence of pain",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Viking Age",
+      "question": "When was the Viking Age?",
+      "back": "793-1066 CE",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Plato",
+      "question": "Who wrote \"The Republic\"?",
+      "back": "Plato",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Fall of Soviet Union",
+      "question": "When did the Soviet Union collapse?",
+      "back": "1991",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Rivers",
+      "question": "What is the longest river in the world?",
+      "back": "Nile River",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Greek Democracy",
+      "question": "Which city-state is considered the birthplace of democracy?",
+      "back": "Athens",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Aristotle",
+      "question": "Who was the student of Plato?",
+      "back": "Aristotle",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Feminism",
+      "question": "What is feminist philosophy?",
+      "back": "Philosophy from women's perspective",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Confucius",
+      "question": "Who said \"Do not do to others what you do not want done to yourself\"?",
+      "back": "Confucius",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Education",
+      "question": "What is education?",
+      "back": "Formal process of learning and socialization",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Population",
+      "question": "What is the most populous country?",
+      "back": "China",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Pragmatism",
+      "question": "What is pragmatism?",
+      "back": "Truth is what works in practice",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Socrates",
+      "question": "Who said \"The unexamined life is not worth living\"?",
+      "back": "Socrates",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Family",
+      "question": "What is a family?",
+      "back": "Basic social unit for reproduction and socialization",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Continents",
+      "question": "How many continents are there?",
+      "back": "7",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Hundred Years War",
+      "question": "How long did the Hundred Years War last?",
+      "back": "116 years (1337-1453)",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Functionalism",
+      "question": "What is functionalism?",
+      "back": "Society as a system of interconnected parts",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Chinese Dynasties",
+      "question": "Which dynasty built the Great Wall of China?",
+      "back": "Qin Dynasty",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Intelligence",
+      "question": "What is intelligence?",
+      "back": "Ability to learn and adapt",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Development",
+      "question": "What is a developed country?",
+      "back": "Country with high standard of living and economy",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Stoicism",
+      "question": "What is the main principle of Stoicism?",
+      "back": "Accept what you cannot change",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Phenomenology",
+      "question": "What is phenomenology?",
+      "back": "Study of conscious experience",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Conflict Theory",
+      "question": "What is conflict theory?",
+      "back": "Society characterized by inequality and conflict",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Byzantine Empire",
+      "question": "What was the capital of the Byzantine Empire?",
+      "back": "Constantinople",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Buddha",
+      "question": "What are the Four Noble Truths?",
+      "back": "Suffering, cause of suffering, end of suffering, path to end suffering",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Nietzsche",
+      "question": "Who said \"God is dead\"?",
+      "back": "Friedrich Nietzsche",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Roman Empire",
+      "question": "When did the Roman Empire fall?",
+      "back": "476 CE",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Social Influence",
+      "question": "What is social influence?",
+      "back": "Effect of others on thoughts and behavior",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Leadership",
+      "question": "What is leadership?",
+      "back": "Influencing group members toward goals",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Industrial Revolution",
+      "question": "When did the Industrial Revolution begin?",
+      "back": "Late 18th century",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Trade",
+      "question": "What is international trade?",
+      "back": "Exchange of goods and services between countries",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Islamic Golden Age",
+      "question": "When was the Islamic Golden Age?",
+      "back": "8th-14th centuries",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Earthquakes",
+      "question": "What causes earthquakes?",
+      "back": "Movement of tectonic plates",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Attitudes",
+      "question": "What are attitudes?",
+      "back": "Evaluations of people, objects, and ideas",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Feminist Theory",
+      "question": "What is feminist theory?",
+      "back": "Analysis of gender inequality",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Cynicism",
+      "question": "Who was the founder of Cynicism?",
+      "back": "Diogenes",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Deserts",
+      "question": "What is the largest desert in the world?",
+      "back": "Sahara Desert",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Economy",
+      "question": "What is economy?",
+      "back": "System of production and distribution",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Indus Valley",
+      "question": "What was the main city of the Indus Valley Civilization?",
+      "back": "Mohenjo-daro",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "French Revolution",
+      "question": "What year did the French Revolution begin?",
+      "back": "1789",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Attraction",
+      "question": "What is attraction?",
+      "back": "Positive feelings toward others",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Rational Choice Theory",
+      "question": "What is rational choice theory?",
+      "back": "Individuals act rationally to maximize benefits",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Feudalism",
+      "question": "What was the main economic system in medieval Europe?",
+      "back": "Feudalism",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Renaissance",
+      "question": "What does \"Renaissance\" mean?",
+      "back": "Rebirth",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Cold War",
+      "question": "When was the Cold War?",
+      "back": "1947-1991",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Magna Carta",
+      "question": "What year was the Magna Carta signed?",
+      "back": "1215",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Religions",
+      "question": "What is the largest religion?",
+      "back": "Christianity",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Language",
+      "question": "What is language acquisition?",
+      "back": "Process of learning language",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Mesopotamia",
+      "question": "What does \"Mesopotamia\" mean?",
+      "back": "Land between two rivers (Tigris and Euphrates)",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Memory",
+      "question": "What are the three stages of memory?",
+      "back": "Encoding, storage, retrieval",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Persian Empire",
+      "question": "Who was the founder of the Persian Empire?",
+      "back": "Cyrus the Great",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Vedanta",
+      "question": "What does \"Vedanta\" mean?",
+      "back": "End of the Vedas",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Migration",
+      "question": "What is migration?",
+      "back": "Movement of people from one place to another",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Biomes",
+      "question": "What is a biome?",
+      "back": "Large ecological area with similar climate and vegetation",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Symbolic Interactionism",
+      "question": "What is symbolic interactionism?",
+      "back": "Focus on social interaction and meaning",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Volcanoes",
+      "question": "What is the most active volcano?",
+      "back": "Kilauea",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Healthcare",
+      "question": "What is healthcare?",
+      "back": "System of medical services",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Obedience",
+      "question": "What is obedience?",
+      "back": "Following orders from authority",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Languages",
+      "question": "What is the most spoken language?",
+      "back": "Mandarin Chinese",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Perception",
+      "question": "What is perception?",
+      "back": "Process of organizing and interpreting sensory information",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Religion",
+      "question": "What is religion?",
+      "back": "System of beliefs and practices about sacred things",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Black Death",
+      "question": "When did the Black Death occur in Europe?",
+      "back": "1347-1351",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Postmodernism",
+      "question": "What is postmodernism?",
+      "back": "Questioning of modern assumptions",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Existentialism",
+      "question": "What is existentialism?",
+      "back": "Philosophy focusing on individual existence and freedom",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Media",
+      "question": "What is media?",
+      "back": "Means of mass communication",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Kant",
+      "question": "What is Kant's categorical imperative?",
+      "back": "Act only according to universal law",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Taoism",
+      "question": "What is the Tao?",
+      "back": "The way or path",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Weather",
+      "question": "What is the difference between weather and climate?",
+      "back": "Weather is short-term, climate is long-term",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Social Constructionism",
+      "question": "What is social constructionism?",
+      "back": "Reality is socially constructed",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "World War I",
+      "question": "When did World War I begin?",
+      "back": "1914",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Mongol Empire",
+      "question": "Who was the founder of the Mongol Empire?",
+      "back": "Genghis Khan",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Climate Zones",
+      "question": "How many main climate zones are there?",
+      "back": "5",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "World War II",
+      "question": "When did World War II end?",
+      "back": "1945",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Prejudice",
+      "question": "What is prejudice?",
+      "back": "Negative attitude toward group members",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Berlin Wall",
+      "question": "When did the Berlin Wall fall?",
+      "back": "1989",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Thinking",
+      "question": "What is problem solving?",
+      "back": "Process of finding solutions to problems",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Cities",
+      "question": "What is the most populous city?",
+      "back": "Tokyo",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Crusades",
+      "question": "What were the Crusades?",
+      "back": "Religious wars between Christians and Muslims",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Military",
+      "question": "What is military?",
+      "back": "Armed forces for national defense",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Creativity",
+      "question": "What is creativity?",
+      "back": "Ability to produce novel and valuable ideas",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Critical Theory",
+      "question": "What is critical theory?",
+      "back": "Analysis of power and domination",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Attention",
+      "question": "What is selective attention?",
+      "back": "Focusing on specific stimuli while ignoring others",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Altruism",
+      "question": "What is altruism?",
+      "back": "Helping others without expecting reward",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "American Civil War",
+      "question": "When was the American Civil War?",
+      "back": "1861-1865",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Social Exchange Theory",
+      "question": "What is social exchange theory?",
+      "back": "Social behavior as exchange of rewards",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Mountains",
+      "question": "What is the highest mountain in the world?",
+      "back": "Mount Everest",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Economy",
+      "question": "What is GDP?",
+      "back": "Gross Domestic Product",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Phoenicians",
+      "question": "What were the Phoenicians known for?",
+      "back": "Sea trade and the alphabet",
+      "type": "history",
+      "difficulty": "medium"
+    }
+  ],
+  "split": "training"
+}

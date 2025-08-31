@@ -1,0 +1,218 @@
+{
+  "paper_info": {
+    "question_paper": "9702_w22_qp_12.pdf",
+    "mark_scheme": "9702_w22_ms_12.pdf",
+    "total_questions": 15
+  },
+  "mcq_data": [
+    {
+      "question_number": "10",
+      "question_content": "10 A parachutist falls from rest from a balloon. The variation with time of the vertical velocity of the parachutist is shown. In which region is the force due to air resistance much greater than the weight of the parachutist? vertical velocity time 0 0",
+      "options": {
+        "B": "They act along different lines.",
+        "C": "They have the same magnitude.",
+        "D": "They produce a resultant force.",
+        "A": "They act in opposite directions."
+      },
+      "correct_answer": "C",
+      "question_line": 360,
+      "answer_line": 79,
+      "confidence": "high"
+    },
+    {
+      "question_number": "13",
+      "question_content": "13 A box of length 12 cm and weight 0.43 N is placed on a horizontal table, with the greater part of its length overhanging the edge of the table. The edge of the table acts as a pivot. The centre of gravity of the box is at its geometric centre. To balance the box, a uniform sphere of diameter 2.4 cm is placed inside the box, touching one end, as shown. box table edge of table (pivot) sphere 2.4 cm 12 cm Assume that the forces acting on the box are in the plane of the diagram. What is the minimum mass of the sphere that is needed to maintain the system in equilibrium?",
+      "options": {
+        "B": "0.13 kg",
+        "C": "0.22 kg",
+        "D": "1.3 kg"
+      },
+      "correct_answer": "B",
+      "question_line": 414,
+      "answer_line": 88,
+      "confidence": "high"
+    },
+    {
+      "question_number": "14",
+      "question_content": "14 An object is suspended by two ropes. One rope has a tension of 410 N at an angle of 60 to the horizontal. The other rope has a tension of 210 N at an angle of 10 to the horizontal. ropes 10� 60� 410 N 210 N object The object is in equilibrium. What is the mass of the object?",
+      "options": {
+        "B": "42 kg",
+        "C": "390 kg",
+        "D": "410 kg"
+      },
+      "correct_answer": "A",
+      "question_line": 448,
+      "answer_line": 91,
+      "confidence": "high"
+    },
+    {
+      "question_number": "15",
+      "question_content": "15 A solid cube is floating in equilibrium in liquid mercury. The cube is made of iron of density 7900 kg m–3. The cube floats with 42% of its volume above the surface of the mercury. What is the density of the mercury?",
+      "options": {
+        "B": "1",
+        "C": "2",
+        "D": "2",
+        "A": "1"
+      },
+      "correct_answer": "C",
+      "question_line": 472,
+      "answer_line": 94,
+      "confidence": "high"
+    },
+    {
+      "question_number": "17",
+      "question_content": "17 A motor is used to lift a load vertically upwards. The load has weight W. The motor produces useful power output P. The load is lifted at constant velocity v. Which expression gives the time taken for the motor to lift the load vertically upwards through a distance d ?",
+      "options": {
+        "B": "P",
+        "C": "P",
+        "D": "W"
+      },
+      "correct_answer": "C",
+      "question_line": 521,
+      "answer_line": 100,
+      "confidence": "high"
+    },
+    {
+      "question_number": "18",
+      "question_content": "18 A lamp is switched on for 2.0 hours. The power input to the lamp is 1.0 W. The energy given out by the lamp as light is 7.0  103 J. How much energy is converted to other forms by the lamp?",
+      "options": {
+        "B": "200 J",
+        "C": "3400 J",
+        "D": "7200 J"
+      },
+      "correct_answer": "B",
+      "question_line": 545,
+      "answer_line": 103,
+      "confidence": "high"
+    },
+    {
+      "question_number": "19",
+      "question_content": "19 An object of mass m is dropped onto the surface of two planets, X and Y, which have no atmosphere. The height from which the object is dropped and the change in gravitational potential energy of the object, for each planet, are given in the table. height / m change in gravitational potential energy planet X 3 ∆E planet Y 4 4∆E The acceleration of free fall near the surface of planet X is gX. What is the acceleration of free fall near the surface of planet Y?",
+      "options": {
+        "B": "3 X",
+        "C": "3gX",
+        "D": "4gX"
+      },
+      "correct_answer": "C",
+      "question_line": 560,
+      "answer_line": 106,
+      "confidence": "high"
+    },
+    {
+      "question_number": "20",
+      "question_content": "20 A known tensile force acts on a metal wire. The wire does not exceed its limit of proportionality. Which two measurements enable the strain of the wire to be calculated?",
+      "options": {
+        "B": "the unstretched length of the wire and the extension of the wire",
+        "C": "the Young modulus of the metal and the extension of the wire",
+        "D": "the Young modulus of the metal and the unstretched length of the wire"
+      },
+      "correct_answer": "B",
+      "question_line": 592,
+      "answer_line": 109,
+      "confidence": "high"
+    },
+    {
+      "question_number": "21",
+      "question_content": "21 A wire is extended by different forces. The wire obeys Hooke’s law.",
+      "options": {
+        "A": "elastic potential energy",
+        "B": "extension",
+        "C": "force",
+        "D": "extension"
+      },
+      "correct_answer": "A",
+      "question_line": 611,
+      "answer_line": 112,
+      "confidence": "high"
+    },
+    {
+      "question_number": "22",
+      "question_content": "22 A wave pulse moves along a stretched rope in the direction shown. P Which diagram shows the variation with time t of the displacement s of the particle P in the rope?",
+      "options": {
+        "B": "Transverse waves can be polarised but longitudinal waves cannot.",
+        "C": "Transverse waves transfer energy but longitudinal waves do not.",
+        "D": "Two-source interference can be demonstrated with transverse waves but not with",
+        "A": "Particles in a transverse wave have fixed equilibrium positions but those in longitudinal"
+      },
+      "correct_answer": "D",
+      "question_line": 640,
+      "answer_line": 115,
+      "confidence": "high"
+    },
+    {
+      "question_number": "24",
+      "question_content": "24 A miniature loudspeaker, initially at rest, falls vertically from a window in a high building. When the speaker has fallen a distance of 10.0 m, it emits a very short pulse of sound of constant frequency 256 Hz in all directions. The pulse of sound, travelling at a speed of 330 m s–1, is heard by a person leaning out of the window. Air resistance is negligible. What is the frequency of the pulse of sound heard by the person?",
+      "options": {
+        "B": "",
+        "C": "",
+        "D": "",
+        "A": ""
+      },
+      "correct_answer": "A",
+      "question_line": 685,
+      "answer_line": 121,
+      "confidence": "high"
+    },
+    {
+      "question_number": "31",
+      "question_content": "31 A nichrome wire has a resistance of 15  and a diameter of 3.0 mm. The number density of the free electrons in nichrome is 9.0  1028 m–3.",
+      "options": {
+        "A": "The resistance of the lamp decreases because the temperature decreases.",
+        "B": "The resistance of the lamp decreases because the temperature increases.",
+        "C": "The resistance of the lamp increases because the temperature decreases.",
+        "D": "The resistance of the lamp increases because the temperature increases."
+      },
+      "correct_answer": "B",
+      "question_line": 883,
+      "answer_line": 155,
+      "confidence": "high"
+    },
+    {
+      "question_number": "34",
+      "question_content": "34 A metal wire has resistance R. The wire is stretched so that its diameter decreases to 94.0% of the original diameter. The volume of the wire is unchanged. What is the resistance of the stretched wire?",
+      "options": {
+        "B": "0.43 W",
+        "C": "0.64 W",
+        "D": "1.0 W",
+        "A": "0.22 W"
+      },
+      "correct_answer": "D",
+      "question_line": 942,
+      "answer_line": 164,
+      "confidence": "high"
+    },
+    {
+      "question_number": "36",
+      "question_content": "36 A circuit consists of a battery, a high-resistance voltmeter and four fixed resistors, as shown. The battery has an electromotive force (e.m.f.) of 15.0 V and negligible internal resistance. V 24.0 � 6.0 � 6.0 � 9.0 � 15.0 V What is the reading on the voltmeter?",
+      "options": {
+        "B": "6.0 V",
+        "C": "9.0 V",
+        "D": "12.0 V"
+      },
+      "correct_answer": "B",
+      "question_line": 980,
+      "answer_line": 170,
+      "confidence": "high"
+    },
+    {
+      "question_number": "37",
+      "question_content": "37 A potential divider circuit is designed to detect the difference in temperature between two different places. V X Y 20 mV The cell has electromotive force (e.m.f.) 20 mV and negligible internal resistance. Initially, thermistors X and Y are at the same temperature and have the same resistance. The voltmeter reads 10 mV. X is then placed in a cold environment and its resistance doubles. Y is placed in a warm environment and its resistance halves. What is the new reading on the voltmeter?",
+      "options": {
+        "B": "positron",
+        "C": "proton",
+        "D": "quark",
+        "A": "meson"
+      },
+      "correct_answer": "A",
+      "question_line": 1008,
+      "answer_line": 173,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "total_pairs": 15,
+    "questions_with_options": 15,
+    "questions_without_options": 0,
+    "success_rate": 37.5
+  }
+}

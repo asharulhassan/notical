@@ -1,0 +1,559 @@
+{
+  "questions": [
+    {
+      "number": "10",
+      "content": "parachutist falls from rest from a balloon. The variation with time of the vertical velocity of the",
+      "line_number": 359,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "10 A parachutist falls from rest from a balloon. The variation with time of the vertical velocity of the"
+    },
+    {
+      "number": "13",
+      "content": "box of length 12 cm and weight 0.43 N is placed on a horizontal table, with the greater part of its",
+      "line_number": 413,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "13 A box of length 12 cm and weight 0.43 N is placed on a horizontal table, with the greater part of its"
+    },
+    {
+      "number": "14",
+      "content": "n object is suspended by two ropes. One rope has a tension of 410 N at an angle of 60\uf0b0 to the",
+      "line_number": 447,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "14 An object is suspended by two ropes. One rope has a tension of 410 N at an angle of 60\uf0b0 to the"
+    },
+    {
+      "number": "15",
+      "content": "solid cube is floating in equilibrium in liquid mercury. The cube is made of iron of density",
+      "line_number": 471,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "15 A solid cube is floating in equilibrium in liquid mercury. The cube is made of iron of density"
+    },
+    {
+      "number": "17",
+      "content": "motor is used to lift a load vertically upwards.",
+      "line_number": 520,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "17 A motor is used to lift a load vertically upwards."
+    },
+    {
+      "number": "18",
+      "content": "lamp is switched on for 2.0 hours. The power input to the lamp is 1.0 W. The energy given out",
+      "line_number": 544,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "18 A lamp is switched on for 2.0 hours. The power input to the lamp is 1.0 W. The energy given out"
+    },
+    {
+      "number": "19",
+      "content": "n object of mass m is dropped onto the surface of two planets, X and Y, which have no",
+      "line_number": 559,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "19 An object of mass m is dropped onto the surface of two planets, X and Y, which have no"
+    },
+    {
+      "number": "20",
+      "content": "known tensile force acts on a metal wire. The wire does not exceed its limit of proportionality.",
+      "line_number": 591,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "20 A known tensile force acts on a metal wire. The wire does not exceed its limit of proportionality."
+    },
+    {
+      "number": "21",
+      "content": "wire is extended by different forces. The wire obeys Hooke\u2019s law.",
+      "line_number": 610,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "21 A wire is extended by different forces. The wire obeys Hooke\u2019s law."
+    },
+    {
+      "number": "22",
+      "content": "wave pulse moves along a stretched rope in the direction shown.",
+      "line_number": 639,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "22 A wave pulse moves along a stretched rope in the direction shown."
+    },
+    {
+      "number": "24",
+      "content": "miniature loudspeaker, initially at rest, falls vertically from a window in a high building. When",
+      "line_number": 684,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "24 A miniature loudspeaker, initially at rest, falls vertically from a window in a high building. When"
+    },
+    {
+      "number": "31",
+      "content": "nichrome wire has a resistance of 15 \uf057 and a diameter of 3.0 mm. The number density of the",
+      "line_number": 882,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "31 A nichrome wire has a resistance of 15 \uf057 and a diameter of 3.0 mm. The number density of the"
+    },
+    {
+      "number": "34",
+      "content": "metal wire has resistance R.",
+      "line_number": 941,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "34 A metal wire has resistance R."
+    },
+    {
+      "number": "36",
+      "content": "circuit consists of a battery, a high-resistance voltmeter and four fixed resistors, as shown. The",
+      "line_number": 979,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "36 A circuit consists of a battery, a high-resistance voltmeter and four fixed resistors, as shown. The"
+    },
+    {
+      "number": "37",
+      "content": "potential divider circuit is designed to detect the difference in temperature between two different",
+      "line_number": 1007,
+      "pattern_used": "^(\\d+)\\s+[A-D]",
+      "full_line": "37 A potential divider circuit is designed to detect the difference in temperature between two different"
+    }
+  ],
+  "answers": [
+    {
+      "number": "1",
+      "option": "D",
+      "question_line": 51,
+      "answer_line": 51,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q1: D"
+    },
+    {
+      "number": "2",
+      "option": "C",
+      "question_line": 54,
+      "answer_line": 54,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q2: C"
+    },
+    {
+      "number": "3",
+      "option": "D",
+      "question_line": 57,
+      "answer_line": 57,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q3: D"
+    },
+    {
+      "number": "4",
+      "option": "C",
+      "question_line": 60,
+      "answer_line": 60,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q4: C"
+    },
+    {
+      "number": "5",
+      "option": "A",
+      "question_line": 63,
+      "answer_line": 63,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q5: A"
+    },
+    {
+      "number": "6",
+      "option": "A",
+      "question_line": 66,
+      "answer_line": 66,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q6: A"
+    },
+    {
+      "number": "7",
+      "option": "D",
+      "question_line": 69,
+      "answer_line": 69,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q7: D"
+    },
+    {
+      "number": "8",
+      "option": "C",
+      "question_line": 72,
+      "answer_line": 72,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q8: C"
+    },
+    {
+      "number": "9",
+      "option": "B",
+      "question_line": 75,
+      "answer_line": 75,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q9: B"
+    },
+    {
+      "number": "10",
+      "option": "C",
+      "question_line": 78,
+      "answer_line": 78,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q10: C"
+    },
+    {
+      "number": "11",
+      "option": "D",
+      "question_line": 81,
+      "answer_line": 81,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q11: D"
+    },
+    {
+      "number": "12",
+      "option": "D",
+      "question_line": 84,
+      "answer_line": 84,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q12: D"
+    },
+    {
+      "number": "13",
+      "option": "B",
+      "question_line": 87,
+      "answer_line": 87,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q13: B"
+    },
+    {
+      "number": "14",
+      "option": "A",
+      "question_line": 90,
+      "answer_line": 90,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q14: A"
+    },
+    {
+      "number": "15",
+      "option": "C",
+      "question_line": 93,
+      "answer_line": 93,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q15: C"
+    },
+    {
+      "number": "16",
+      "option": "A",
+      "question_line": 96,
+      "answer_line": 96,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q16: A"
+    },
+    {
+      "number": "17",
+      "option": "C",
+      "question_line": 99,
+      "answer_line": 99,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q17: C"
+    },
+    {
+      "number": "18",
+      "option": "B",
+      "question_line": 102,
+      "answer_line": 102,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q18: B"
+    },
+    {
+      "number": "19",
+      "option": "C",
+      "question_line": 105,
+      "answer_line": 105,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q19: C"
+    },
+    {
+      "number": "20",
+      "option": "B",
+      "question_line": 108,
+      "answer_line": 108,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q20: B"
+    },
+    {
+      "number": "21",
+      "option": "A",
+      "question_line": 111,
+      "answer_line": 111,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q21: A"
+    },
+    {
+      "number": "22",
+      "option": "D",
+      "question_line": 114,
+      "answer_line": 114,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q22: D"
+    },
+    {
+      "number": "23",
+      "option": "B",
+      "question_line": 117,
+      "answer_line": 117,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q23: B"
+    },
+    {
+      "number": "24",
+      "option": "A",
+      "question_line": 120,
+      "answer_line": 120,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q24: A"
+    },
+    {
+      "number": "25",
+      "option": "B",
+      "question_line": 123,
+      "answer_line": 123,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q25: B"
+    },
+    {
+      "number": "26",
+      "option": "D",
+      "question_line": 126,
+      "answer_line": 126,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q26: D"
+    },
+    {
+      "number": "27",
+      "option": "B",
+      "question_line": 129,
+      "answer_line": 129,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q27: B"
+    },
+    {
+      "number": "28",
+      "option": "C",
+      "question_line": 132,
+      "answer_line": 132,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q28: C"
+    },
+    {
+      "number": "29",
+      "option": "C",
+      "question_line": 148,
+      "answer_line": 148,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q29: C"
+    },
+    {
+      "number": "30",
+      "option": "D",
+      "question_line": 151,
+      "answer_line": 151,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q30: D"
+    },
+    {
+      "number": "31",
+      "option": "B",
+      "question_line": 154,
+      "answer_line": 154,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q31: B"
+    },
+    {
+      "number": "32",
+      "option": "B",
+      "question_line": 157,
+      "answer_line": 157,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q32: B"
+    },
+    {
+      "number": "33",
+      "option": "D",
+      "question_line": 160,
+      "answer_line": 160,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q33: D"
+    },
+    {
+      "number": "34",
+      "option": "D",
+      "question_line": 163,
+      "answer_line": 163,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q34: D"
+    },
+    {
+      "number": "35",
+      "option": "A",
+      "question_line": 166,
+      "answer_line": 166,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q35: A"
+    },
+    {
+      "number": "36",
+      "option": "B",
+      "question_line": 169,
+      "answer_line": 169,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q36: B"
+    },
+    {
+      "number": "37",
+      "option": "A",
+      "question_line": 172,
+      "answer_line": 172,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q37: A"
+    },
+    {
+      "number": "38",
+      "option": "C",
+      "question_line": 175,
+      "answer_line": 175,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q38: C"
+    },
+    {
+      "number": "39",
+      "option": "B",
+      "question_line": 178,
+      "answer_line": 178,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q39: B"
+    },
+    {
+      "number": "40",
+      "option": "B",
+      "question_line": 181,
+      "answer_line": 181,
+      "pattern_used": "fixed_table_reconstruction",
+      "full_line": "Q40: B"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "question_number": "10",
+      "question_content": "parachutist falls from rest from a balloon. The variation with time of the vertical velocity of the",
+      "answer_option": "C",
+      "question_line": 359,
+      "answer_line": 78,
+      "confidence": "high"
+    },
+    {
+      "question_number": "13",
+      "question_content": "box of length 12 cm and weight 0.43 N is placed on a horizontal table, with the greater part of its",
+      "answer_option": "B",
+      "question_line": 413,
+      "answer_line": 87,
+      "confidence": "high"
+    },
+    {
+      "question_number": "14",
+      "question_content": "n object is suspended by two ropes. One rope has a tension of 410 N at an angle of 60\uf0b0 to the",
+      "answer_option": "A",
+      "question_line": 447,
+      "answer_line": 90,
+      "confidence": "high"
+    },
+    {
+      "question_number": "15",
+      "question_content": "solid cube is floating in equilibrium in liquid mercury. The cube is made of iron of density",
+      "answer_option": "C",
+      "question_line": 471,
+      "answer_line": 93,
+      "confidence": "high"
+    },
+    {
+      "question_number": "17",
+      "question_content": "motor is used to lift a load vertically upwards.",
+      "answer_option": "C",
+      "question_line": 520,
+      "answer_line": 99,
+      "confidence": "high"
+    },
+    {
+      "question_number": "18",
+      "question_content": "lamp is switched on for 2.0 hours. The power input to the lamp is 1.0 W. The energy given out",
+      "answer_option": "B",
+      "question_line": 544,
+      "answer_line": 102,
+      "confidence": "high"
+    },
+    {
+      "question_number": "19",
+      "question_content": "n object of mass m is dropped onto the surface of two planets, X and Y, which have no",
+      "answer_option": "C",
+      "question_line": 559,
+      "answer_line": 105,
+      "confidence": "high"
+    },
+    {
+      "question_number": "20",
+      "question_content": "known tensile force acts on a metal wire. The wire does not exceed its limit of proportionality.",
+      "answer_option": "B",
+      "question_line": 591,
+      "answer_line": 108,
+      "confidence": "high"
+    },
+    {
+      "question_number": "21",
+      "question_content": "wire is extended by different forces. The wire obeys Hooke\u2019s law.",
+      "answer_option": "A",
+      "question_line": 610,
+      "answer_line": 111,
+      "confidence": "high"
+    },
+    {
+      "question_number": "22",
+      "question_content": "wave pulse moves along a stretched rope in the direction shown.",
+      "answer_option": "D",
+      "question_line": 639,
+      "answer_line": 114,
+      "confidence": "high"
+    },
+    {
+      "question_number": "24",
+      "question_content": "miniature loudspeaker, initially at rest, falls vertically from a window in a high building. When",
+      "answer_option": "A",
+      "question_line": 684,
+      "answer_line": 120,
+      "confidence": "high"
+    },
+    {
+      "question_number": "31",
+      "question_content": "nichrome wire has a resistance of 15 \uf057 and a diameter of 3.0 mm. The number density of the",
+      "answer_option": "B",
+      "question_line": 882,
+      "answer_line": 154,
+      "confidence": "high"
+    },
+    {
+      "question_number": "34",
+      "question_content": "metal wire has resistance R.",
+      "answer_option": "D",
+      "question_line": 941,
+      "answer_line": 163,
+      "confidence": "high"
+    },
+    {
+      "question_number": "36",
+      "question_content": "circuit consists of a battery, a high-resistance voltmeter and four fixed resistors, as shown. The",
+      "answer_option": "B",
+      "question_line": 979,
+      "answer_line": 169,
+      "confidence": "high"
+    },
+    {
+      "question_number": "37",
+      "question_content": "potential divider circuit is designed to detect the difference in temperature between two different",
+      "answer_option": "A",
+      "question_line": 1007,
+      "answer_line": 172,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "total_pairs": 15,
+    "high_confidence": 15,
+    "low_confidence": 0,
+    "success_rate": 100.0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "paper_info": {
+    "question_paper": "9702_w22_qp_12.pdf",
+    "mark_scheme": "9702_w22_ms_12.pdf",
+    "total_questions": 5
+  },
+  "mcq_data": [
+    {
+      "question_number": "14",
+      "question_content": "14 An object is suspended by two ropes. One rope has a tension of 410 N at an angle of 60 to the horizontal. The other rope has a tension of 210 N at an angle of 10 to the horizontal.  ropes 10� 60� 410 N 210 N object   The object is in equilibrium.  What is the mass of the object?",
+      "options": {
+        "A": "40 kg",
+        "B": "42 kg",
+        "C": "390 kg",
+        "D": "410 kg"
+      },
+      "correct_answer": "A",
+      "question_line": 448,
+      "answer_line": 91,
+      "confidence": "high"
+    },
+    {
+      "question_number": "18",
+      "question_content": "18 A lamp is switched on for 2.0 hours. The power input to the lamp is 1.0 W. The energy given out by the lamp as light is 7.0  103 J.  How much energy is converted to other forms by the lamp?",
+      "options": {
+        "A": "120 J",
+        "B": "200 J",
+        "C": "3400 J",
+        "D": "7200 J"
+      },
+      "correct_answer": "B",
+      "question_line": 545,
+      "answer_line": 103,
+      "confidence": "high"
+    },
+    {
+      "question_number": "21",
+      "question_content": "21 A wire is extended by different forces. The wire obeys Hooke’s law.",
+      "options": {
+        "A": "elastic potential energy",
+        "B": "extension",
+        "C": "force",
+        "D": "extension"
+      },
+      "correct_answer": "A",
+      "question_line": 611,
+      "answer_line": 112,
+      "confidence": "high"
+    },
+    {
+      "question_number": "34",
+      "question_content": "34 A metal wire has resistance R.  The wire is stretched so that its diameter decreases to 94.0% of the original diameter.  The volume of the wire is unchanged.  What is the resistance of the stretched wire?",
+      "options": {
+        "A": "0.22 W",
+        "B": "0.43 W",
+        "C": "0.64 W",
+        "D": "1.0 W"
+      },
+      "correct_answer": "D",
+      "question_line": 942,
+      "answer_line": 164,
+      "confidence": "high"
+    },
+    {
+      "question_number": "37",
+      "question_content": "37 A potential divider circuit is designed to detect the difference in temperature between two different places.  V X Y 20 mV   The cell has electromotive force (e.m.f.) 20 mV and negligible internal resistance.  Initially, thermistors X and Y are at the same temperature and have the same resistance. The voltmeter reads 10 mV. X is then placed in a cold environment and its resistance doubles. Y is placed in a warm environment and its resistance halves.  What is the new reading on the voltmeter?",
+      "options": {
+        "A": "meson",
+        "B": "positron",
+        "C": "proton",
+        "D": "quark"
+      },
+      "correct_answer": "A",
+      "question_line": 1008,
+      "answer_line": 173,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "total_pairs": 5,
+    "basic_physics_mcqs_with_options": 5,
+    "questions_without_options": 0,
+    "success_rate": 12.5
+  }
+}

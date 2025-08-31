@@ -1,0 +1,197 @@
+{
+  "deck_analyses": [
+    {
+      "deck_name": "English Literature Deck",
+      "question_patterns": {
+        "question_starters": {},
+        "question_lengths": [
+          2
+        ],
+        "question_types": {
+          "interrogative": 1
+        },
+        "common_phrases": {
+          "sample question?": 1
+        }
+      },
+      "answer_patterns": {
+        "answer_lengths": [
+          2
+        ],
+        "answer_types": {
+          "concise": 1
+        },
+        "common_structures": {},
+        "examples_usage": 0
+      },
+      "structure": {
+        "total_cards": 1,
+        "card_types": {
+          "basic": 1
+        },
+        "tags_usage": {
+          "sample": 1
+        },
+        "front_back_ratio": 1.0
+      }
+    },
+    {
+      "deck_name": "English Reading Deck",
+      "question_patterns": {
+        "question_starters": {},
+        "question_lengths": [
+          2
+        ],
+        "question_types": {
+          "interrogative": 1
+        },
+        "common_phrases": {
+          "sample question?": 1
+        }
+      },
+      "answer_patterns": {
+        "answer_lengths": [
+          2
+        ],
+        "answer_types": {
+          "concise": 1
+        },
+        "common_structures": {},
+        "examples_usage": 0
+      },
+      "structure": {
+        "total_cards": 1,
+        "card_types": {
+          "basic": 1
+        },
+        "tags_usage": {
+          "sample": 1
+        },
+        "front_back_ratio": 1.0
+      }
+    },
+    {
+      "deck_name": "English Vocabulary Deck",
+      "question_patterns": {
+        "question_starters": {},
+        "question_lengths": [
+          2
+        ],
+        "question_types": {
+          "interrogative": 1
+        },
+        "common_phrases": {
+          "sample question?": 1
+        }
+      },
+      "answer_patterns": {
+        "answer_lengths": [
+          2
+        ],
+        "answer_types": {
+          "concise": 1
+        },
+        "common_structures": {},
+        "examples_usage": 0
+      },
+      "structure": {
+        "total_cards": 1,
+        "card_types": {
+          "basic": 1
+        },
+        "tags_usage": {
+          "sample": 1
+        },
+        "front_back_ratio": 1.0
+      }
+    },
+    {
+      "deck_name": "English Grammar Deck",
+      "question_patterns": {
+        "question_starters": {},
+        "question_lengths": [
+          2
+        ],
+        "question_types": {
+          "interrogative": 1
+        },
+        "common_phrases": {
+          "sample question?": 1
+        }
+      },
+      "answer_patterns": {
+        "answer_lengths": [
+          2
+        ],
+        "answer_types": {
+          "concise": 1
+        },
+        "common_structures": {},
+        "examples_usage": 0
+      },
+      "structure": {
+        "total_cards": 1,
+        "card_types": {
+          "basic": 1
+        },
+        "tags_usage": {
+          "sample": 1
+        },
+        "front_back_ratio": 1.0
+      }
+    },
+    {
+      "deck_name": "English Writing Deck",
+      "question_patterns": {
+        "question_starters": {},
+        "question_lengths": [
+          2
+        ],
+        "question_types": {
+          "interrogative": 1
+        },
+        "common_phrases": {
+          "sample question?": 1
+        }
+      },
+      "answer_patterns": {
+        "answer_lengths": [
+          2
+        ],
+        "answer_types": {
+          "concise": 1
+        },
+        "common_structures": {},
+        "examples_usage": 0
+      },
+      "structure": {
+        "total_cards": 1,
+        "card_types": {
+          "basic": 1
+        },
+        "tags_usage": {
+          "sample": 1
+        },
+        "front_back_ratio": 1.0
+      }
+    }
+  ],
+  "overall_insights": {
+    "question_patterns": {},
+    "answer_patterns": {},
+    "best_practices": [
+      "Use clear question starters like 'What is', 'Define', 'Explain'",
+      "Keep questions concise (5-15 words)",
+      "Provide detailed but structured answers",
+      "Include examples when helpful",
+      "Use consistent formatting and tags"
+    ],
+    "recommendations": [
+      "Start with vocabulary cards (simple Q&A structure)",
+      "Progress to grammar cards (more complex explanations)",
+      "Move to literature cards (analysis and interpretation)",
+      "Practice with writing skills (process and technique)",
+      "Apply patterns to other subjects"
+    ]
+  }
+}

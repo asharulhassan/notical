@@ -1,0 +1,76 @@
+{
+  "name": "English Testing Deck (20%)",
+  "total_cards": 11,
+  "cards": [
+    {
+      "front": "Define: legitimate",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: ubiquitous",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "1984",
+      "question": "Who wrote \"1984\"?",
+      "back": "George Orwell",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Pride and Prejudice",
+      "question": "Who is the protagonist of \"Pride and Prejudice\"?",
+      "back": "Elizabeth Bennet",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: imaginative",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: sympathetic",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: convincing",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: conscientious",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "To Kill a Mockingbird",
+      "question": "Who is the narrator of \"To Kill a Mockingbird\"?",
+      "back": "Scout Finch",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: creative",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: luminous",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    }
+  ],
+  "split": "testing"
+}

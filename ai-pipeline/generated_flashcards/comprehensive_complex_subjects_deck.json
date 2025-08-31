@@ -1,0 +1,1134 @@
+{
+  "name": "Comprehensive Complex Subjects Master Deck",
+  "total_cards": 160,
+  "categories": [
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Biology",
+    "Computer Science"
+  ],
+  "cards": [
+    {
+      "front": "Equation",
+      "question": "What is an equation?",
+      "back": "Mathematical statement with equals sign",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Atom",
+      "question": "What is an atom?",
+      "back": "Smallest unit of element that retains properties",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Cation",
+      "question": "What is a cation?",
+      "back": "Positively charged ion",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Voltage",
+      "question": "What is voltage?",
+      "back": "Electric potential difference",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Queue",
+      "question": "What is a queue?",
+      "back": "First-in-first-out data structure",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Reduction",
+      "question": "What is reduction?",
+      "back": "Gain of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Capacitor",
+      "question": "What is a capacitor?",
+      "back": "Device that stores electric charge",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Allele",
+      "question": "What is an allele?",
+      "back": "Alternative form of gene",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Point",
+      "question": "What is a point?",
+      "back": "Location in space with no dimensions",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Chromosome",
+      "question": "What is a chromosome?",
+      "back": "Thread-like structure of DNA",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Double Replacement",
+      "question": "What is a double replacement reaction?",
+      "back": "Two compounds exchange ions",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Electron",
+      "question": "What is an electron?",
+      "back": "Negatively charged subatomic particle",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Limit",
+      "question": "What is a limit?",
+      "back": "Value function approaches as input approaches specific value",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Linked List",
+      "question": "What is a linked list?",
+      "back": "Data structure with nodes pointing to next",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Latent Heat",
+      "question": "What is latent heat?",
+      "back": "Heat needed for phase change without temperature change",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Genotype",
+      "question": "What is genotype?",
+      "back": "Genetic makeup of organism",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Parallel Circuit",
+      "question": "What is a parallel circuit?",
+      "back": "Components connected across same voltage",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Protocol",
+      "question": "What is a protocol?",
+      "back": "Set of rules for communication",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Frequency",
+      "question": "What is frequency?",
+      "back": "Number of complete cycles per second",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "RAM",
+      "question": "What is RAM?",
+      "back": "Random access memory",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Heap",
+      "question": "What is a heap?",
+      "back": "Tree-based data structure with heap property",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Line",
+      "question": "What is a line?",
+      "back": "Straight path extending infinitely in both directions",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Perimeter",
+      "question": "What is perimeter?",
+      "back": "Distance around figure",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Mitochondria",
+      "question": "What are mitochondria?",
+      "back": "Powerhouse of cell",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Factoring",
+      "question": "What is factoring?",
+      "back": "Breaking expression into product of factors",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Mass Number",
+      "question": "What is mass number?",
+      "back": "Sum of protons and neutrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Area",
+      "question": "What is area?",
+      "back": "Measure of surface covered",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Heat",
+      "question": "What is heat?",
+      "back": "Transfer of thermal energy",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Product Rule",
+      "question": "What is the product rule?",
+      "back": "d/dx[uv] = u'v + uv'",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Chain Rule",
+      "question": "What is the chain rule?",
+      "back": "d/dx[f(g(x))] = f'(g(x))g'(x)",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Common Ancestor",
+      "question": "What is a common ancestor?",
+      "back": "Species from which others evolved",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Completing the Square",
+      "question": "What is completing the square?",
+      "back": "Method to solve quadratic equations",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Mutation",
+      "question": "What is mutation?",
+      "back": "Change in DNA sequence",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Derivative",
+      "question": "What is a derivative?",
+      "back": "Rate of change of function",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Object",
+      "question": "What is an object?",
+      "back": "Instance of class with properties and methods",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Extinction",
+      "question": "What is extinction?",
+      "back": "Complete disappearance of species",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Hash Table",
+      "question": "What is a hash table?",
+      "back": "Data structure for key-value pairs",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Cell",
+      "question": "What is a cell?",
+      "back": "Basic unit of life",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Momentum",
+      "question": "What is the formula for momentum?",
+      "back": "p = mv",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Homozygous",
+      "question": "What is homozygous?",
+      "back": "Having identical alleles",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Encryption",
+      "question": "What is encryption?",
+      "back": "Converting data to unreadable format",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Class",
+      "question": "What is a class?",
+      "back": "Blueprint for creating objects",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "CPU",
+      "question": "What is a CPU?",
+      "back": "Central processing unit",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inductor",
+      "question": "What is an inductor?",
+      "back": "Device that stores magnetic energy",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Wave Speed",
+      "question": "What is the formula for wave speed?",
+      "back": "v = fλ",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Nucleus",
+      "question": "What is the nucleus?",
+      "back": "Control center of cell",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inflection Point",
+      "question": "What is an inflection point?",
+      "back": "Point where concavity changes",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Covalent Bond",
+      "question": "What is a covalent bond?",
+      "back": "Bond formed by sharing electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Cell Membrane",
+      "question": "What is the cell membrane?",
+      "back": "Outer boundary of cell",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Ionic Bond",
+      "question": "What is an ionic bond?",
+      "back": "Bond formed by transfer of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "DNA",
+      "question": "What is DNA?",
+      "back": "Genetic material",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Firewall",
+      "question": "What is a firewall?",
+      "back": "Security system controlling network traffic",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Pythagorean Theorem",
+      "question": "What is the Pythagorean theorem?",
+      "back": "a² + b² = c²",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Anion",
+      "question": "What is an anion?",
+      "back": "Negatively charged ion",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Hydrogen Bond",
+      "question": "What is a hydrogen bond?",
+      "back": "Weak bond between hydrogen and electronegative atom",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Polar Bond",
+      "question": "What is a polar bond?",
+      "back": "Covalent bond with unequal electron sharing",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Metallic Bond",
+      "question": "What is a metallic bond?",
+      "back": "Bond formed by delocalized electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Polynomial",
+      "question": "What is a polynomial?",
+      "back": "Expression with multiple terms",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Stack",
+      "question": "What is a stack?",
+      "back": "Last-in-first-out data structure",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Power",
+      "question": "What is the formula for power?",
+      "back": "P = W/t",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Wavelength",
+      "question": "What is wavelength?",
+      "back": "Distance between consecutive wave peaks",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Chloroplasts",
+      "question": "What are chloroplasts?",
+      "back": "Site of photosynthesis in plants",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Combustion",
+      "question": "What is a combustion reaction?",
+      "back": "Reaction with oxygen producing heat and light",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Temperature",
+      "question": "What is temperature?",
+      "back": "Measure of average kinetic energy of particles",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Nonpolar Bond",
+      "question": "What is a nonpolar bond?",
+      "back": "Covalent bond with equal electron sharing",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Loop",
+      "question": "What is a loop?",
+      "back": "Code that repeats until condition is met",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Ion",
+      "question": "What is an ion?",
+      "back": "Atom with net electric charge",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Ribosomes",
+      "question": "What are ribosomes?",
+      "back": "Site of protein synthesis",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Single Replacement",
+      "question": "What is a single replacement reaction?",
+      "back": "One element replaces another in compound",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Function",
+      "question": "What is a function?",
+      "back": "Relation where each input has one output",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Isotope",
+      "question": "What is an isotope?",
+      "back": "Atoms with same protons but different neutrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Quadratic Formula",
+      "question": "What is the quadratic formula?",
+      "back": "x = (-b ± √(b²-4ac))/2a",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Interference",
+      "question": "What is interference?",
+      "back": "Waves combining to form new pattern",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Power Rule",
+      "question": "What is the power rule?",
+      "back": "d/dx[x^n] = nx^(n-1)",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Set",
+      "question": "What is a set?",
+      "back": "Collection of unique elements",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Coevolution",
+      "question": "What is coevolution?",
+      "back": "Two species evolving together",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Circle",
+      "question": "What is a circle?",
+      "back": "Set of points equidistant from center",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Lysosomes",
+      "question": "What are lysosomes?",
+      "back": "Digestive organelles",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Function",
+      "question": "What is a function?",
+      "back": "Reusable block of code",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Kinetic Energy",
+      "question": "What is the formula for kinetic energy?",
+      "back": "KE = ½mv²",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Convection",
+      "question": "What is convection?",
+      "back": "Heat transfer through fluid movement",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Current",
+      "question": "What is electric current?",
+      "back": "Flow of electric charge",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Vacuoles",
+      "question": "What are vacuoles?",
+      "back": "Storage organelles",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Tree",
+      "question": "What is a tree?",
+      "back": "Hierarchical data structure",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Quadratic Function",
+      "question": "What is a quadratic function?",
+      "back": "Function with x² term",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Adaptation",
+      "question": "What is adaptation?",
+      "back": "Trait that increases survival",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Newton's Second Law",
+      "question": "What is Newton's Second Law?",
+      "back": "Force equals mass times acceleration (F=ma)",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Speciation",
+      "question": "What is speciation?",
+      "back": "Formation of new species",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Plane",
+      "question": "What is a plane?",
+      "back": "Flat surface extending infinitely in all directions",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Double Bond",
+      "question": "What is a double bond?",
+      "back": "Bond sharing two pairs of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Compiler",
+      "question": "What is a compiler?",
+      "back": "Program that translates source code to machine code",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Gene",
+      "question": "What is a gene?",
+      "back": "Unit of heredity",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Quotient Rule",
+      "question": "What is the quotient rule?",
+      "back": "d/dx[u/v] = (u'v - uv')/v²",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Synthesis",
+      "question": "What is a synthesis reaction?",
+      "back": "Two or more substances combine to form one",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Variable",
+      "question": "What is a variable?",
+      "back": "Container for storing data",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Friction",
+      "question": "What is the formula for friction?",
+      "back": "f = μN",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Single Bond",
+      "question": "What is a single bond?",
+      "back": "Bond sharing one pair of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Power",
+      "question": "What is the formula for electrical power?",
+      "back": "P = VI",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Decomposition",
+      "question": "What is a decomposition reaction?",
+      "back": "One substance breaks down into two or more",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "First Law",
+      "question": "What is the First Law of Thermodynamics?",
+      "back": "Energy cannot be created or destroyed, only transformed",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Newton's First Law",
+      "question": "What is Newton's First Law?",
+      "back": "Object at rest stays at rest, object in motion stays in motion unless acted upon by force",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Phenotype",
+      "question": "What is phenotype?",
+      "back": "Physical appearance",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Conduction",
+      "question": "What is conduction?",
+      "back": "Heat transfer through direct contact",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Fundamental Theorem",
+      "question": "What is the fundamental theorem of calculus?",
+      "back": "Integration and differentiation are inverse operations",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Polymorphism",
+      "question": "What is polymorphism?",
+      "back": "Same interface, different implementations",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Amplitude",
+      "question": "What is amplitude?",
+      "back": "Maximum displacement from equilibrium",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Diffraction",
+      "question": "What is diffraction?",
+      "back": "Wave bending around obstacles",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Atomic Number",
+      "question": "What is atomic number?",
+      "back": "Number of protons in nucleus",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Triangle",
+      "question": "What is a triangle?",
+      "back": "Polygon with three sides",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Newton's Third Law",
+      "question": "What is Newton's Third Law?",
+      "back": "For every action there is an equal and opposite reaction",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Gravity",
+      "question": "What is the formula for gravitational force?",
+      "back": "F = G(m1*m2)/r²",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Convergent Evolution",
+      "question": "What is convergent evolution?",
+      "back": "Similar traits in unrelated species",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Van der Waals",
+      "question": "What are Van der Waals forces?",
+      "back": "Weak intermolecular forces",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Fossil",
+      "question": "What is a fossil?",
+      "back": "Preserved remains of organism",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Series Circuit",
+      "question": "What is a series circuit?",
+      "back": "Components connected end-to-end",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Dominant",
+      "question": "What is a dominant allele?",
+      "back": "Allele that masks recessive",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Work",
+      "question": "What is the formula for work?",
+      "back": "W = Fd",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Operating System",
+      "question": "What is an OS?",
+      "back": "Software managing hardware and software",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Resistance",
+      "question": "What is resistance?",
+      "back": "Opposition to current flow",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Algorithm",
+      "question": "What is an algorithm?",
+      "back": "Step-by-step problem-solving procedure",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Natural Selection",
+      "question": "What is natural selection?",
+      "back": "Survival of fittest",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Volume",
+      "question": "What is volume?",
+      "back": "Amount of space occupied",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Refraction",
+      "question": "What is refraction?",
+      "back": "Wave changing direction at boundary",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Specific Heat",
+      "question": "What is specific heat?",
+      "back": "Amount of heat needed to raise 1kg by 1°C",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Interpreter",
+      "question": "What is an interpreter?",
+      "back": "Program that executes source code directly",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Reflection",
+      "question": "What is reflection?",
+      "back": "Wave bouncing off surface",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Graph",
+      "question": "What is a graph?",
+      "back": "Data structure with nodes and edges",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Divergent Evolution",
+      "question": "What is divergent evolution?",
+      "back": "Different traits in related species",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Triple Bond",
+      "question": "What is a triple bond?",
+      "back": "Bond sharing three pairs of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Catalyst",
+      "question": "What is a catalyst?",
+      "back": "Substance that speeds up reaction without being consumed",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Conditional",
+      "question": "What is a conditional?",
+      "back": "Code that executes based on condition",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Database",
+      "question": "What is a database?",
+      "back": "Organized collection of data",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Period",
+      "question": "What is period?",
+      "back": "Time for one complete cycle",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Second Law",
+      "question": "What is the Second Law of Thermodynamics?",
+      "back": "Entropy always increases in isolated systems",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Integral",
+      "question": "What is an integral?",
+      "back": "Area under curve or antiderivative",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inhibitor",
+      "question": "What is an inhibitor?",
+      "back": "Substance that slows down reaction",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Binary Search Tree",
+      "question": "What is a BST?",
+      "back": "Tree where left child < parent < right child",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Oxidation",
+      "question": "What is oxidation?",
+      "back": "Loss of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Critical Point",
+      "question": "What is a critical point?",
+      "back": "Point where derivative is zero or undefined",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Proton",
+      "question": "What is a proton?",
+      "back": "Positively charged subatomic particle",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Network",
+      "question": "What is a network?",
+      "back": "Connected computers sharing resources",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Potential Energy",
+      "question": "What is the formula for gravitational potential energy?",
+      "back": "PE = mgh",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Wave",
+      "question": "What is a wave?",
+      "back": "Disturbance that transfers energy through medium",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Angle",
+      "question": "What is an angle?",
+      "back": "Figure formed by two rays sharing endpoint",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Magnetic Field",
+      "question": "What is a magnetic field?",
+      "back": "Region where magnetic forces act",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Array",
+      "question": "What is an array?",
+      "back": "Ordered collection of elements",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Radiation",
+      "question": "What is radiation?",
+      "back": "Heat transfer through electromagnetic waves",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inheritance",
+      "question": "What is inheritance?",
+      "back": "Class inheriting properties from another",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Endoplasmic Reticulum",
+      "question": "What is the ER?",
+      "back": "Network of membranes for transport",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Golgi Apparatus",
+      "question": "What is the Golgi apparatus?",
+      "back": "Packaging and shipping center",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Recessive",
+      "question": "What is a recessive allele?",
+      "back": "Allele masked by dominant",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Linear Function",
+      "question": "What is a linear function?",
+      "back": "Function with constant rate of change",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Efficiency",
+      "question": "What is efficiency?",
+      "back": "Ratio of useful work output to total energy input",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Equilibrium",
+      "question": "What is chemical equilibrium?",
+      "back": "Forward and reverse reactions occur at equal rates",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Ohm's Law",
+      "question": "What is Ohm's Law?",
+      "back": "V = IR",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Variable",
+      "question": "What is a variable?",
+      "back": "Symbol representing unknown value",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Neutron",
+      "question": "What is a neutron?",
+      "back": "Neutrally charged subatomic particle",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Map",
+      "question": "What is a map?",
+      "back": "Collection of key-value pairs",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inequality",
+      "question": "What is an inequality?",
+      "back": "Mathematical statement with comparison symbols",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Heterozygous",
+      "question": "What is heterozygous?",
+      "back": "Having different alleles",
+      "type": "biology",
+      "difficulty": "medium"
+    }
+  ],
+  "created_at": "2025-08-31 12:13:56"
+}

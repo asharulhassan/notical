@@ -1,0 +1,3440 @@
+{
+  "deck_info": {
+    "name": "Comprehensive Humanities Master Deck",
+    "description": "Complete Humanities deck covering History, Geography, Philosophy, Sociology, and Psychology",
+    "total_cards": 141,
+    "created_date": "2025-08-28T19:23:48.053672",
+    "version": "1.0"
+  },
+  "sections": {
+    "history": {
+      "name": "History",
+      "cards": [
+        {
+          "front": "Explain the historical event/period: Ancient Egypt",
+          "back": "Civilization along the Nile River (3100-30 BCE) known for pyramids, pharaohs, hieroglyphics, and mummification.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Ancient Greece",
+          "back": "Civilization (800-146 BCE) that developed democracy, philosophy, theater, and Olympic Games.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Ancient Rome",
+          "back": "Empire (753 BCE-476 CE) that built roads, aqueducts, and created a legal system that influenced modern law.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Mesopotamia",
+          "back": "Region between Tigris and Euphrates rivers where the first cities, writing (cuneiform), and agriculture developed.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Indus Valley",
+          "back": "Ancient civilization (3300-1300 BCE) in South Asia known for advanced urban planning and drainage systems.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Ancient China",
+          "back": "Civilization along the Yellow River that developed paper, gunpowder, compass, and printing.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Maya Civilization",
+          "back": "Mesoamerican civilization (2000 BCE-1500 CE) known for pyramids, calendar system, and hieroglyphic writing.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Aztec Empire",
+          "back": "Mesoamerican empire (1345-1521) centered in Tenochtitlan, known for human sacrifice and advanced architecture.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Inca Empire",
+          "back": "South American empire (1438-1533) known for Machu Picchu, road systems, and terrace farming.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Persian Empire",
+          "back": "Ancient empire (550-330 BCE) that ruled from Egypt to India, known for tolerance and administrative efficiency.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Feudalism",
+          "back": "Social system where land was exchanged for military service and loyalty to lords.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Crusades",
+          "back": "Series of religious wars (1095-1291) between Christians and Muslims for control of the Holy Land.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Black Death",
+          "back": "Plague pandemic (1347-1351) that killed 30-60% of Europe's population.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Magna Carta",
+          "back": "Document signed in 1215 that limited the power of English kings and established basic rights.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Hundred Years' War",
+          "back": "Conflict (1337-1453) between England and France over French territory.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Renaissance",
+          "back": "Period of cultural rebirth (14th-17th centuries) marked by renewed interest in classical learning and art.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Reformation",
+          "back": "Religious movement (16th century) that led to the creation of Protestant churches.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Age of Exploration",
+          "back": "Period (15th-17th centuries) when European nations explored and colonized other parts of the world.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Enlightenment",
+          "back": "Intellectual movement (17th-18th centuries) emphasizing reason, individualism, and skepticism.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Industrial Revolution",
+          "back": "Period (1760-1840) when manufacturing shifted from hand production to machines.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: French Revolution",
+          "back": "Period of radical social and political upheaval in France (1789-1799) that overthrew the monarchy.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: American Revolution",
+          "back": "Colonial revolt (1765-1783) that resulted in United States independence from Great Britain.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Napoleonic Wars",
+          "back": "Series of conflicts (1803-1815) involving Napoleon Bonaparte's French Empire against various European coalitions.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: American Civil War",
+          "back": "Conflict (1861-1865) between Northern and Southern states over slavery and states' rights.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: World War I",
+          "back": "Global conflict (1914-1918) involving most European nations, resulting in millions of casualties.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Russian Revolution",
+          "back": "Revolution (1917) that overthrew the Russian monarchy and established the Soviet Union.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Great Depression",
+          "back": "Severe worldwide economic downturn (1929-1939) marked by high unemployment and poverty.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: World War II",
+          "back": "Global conflict (1939-1945) involving most nations, ending with the use of atomic bombs.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Cold War",
+          "back": "Period of geopolitical tension (1947-1991) between the United States and Soviet Union.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Civil Rights Movement",
+          "back": "Social movement (1954-1968) in the United States to end racial segregation and discrimination.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Vietnam War",
+          "back": "Conflict (1955-1975) between North and South Vietnam, with US involvement.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Fall of Berlin Wall",
+          "back": "Event (1989) symbolizing the end of the Cold War and division of Germany.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: 9/11 Attacks",
+          "back": "Terrorist attacks (2001) on the World Trade Center and Pentagon that changed US foreign policy.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: Arab Spring",
+          "back": "Series of anti-government protests and uprisings across the Arab world (2010-2012).",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        },
+        {
+          "front": "Explain the historical event/period: COVID-19 Pandemic",
+          "back": "Global pandemic (2019-present) caused by coronavirus that affected economies and societies worldwide.",
+          "type": "history",
+          "category": "history",
+          "difficulty": "intermediate",
+          "tags": [
+            "history",
+            "humanities",
+            "events"
+          ]
+        }
+      ],
+      "total_cards": 35,
+      "description": "Major historical events, periods, and civilizations"
+    },
+    "geography": {
+      "name": "Geography",
+      "cards": [
+        {
+          "front": "Define the geographical concept: Plate Tectonics",
+          "back": "Theory that Earth's outer shell is divided into plates that move over the mantle, causing earthquakes and volcanoes.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Weathering",
+          "back": "Process of breaking down rocks and minerals on Earth's surface through physical, chemical, or biological means.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Erosion",
+          "back": "Process of wearing away Earth's surface by water, wind, or ice, creating landforms like valleys and canyons.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Deposition",
+          "back": "Process of dropping sediments in new locations, building up landforms like deltas and beaches.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Climate Zones",
+          "back": "Large areas of Earth with similar weather patterns: tropical, temperate, and polar zones.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Biomes",
+          "back": "Large ecological areas with similar climate, plants, and animals: desert, forest, grassland, tundra, aquatic.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Ecosystems",
+          "back": "Communities of living organisms interacting with their physical environment.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Water Cycle",
+          "back": "Continuous movement of water on, above, and below Earth's surface through evaporation, condensation, and precipitation.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Carbon Cycle",
+          "back": "Movement of carbon between the atmosphere, oceans, soil, and living organisms.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Rock Cycle",
+          "back": "Process by which rocks change from one type to another through weathering, erosion, and heat/pressure.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Population Density",
+          "back": "Number of people living in a given area, usually measured as people per square kilometer.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Urbanization",
+          "back": "Process of population concentration in cities and towns, leading to urban growth and development.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Migration",
+          "back": "Movement of people from one place to another, either within a country (internal) or between countries (international).",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Cultural Diffusion",
+          "back": "Spread of cultural beliefs, practices, and ideas from one society to another.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Globalization",
+          "back": "Process of increasing interconnectedness and interdependence among countries through trade, technology, and culture.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Demographics",
+          "back": "Statistical characteristics of human populations, including age, gender, income, education, and ethnicity.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Economic Development",
+          "back": "Process of improving economic well-being and quality of life for a country's population.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Sustainable Development",
+          "back": "Development that meets present needs without compromising future generations' ability to meet their own needs.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Cultural Landscape",
+          "back": "Visible features of an area shaped by human activity and culture.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Environmental Impact",
+          "back": "Effect of human activities on the natural environment, including pollution and habitat destruction.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Continents",
+          "back": "Seven large landmasses: Asia, Africa, North America, South America, Antarctica, Europe, and Australia.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Oceans",
+          "back": "Five major bodies of saltwater: Pacific, Atlantic, Indian, Southern, and Arctic.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Mountain Ranges",
+          "back": "Chains of mountains formed by tectonic activity, including Himalayas, Andes, Rockies, and Alps.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Rivers",
+          "back": "Natural flowing watercourses that drain into oceans, lakes, or other rivers.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Deserts",
+          "back": "Arid regions with little precipitation, including Sahara, Arabian, Gobi, and Mojave.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Rainforests",
+          "back": "Dense forests with high rainfall, including Amazon, Congo, and Southeast Asian rainforests.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Tundra",
+          "back": "Treeless Arctic regions with permanently frozen subsoil and low-growing vegetation.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Savanna",
+          "back": "Grassland ecosystems with scattered trees, found in tropical and subtropical regions.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Mediterranean Climate",
+          "back": "Climate characterized by hot, dry summers and mild, wet winters.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        },
+        {
+          "front": "Define the geographical concept: Monsoon",
+          "back": "Seasonal wind pattern that brings heavy rainfall to certain regions, especially South Asia.",
+          "type": "geography",
+          "category": "geography",
+          "difficulty": "intermediate",
+          "tags": [
+            "geography",
+            "humanities",
+            "earth"
+          ]
+        }
+      ],
+      "total_cards": 30,
+      "description": "Physical and human geography concepts"
+    },
+    "philosophy": {
+      "name": "Philosophy",
+      "cards": [
+        {
+          "front": "Explain the philosophical concept: Metaphysics",
+          "back": "Branch of philosophy concerned with the fundamental nature of reality and existence.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Epistemology",
+          "back": "Branch of philosophy concerned with the nature and scope of knowledge.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Ethics",
+          "back": "Branch of philosophy concerned with moral principles and values.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Logic",
+          "back": "Branch of philosophy concerned with valid reasoning and argumentation.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Aesthetics",
+          "back": "Branch of philosophy concerned with beauty, art, and taste.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Political Philosophy",
+          "back": "Branch of philosophy concerned with government, justice, and social organization.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Dualism",
+          "back": "Belief that mind and body are fundamentally different substances.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Materialism",
+          "back": "Belief that only matter exists and everything can be explained in material terms.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Idealism",
+          "back": "Belief that reality is fundamentally mental or spiritual rather than physical.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Empiricism",
+          "back": "Belief that knowledge comes primarily from sensory experience and observation.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Rationalism",
+          "back": "Belief that knowledge comes primarily from reason and logical thinking.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Skepticism",
+          "back": "Philosophical position that questions the possibility of certain knowledge.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Relativism",
+          "back": "Belief that truth and morality are relative to culture, society, or individual perspective.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Absolutism",
+          "back": "Belief that certain principles are universally true regardless of context.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Utilitarianism",
+          "back": "Ethical theory that actions are right if they promote the greatest happiness for the greatest number.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Deontology",
+          "back": "Ethical theory that actions are right or wrong based on their adherence to moral rules or duties.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Socrates",
+          "back": "Ancient Greek philosopher (470-399 BCE) known for the Socratic method and questioning approach.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Plato",
+          "back": "Ancient Greek philosopher (428-348 BCE) who founded the Academy and wrote philosophical dialogues.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Aristotle",
+          "back": "Ancient Greek philosopher (384-322 BCE) who studied logic, ethics, politics, and natural sciences.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Confucius",
+          "back": "Chinese philosopher (551-479 BCE) whose teachings emphasized moral behavior and social harmony.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Descartes",
+          "back": "French philosopher (1596-1650) known for 'Cogito, ergo sum' and mind-body dualism.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Kant",
+          "back": "German philosopher (1724-1804) who developed deontological ethics and transcendental idealism.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Nietzsche",
+          "back": "German philosopher (1844-1900) known for critiques of morality and the concept of the Übermensch.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Sartre",
+          "back": "French philosopher (1905-1980) associated with existentialism and human freedom.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Foucault",
+          "back": "French philosopher (1926-1984) who studied power, knowledge, and social institutions.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        },
+        {
+          "front": "Explain the philosophical concept: Chomsky",
+          "back": "American philosopher (1928-present) known for work on language, politics, and media.",
+          "type": "philosophy",
+          "category": "philosophy",
+          "difficulty": "advanced",
+          "tags": [
+            "philosophy",
+            "humanities",
+            "thinking"
+          ]
+        }
+      ],
+      "total_cards": 26,
+      "description": "Philosophical concepts, theories, and thinkers"
+    },
+    "sociology": {
+      "name": "Sociology",
+      "cards": [
+        {
+          "front": "Define the sociological concept: Functionalism",
+          "back": "Theory that society is a system of interconnected parts that work together to maintain stability.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Conflict Theory",
+          "back": "Theory that society is characterized by inequality and conflict between different groups.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Symbolic Interactionism",
+          "back": "Theory that society is created through everyday interactions and shared meanings.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Social Constructionism",
+          "back": "Theory that reality is socially constructed through human interaction and language.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Feminist Theory",
+          "back": "Theory that examines gender inequality and advocates for women's rights and equality.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Critical Race Theory",
+          "back": "Theory that examines how race and racism are embedded in social structures and institutions.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Family",
+          "back": "Social institution that provides emotional support, socialization, and economic cooperation.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Education",
+          "back": "Social institution that transmits knowledge, skills, and cultural values to new generations.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Religion",
+          "back": "Social institution that provides meaning, purpose, and moral guidance to individuals and communities.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Government",
+          "back": "Social institution that exercises authority and control over a society.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Economy",
+          "back": "Social institution that organizes the production, distribution, and consumption of goods and services.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Media",
+          "back": "Social institution that communicates information, entertainment, and cultural content to the public.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Socialization",
+          "back": "Process by which individuals learn the norms, values, and behaviors of their society.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Social Stratification",
+          "back": "System of ranking individuals and groups in a hierarchy based on wealth, power, and prestige.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Social Mobility",
+          "back": "Movement of individuals or groups between different social positions.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Deviance",
+          "back": "Behavior that violates social norms and expectations.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Social Control",
+          "back": "Mechanisms used by society to ensure conformity to social norms.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Social Change",
+          "back": "Transformation of social institutions, behaviors, and relationships over time.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Poverty",
+          "back": "Condition of lacking basic material needs and resources for a decent standard of living.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Inequality",
+          "back": "Unequal distribution of resources, opportunities, and power among different groups.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Discrimination",
+          "back": "Unfair treatment of individuals or groups based on characteristics like race, gender, or religion.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Social Movements",
+          "back": "Organized efforts by groups to bring about social or political change.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Globalization",
+          "back": "Process of increasing interconnectedness and interdependence among societies worldwide.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        },
+        {
+          "front": "Define the sociological concept: Environmental Sociology",
+          "back": "Study of the relationship between society and the natural environment.",
+          "type": "sociology",
+          "category": "sociology",
+          "difficulty": "intermediate",
+          "tags": [
+            "sociology",
+            "humanities",
+            "society"
+          ]
+        }
+      ],
+      "total_cards": 24,
+      "description": "Social theories, institutions, and processes"
+    },
+    "psychology": {
+      "name": "Psychology",
+      "cards": [
+        {
+          "front": "Explain the psychological concept: Clinical Psychology",
+          "back": "Branch that studies, assesses, and treats people with psychological disorders.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Cognitive Psychology",
+          "back": "Branch that studies mental processes like thinking, memory, and problem-solving.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Developmental Psychology",
+          "back": "Branch that studies how people change and grow throughout their lives.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Social Psychology",
+          "back": "Branch that studies how people's thoughts, feelings, and behaviors are influenced by others.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Behavioral Psychology",
+          "back": "Branch that studies observable behavior and learning processes.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Biological Psychology",
+          "back": "Branch that studies the biological basis of behavior and mental processes.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Consciousness",
+          "back": "Awareness of one's thoughts, feelings, and surroundings.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Memory",
+          "back": "Process of encoding, storing, and retrieving information.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Learning",
+          "back": "Process of acquiring new knowledge, skills, or behaviors.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Motivation",
+          "back": "Internal and external factors that drive behavior toward goals.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Emotion",
+          "back": "Complex psychological and physiological state that influences thoughts and behavior.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Personality",
+          "back": "Enduring patterns of thoughts, feelings, and behaviors that characterize an individual.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Intelligence",
+          "back": "Ability to learn, reason, problem-solve, and adapt to new situations.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Stress",
+          "back": "Body's response to demands or threats, both real and perceived.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Mental Health",
+          "back": "State of psychological well-being and ability to function effectively in daily life.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Psychological Disorders",
+          "back": "Patterns of thoughts, feelings, or behaviors that cause distress or impairment.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Sigmund Freud",
+          "back": "Austrian neurologist (1856-1939) who founded psychoanalysis and studied the unconscious mind.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: B.F. Skinner",
+          "back": "American psychologist (1904-1990) who studied operant conditioning and behaviorism.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Jean Piaget",
+          "back": "Swiss psychologist (1896-1980) who studied cognitive development in children.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Carl Jung",
+          "back": "Swiss psychiatrist (1875-1961) who developed analytical psychology and studied the collective unconscious.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Abraham Maslow",
+          "back": "American psychologist (1908-1970) who developed the hierarchy of needs.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Ivan Pavlov",
+          "back": "Russian physiologist (1849-1936) who studied classical conditioning with dogs.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Erik Erikson",
+          "back": "German-American psychologist (1902-1994) who developed the theory of psychosocial development.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Albert Bandura",
+          "back": "Canadian-American psychologist (1925-2021) who studied social learning and self-efficacy.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: Lev Vygotsky",
+          "back": "Russian psychologist (1896-1934) who studied social and cultural influences on development.",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        },
+        {
+          "front": "Explain the psychological concept: William James",
+          "back": "American psychologist (1842-1910) who founded functionalism and wrote 'Principles of Psychology.'",
+          "type": "psychology",
+          "category": "psychology",
+          "difficulty": "intermediate",
+          "tags": [
+            "psychology",
+            "humanities",
+            "mind"
+          ]
+        }
+      ],
+      "total_cards": 26,
+      "description": "Psychological concepts, theories, and research"
+    }
+  },
+  "all_cards": [
+    {
+      "front": "Explain the historical event/period: Ancient Egypt",
+      "back": "Civilization along the Nile River (3100-30 BCE) known for pyramids, pharaohs, hieroglyphics, and mummification.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Ancient Greece",
+      "back": "Civilization (800-146 BCE) that developed democracy, philosophy, theater, and Olympic Games.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Ancient Rome",
+      "back": "Empire (753 BCE-476 CE) that built roads, aqueducts, and created a legal system that influenced modern law.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Mesopotamia",
+      "back": "Region between Tigris and Euphrates rivers where the first cities, writing (cuneiform), and agriculture developed.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Indus Valley",
+      "back": "Ancient civilization (3300-1300 BCE) in South Asia known for advanced urban planning and drainage systems.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Ancient China",
+      "back": "Civilization along the Yellow River that developed paper, gunpowder, compass, and printing.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Maya Civilization",
+      "back": "Mesoamerican civilization (2000 BCE-1500 CE) known for pyramids, calendar system, and hieroglyphic writing.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Aztec Empire",
+      "back": "Mesoamerican empire (1345-1521) centered in Tenochtitlan, known for human sacrifice and advanced architecture.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Inca Empire",
+      "back": "South American empire (1438-1533) known for Machu Picchu, road systems, and terrace farming.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Persian Empire",
+      "back": "Ancient empire (550-330 BCE) that ruled from Egypt to India, known for tolerance and administrative efficiency.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Feudalism",
+      "back": "Social system where land was exchanged for military service and loyalty to lords.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Crusades",
+      "back": "Series of religious wars (1095-1291) between Christians and Muslims for control of the Holy Land.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Black Death",
+      "back": "Plague pandemic (1347-1351) that killed 30-60% of Europe's population.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Magna Carta",
+      "back": "Document signed in 1215 that limited the power of English kings and established basic rights.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Hundred Years' War",
+      "back": "Conflict (1337-1453) between England and France over French territory.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Renaissance",
+      "back": "Period of cultural rebirth (14th-17th centuries) marked by renewed interest in classical learning and art.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Reformation",
+      "back": "Religious movement (16th century) that led to the creation of Protestant churches.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Age of Exploration",
+      "back": "Period (15th-17th centuries) when European nations explored and colonized other parts of the world.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Enlightenment",
+      "back": "Intellectual movement (17th-18th centuries) emphasizing reason, individualism, and skepticism.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Industrial Revolution",
+      "back": "Period (1760-1840) when manufacturing shifted from hand production to machines.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: French Revolution",
+      "back": "Period of radical social and political upheaval in France (1789-1799) that overthrew the monarchy.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: American Revolution",
+      "back": "Colonial revolt (1765-1783) that resulted in United States independence from Great Britain.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Napoleonic Wars",
+      "back": "Series of conflicts (1803-1815) involving Napoleon Bonaparte's French Empire against various European coalitions.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: American Civil War",
+      "back": "Conflict (1861-1865) between Northern and Southern states over slavery and states' rights.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: World War I",
+      "back": "Global conflict (1914-1918) involving most European nations, resulting in millions of casualties.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Russian Revolution",
+      "back": "Revolution (1917) that overthrew the Russian monarchy and established the Soviet Union.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Great Depression",
+      "back": "Severe worldwide economic downturn (1929-1939) marked by high unemployment and poverty.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: World War II",
+      "back": "Global conflict (1939-1945) involving most nations, ending with the use of atomic bombs.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Cold War",
+      "back": "Period of geopolitical tension (1947-1991) between the United States and Soviet Union.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Civil Rights Movement",
+      "back": "Social movement (1954-1968) in the United States to end racial segregation and discrimination.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Vietnam War",
+      "back": "Conflict (1955-1975) between North and South Vietnam, with US involvement.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Fall of Berlin Wall",
+      "back": "Event (1989) symbolizing the end of the Cold War and division of Germany.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: 9/11 Attacks",
+      "back": "Terrorist attacks (2001) on the World Trade Center and Pentagon that changed US foreign policy.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: Arab Spring",
+      "back": "Series of anti-government protests and uprisings across the Arab world (2010-2012).",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Explain the historical event/period: COVID-19 Pandemic",
+      "back": "Global pandemic (2019-present) caused by coronavirus that affected economies and societies worldwide.",
+      "type": "history",
+      "category": "history",
+      "difficulty": "intermediate",
+      "tags": [
+        "history",
+        "humanities",
+        "events"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Plate Tectonics",
+      "back": "Theory that Earth's outer shell is divided into plates that move over the mantle, causing earthquakes and volcanoes.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Weathering",
+      "back": "Process of breaking down rocks and minerals on Earth's surface through physical, chemical, or biological means.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Erosion",
+      "back": "Process of wearing away Earth's surface by water, wind, or ice, creating landforms like valleys and canyons.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Deposition",
+      "back": "Process of dropping sediments in new locations, building up landforms like deltas and beaches.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Climate Zones",
+      "back": "Large areas of Earth with similar weather patterns: tropical, temperate, and polar zones.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Biomes",
+      "back": "Large ecological areas with similar climate, plants, and animals: desert, forest, grassland, tundra, aquatic.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Ecosystems",
+      "back": "Communities of living organisms interacting with their physical environment.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Water Cycle",
+      "back": "Continuous movement of water on, above, and below Earth's surface through evaporation, condensation, and precipitation.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Carbon Cycle",
+      "back": "Movement of carbon between the atmosphere, oceans, soil, and living organisms.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Rock Cycle",
+      "back": "Process by which rocks change from one type to another through weathering, erosion, and heat/pressure.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Population Density",
+      "back": "Number of people living in a given area, usually measured as people per square kilometer.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Urbanization",
+      "back": "Process of population concentration in cities and towns, leading to urban growth and development.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Migration",
+      "back": "Movement of people from one place to another, either within a country (internal) or between countries (international).",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Cultural Diffusion",
+      "back": "Spread of cultural beliefs, practices, and ideas from one society to another.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Globalization",
+      "back": "Process of increasing interconnectedness and interdependence among countries through trade, technology, and culture.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Demographics",
+      "back": "Statistical characteristics of human populations, including age, gender, income, education, and ethnicity.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Economic Development",
+      "back": "Process of improving economic well-being and quality of life for a country's population.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Sustainable Development",
+      "back": "Development that meets present needs without compromising future generations' ability to meet their own needs.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Cultural Landscape",
+      "back": "Visible features of an area shaped by human activity and culture.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Environmental Impact",
+      "back": "Effect of human activities on the natural environment, including pollution and habitat destruction.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Continents",
+      "back": "Seven large landmasses: Asia, Africa, North America, South America, Antarctica, Europe, and Australia.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Oceans",
+      "back": "Five major bodies of saltwater: Pacific, Atlantic, Indian, Southern, and Arctic.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Mountain Ranges",
+      "back": "Chains of mountains formed by tectonic activity, including Himalayas, Andes, Rockies, and Alps.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Rivers",
+      "back": "Natural flowing watercourses that drain into oceans, lakes, or other rivers.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Deserts",
+      "back": "Arid regions with little precipitation, including Sahara, Arabian, Gobi, and Mojave.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Rainforests",
+      "back": "Dense forests with high rainfall, including Amazon, Congo, and Southeast Asian rainforests.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Tundra",
+      "back": "Treeless Arctic regions with permanently frozen subsoil and low-growing vegetation.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Savanna",
+      "back": "Grassland ecosystems with scattered trees, found in tropical and subtropical regions.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Mediterranean Climate",
+      "back": "Climate characterized by hot, dry summers and mild, wet winters.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Define the geographical concept: Monsoon",
+      "back": "Seasonal wind pattern that brings heavy rainfall to certain regions, especially South Asia.",
+      "type": "geography",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "tags": [
+        "geography",
+        "humanities",
+        "earth"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Metaphysics",
+      "back": "Branch of philosophy concerned with the fundamental nature of reality and existence.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Epistemology",
+      "back": "Branch of philosophy concerned with the nature and scope of knowledge.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Ethics",
+      "back": "Branch of philosophy concerned with moral principles and values.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Logic",
+      "back": "Branch of philosophy concerned with valid reasoning and argumentation.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Aesthetics",
+      "back": "Branch of philosophy concerned with beauty, art, and taste.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Political Philosophy",
+      "back": "Branch of philosophy concerned with government, justice, and social organization.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Dualism",
+      "back": "Belief that mind and body are fundamentally different substances.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Materialism",
+      "back": "Belief that only matter exists and everything can be explained in material terms.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Idealism",
+      "back": "Belief that reality is fundamentally mental or spiritual rather than physical.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Empiricism",
+      "back": "Belief that knowledge comes primarily from sensory experience and observation.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Rationalism",
+      "back": "Belief that knowledge comes primarily from reason and logical thinking.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Skepticism",
+      "back": "Philosophical position that questions the possibility of certain knowledge.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Relativism",
+      "back": "Belief that truth and morality are relative to culture, society, or individual perspective.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Absolutism",
+      "back": "Belief that certain principles are universally true regardless of context.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Utilitarianism",
+      "back": "Ethical theory that actions are right if they promote the greatest happiness for the greatest number.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Deontology",
+      "back": "Ethical theory that actions are right or wrong based on their adherence to moral rules or duties.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Socrates",
+      "back": "Ancient Greek philosopher (470-399 BCE) known for the Socratic method and questioning approach.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Plato",
+      "back": "Ancient Greek philosopher (428-348 BCE) who founded the Academy and wrote philosophical dialogues.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Aristotle",
+      "back": "Ancient Greek philosopher (384-322 BCE) who studied logic, ethics, politics, and natural sciences.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Confucius",
+      "back": "Chinese philosopher (551-479 BCE) whose teachings emphasized moral behavior and social harmony.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Descartes",
+      "back": "French philosopher (1596-1650) known for 'Cogito, ergo sum' and mind-body dualism.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Kant",
+      "back": "German philosopher (1724-1804) who developed deontological ethics and transcendental idealism.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Nietzsche",
+      "back": "German philosopher (1844-1900) known for critiques of morality and the concept of the Übermensch.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Sartre",
+      "back": "French philosopher (1905-1980) associated with existentialism and human freedom.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Foucault",
+      "back": "French philosopher (1926-1984) who studied power, knowledge, and social institutions.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Explain the philosophical concept: Chomsky",
+      "back": "American philosopher (1928-present) known for work on language, politics, and media.",
+      "type": "philosophy",
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "tags": [
+        "philosophy",
+        "humanities",
+        "thinking"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Functionalism",
+      "back": "Theory that society is a system of interconnected parts that work together to maintain stability.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Conflict Theory",
+      "back": "Theory that society is characterized by inequality and conflict between different groups.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Symbolic Interactionism",
+      "back": "Theory that society is created through everyday interactions and shared meanings.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Social Constructionism",
+      "back": "Theory that reality is socially constructed through human interaction and language.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Feminist Theory",
+      "back": "Theory that examines gender inequality and advocates for women's rights and equality.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Critical Race Theory",
+      "back": "Theory that examines how race and racism are embedded in social structures and institutions.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Family",
+      "back": "Social institution that provides emotional support, socialization, and economic cooperation.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Education",
+      "back": "Social institution that transmits knowledge, skills, and cultural values to new generations.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Religion",
+      "back": "Social institution that provides meaning, purpose, and moral guidance to individuals and communities.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Government",
+      "back": "Social institution that exercises authority and control over a society.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Economy",
+      "back": "Social institution that organizes the production, distribution, and consumption of goods and services.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Media",
+      "back": "Social institution that communicates information, entertainment, and cultural content to the public.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Socialization",
+      "back": "Process by which individuals learn the norms, values, and behaviors of their society.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Social Stratification",
+      "back": "System of ranking individuals and groups in a hierarchy based on wealth, power, and prestige.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Social Mobility",
+      "back": "Movement of individuals or groups between different social positions.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Deviance",
+      "back": "Behavior that violates social norms and expectations.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Social Control",
+      "back": "Mechanisms used by society to ensure conformity to social norms.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Social Change",
+      "back": "Transformation of social institutions, behaviors, and relationships over time.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Poverty",
+      "back": "Condition of lacking basic material needs and resources for a decent standard of living.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Inequality",
+      "back": "Unequal distribution of resources, opportunities, and power among different groups.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Discrimination",
+      "back": "Unfair treatment of individuals or groups based on characteristics like race, gender, or religion.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Social Movements",
+      "back": "Organized efforts by groups to bring about social or political change.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Globalization",
+      "back": "Process of increasing interconnectedness and interdependence among societies worldwide.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Define the sociological concept: Environmental Sociology",
+      "back": "Study of the relationship between society and the natural environment.",
+      "type": "sociology",
+      "category": "sociology",
+      "difficulty": "intermediate",
+      "tags": [
+        "sociology",
+        "humanities",
+        "society"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Clinical Psychology",
+      "back": "Branch that studies, assesses, and treats people with psychological disorders.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Cognitive Psychology",
+      "back": "Branch that studies mental processes like thinking, memory, and problem-solving.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Developmental Psychology",
+      "back": "Branch that studies how people change and grow throughout their lives.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Social Psychology",
+      "back": "Branch that studies how people's thoughts, feelings, and behaviors are influenced by others.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Behavioral Psychology",
+      "back": "Branch that studies observable behavior and learning processes.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Biological Psychology",
+      "back": "Branch that studies the biological basis of behavior and mental processes.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Consciousness",
+      "back": "Awareness of one's thoughts, feelings, and surroundings.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Memory",
+      "back": "Process of encoding, storing, and retrieving information.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Learning",
+      "back": "Process of acquiring new knowledge, skills, or behaviors.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Motivation",
+      "back": "Internal and external factors that drive behavior toward goals.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Emotion",
+      "back": "Complex psychological and physiological state that influences thoughts and behavior.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Personality",
+      "back": "Enduring patterns of thoughts, feelings, and behaviors that characterize an individual.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Intelligence",
+      "back": "Ability to learn, reason, problem-solve, and adapt to new situations.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Stress",
+      "back": "Body's response to demands or threats, both real and perceived.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Mental Health",
+      "back": "State of psychological well-being and ability to function effectively in daily life.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Psychological Disorders",
+      "back": "Patterns of thoughts, feelings, or behaviors that cause distress or impairment.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Sigmund Freud",
+      "back": "Austrian neurologist (1856-1939) who founded psychoanalysis and studied the unconscious mind.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: B.F. Skinner",
+      "back": "American psychologist (1904-1990) who studied operant conditioning and behaviorism.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Jean Piaget",
+      "back": "Swiss psychologist (1896-1980) who studied cognitive development in children.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Carl Jung",
+      "back": "Swiss psychiatrist (1875-1961) who developed analytical psychology and studied the collective unconscious.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Abraham Maslow",
+      "back": "American psychologist (1908-1970) who developed the hierarchy of needs.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Ivan Pavlov",
+      "back": "Russian physiologist (1849-1936) who studied classical conditioning with dogs.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Erik Erikson",
+      "back": "German-American psychologist (1902-1994) who developed the theory of psychosocial development.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Albert Bandura",
+      "back": "Canadian-American psychologist (1925-2021) who studied social learning and self-efficacy.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: Lev Vygotsky",
+      "back": "Russian psychologist (1896-1934) who studied social and cultural influences on development.",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    },
+    {
+      "front": "Explain the psychological concept: William James",
+      "back": "American psychologist (1842-1910) who founded functionalism and wrote 'Principles of Psychology.'",
+      "type": "psychology",
+      "category": "psychology",
+      "difficulty": "intermediate",
+      "tags": [
+        "psychology",
+        "humanities",
+        "mind"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_cards": 141,
+    "history_cards": 35,
+    "geography_cards": 30,
+    "philosophy_cards": 26,
+    "sociology_cards": 24,
+    "psychology_cards": 26
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "name": "Humanities Testing Deck (20%)",
+  "total_cards": 22,
+  "cards": [
+    {
+      "front": "Criminal Justice",
+      "question": "What is criminal justice?",
+      "back": "System of law enforcement and punishment",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Egyptian Pyramids",
+      "question": "What were the Egyptian pyramids primarily used for?",
+      "back": "Tombs for pharaohs and their families",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Globalization",
+      "question": "What is globalization?",
+      "back": "Integration of economies and cultures worldwide",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Civil Rights Movement",
+      "question": "Who was the leader of the Civil Rights Movement?",
+      "back": "Martin Luther King Jr.",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Environmental Ethics",
+      "question": "What is environmental ethics?",
+      "back": "Moral consideration of nature",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Descartes",
+      "question": "Who said \"I think, therefore I am\"?",
+      "back": "René Descartes",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Urbanization",
+      "question": "What is urbanization?",
+      "back": "Growth of cities and urban areas",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Maya Civilization",
+      "question": "Where was the Maya civilization located?",
+      "back": "Central America",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Learning",
+      "question": "What is classical conditioning?",
+      "back": "Learning through association of stimuli",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Group Dynamics",
+      "question": "What are group dynamics?",
+      "back": "Patterns of interaction within groups",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Government",
+      "question": "What is government?",
+      "back": "System of political authority and control",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Conformity",
+      "question": "What is conformity?",
+      "back": "Changing behavior to match group norms",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Science",
+      "question": "What is science?",
+      "back": "Systematic study of natural world",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Postmodern Theory",
+      "question": "What is postmodern theory?",
+      "back": "Questioning of modern social structures",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Utilitarianism",
+      "question": "What is the principle of utilitarianism?",
+      "back": "Greatest good for greatest number",
+      "type": "philosophy",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Oceans",
+      "question": "What is the largest ocean?",
+      "back": "Pacific Ocean",
+      "type": "geography",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Decision Making",
+      "question": "What is decision making?",
+      "back": "Process of choosing between alternatives",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Aztec Empire",
+      "question": "What was the capital of the Aztec Empire?",
+      "back": "Tenochtitlan",
+      "type": "history",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Aggression",
+      "question": "What is aggression?",
+      "back": "Behavior intended to harm others",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Problem Solving",
+      "question": "What is problem solving?",
+      "back": "Process of finding solutions to problems",
+      "type": "psychology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Labeling Theory",
+      "question": "What is labeling theory?",
+      "back": "Deviance as result of social labeling",
+      "type": "sociology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Space Race",
+      "question": "Who was the first person in space?",
+      "back": "Yuri Gagarin",
+      "type": "history",
+      "difficulty": "medium"
+    }
+  ],
+  "split": "testing"
+}

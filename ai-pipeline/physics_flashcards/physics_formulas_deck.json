@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "front": "What is the formula for Kinetic Energy?",
+      "back": "KE = ½mv² (Kinetic Energy = ½ × mass × velocity²)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Gravitational Potential Energy?",
+      "back": "GPE = mgh (GPE = mass × gravitational acceleration × height)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Power?",
+      "back": "P = W/t (Power = Work/Time)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Density?",
+      "back": "ρ = m/V (Density = mass/volume)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Pressure?",
+      "back": "P = F/A (Pressure = Force/Area)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Wave Speed?",
+      "back": "v = fλ (Wave Speed = frequency × wavelength)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Ohm's Law?",
+      "back": "V = IR (Voltage = Current × Resistance)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Work?",
+      "back": "W = Fd cos(θ) (Work = Force × distance × cos(angle))",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Momentum?",
+      "back": "p = mv (Momentum = mass × velocity)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    },
+    {
+      "front": "What is the formula for Acceleration?",
+      "back": "a = (v-u)/t (Acceleration = change in velocity/time)",
+      "type": "formula",
+      "subject": "Physics - Formulas",
+      "tags": [
+        "formula",
+        "physics",
+        "calculation"
+      ],
+      "difficulty": "intermediate",
+      "category": "formulas"
+    }
+  ],
+  "total_cards": 10,
+  "subject": "Physics - Formulas",
+  "type": "formula",
+  "difficulty": "intermediate"
+}

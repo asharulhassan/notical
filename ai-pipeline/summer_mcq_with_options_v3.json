@@ -1,0 +1,221 @@
+{
+  "paper_info": {
+    "question_paper": "9702_s22_qp_12.pdf",
+    "mark_scheme": "9702_s22_ms_12.pdf",
+    "total_questions": 15
+  },
+  "mcq_data": [
+    {
+      "question_number": "13",
+      "question_content": "13 A diving board of length 5.0 m is hinged at one end and supported 2.0 m from this end by a spring of spring constant 10 kN m–1. A child of mass 40 kg stands at the far end of the board. mass of child 40 kg 2.0 m 5.0 m diving board spring hinge What is the extra compression of the spring caused by the child standing on the end of the board? A 1.0 cm B 1.6 cm C 9.8 cm D",
+      "options": {
+        "A": "diving board of length 5.0 m is hinged at one end and supported 2.0 m from this end by a spring of spring constant 10 kN m–1. A child of mass 40 kg stands at the far end of the board. mass of child 40 kg 2.0 m 5.0 m diving board spring hinge What is the extra compression of the spring caused by the child standing on the end of the board? A 1.0 cm",
+        "B": "1.6 cm",
+        "C": "9",
+        "D": ""
+      },
+      "correct_answer": "C",
+      "question_line": 418,
+      "answer_line": 86,
+      "confidence": "high"
+    },
+    {
+      "question_number": "14",
+      "question_content": "14 A granite rock at the surface of the Earth has density . The rock is transported to the surface of another planet. The acceleration of free fall on the surface of the other planet is twice that on the surface of the Earth. What is the density of the rock on the other planet? A 0.5 B  C 2 D",
+      "options": {
+        "A": "granite rock at the surface of the Earth has density . The rock is transported to the surface of another planet. The acceleration of free fall on the surface of the other planet is twice that on the surface of the Earth. What is the density of the rock on the other planet? A 0.5",
+        "B": "",
+        "C": "2",
+        "D": ""
+      },
+      "correct_answer": "B",
+      "question_line": 448,
+      "answer_line": 89,
+      "confidence": "high"
+    },
+    {
+      "question_number": "15",
+      "question_content": "15 A closed U-shaped tube contains a stationary liquid of density . One side of the tube contains a gas at pressure p1 and the other side contains a gas at pressure p2, as shown. gas, pressure p1 gas, pressure p2 liquid, density � x y z The acceleration of free fall is g. Which equation is correct? A p1 =  gy B p2 =  g(x – z) C p1 – p2 =  g(y – z) D",
+      "options": {
+        "A": "closed U-shaped tube contains a stationary liquid of density . One side of the tube contains a gas at pressure p1 and the other side contains a gas at pressure p2, as shown. gas, pressure p1 gas, pressure p2 liquid, density � x y z The acceleration of free fall is g. Which equation is correct? A p1 =  gy",
+        "B": "p2 =  g(x – z)",
+        "C": "p",
+        "D": ""
+      },
+      "correct_answer": "C",
+      "question_line": 465,
+      "answer_line": 92,
+      "confidence": "high"
+    },
+    {
+      "question_number": "18",
+      "question_content": "18 A student attempts to derive the formula for kinetic energy EK. She begins by considering an object of mass m which is initially at rest. A constant force F applied to the object causes it to accelerate to final velocity v in displacement s. The kinetic energy gained by the object is equal to the work done on the object by the force F. Which equation would the student not need in order to derive the formula for EK? A F = ma B W = Fs C E = Fs 2 1 D",
+      "options": {
+        "A": "student attempts to derive the formula for kinetic energy EK. She begins by considering an object of mass m which is initially at rest. A constant force F applied to the object causes it to accelerate to final velocity v in displacement s. The kinetic energy gained by the object is equal to the work done on the object by the force F. Which equation would the student not need in order to derive the formula for EK? A F = ma",
+        "B": "W = Fs",
+        "C": "E",
+        "D": ""
+      },
+      "correct_answer": "C",
+      "question_line": 522,
+      "answer_line": 101,
+      "confidence": "high"
+    },
+    {
+      "question_number": "19",
+      "question_content": "19 A metal wire obeys Hooke’s law and has a Young modulus of 2.0  1011 Pa. The wire has an original length of 1.6 m and a diameter of 0.48  10–3 m. What is the spring constant of the wire? A 7.2  103 N m–1 B 2.3  104 N m–1 C 2.9  104 N m–1 D",
+      "options": {
+        "A": "metal wire obeys Hooke’s law and has a Young modulus of 2.0  1011 Pa. The wire has an original length of 1.6 m and a diameter of 0.48  10–3 m. What is the spring constant of the wire? A 7.2  103 N m–1",
+        "B": "2.3  104 N m–1",
+        "C": "2",
+        "D": ""
+      },
+      "correct_answer": "B",
+      "question_line": 541,
+      "answer_line": 104,
+      "confidence": "high"
+    },
+    {
+      "question_number": "20",
+      "question_content": "20 A wire is being stretched by a tensile force. Which statement about the elastic limit must be correct? A The deformation is plastic after the elastic limit has been reached. B The deformation is plastic until the elastic limit is reached. C The extension is proportional to the tensile force after the elastic limit has been reached. D",
+      "options": {
+        "A": "wire is being stretched by a tensile force. Which statement about the elastic limit must be correct? A The deformation is plastic after the elastic limit has been reached.",
+        "B": "The deformation is plastic until the elastic limit is reached.",
+        "C": "T",
+        "D": ""
+      },
+      "correct_answer": "A",
+      "question_line": 561,
+      "answer_line": 107,
+      "confidence": "high"
+    },
+    {
+      "question_number": "22",
+      "question_content": "22 A transverse water wave is moving along the surface of some water. This causes a ball to move vertically without moving horizontally as it floats upon the surface. At one instant, the ball is at the position shown. 2.4 m 0.70 m ball direction of wave travel NOT TO SCALE The wave has a frequency of 0.20 Hz and an amplitude of 0.70 m. The distance between a trough and an adjacent peak is 2.4 m. What is the distance travelled by the ball in a time of 20 s? A 5.6 m B 9.6 m C 11.2 m D",
+      "options": {
+        "A": "transverse water wave is moving along the surface of some water. This causes a ball to move vertically without moving horizontally as it floats upon the surface. At one instant, the ball is at the position shown. 2.4 m 0.70 m ball direction of wave travel NOT TO SCALE The wave has a frequency of 0.20 Hz and an amplitude of 0.70 m. The distance between a trough and an adjacent peak is 2.4 m. What is the distance travelled by the ball in a time of 20 s? A 5.6 m",
+        "B": "9.6 m",
+        "C": "1",
+        "D": ""
+      },
+      "correct_answer": "C",
+      "question_line": 591,
+      "answer_line": 113,
+      "confidence": "high"
+    },
+    {
+      "question_number": "24",
+      "question_content": "24 A source emits a sound wave of a single frequency. The Doppler effect causes a different frequency of sound to be heard by a stationary observer. What is a requirement for the Doppler effect to occur? A a source that is moving as it produces the sound wave B a source that produces a polarised sound wave C",
+      "options": {
+        "A": "source emits a sound wave of a single frequency. The Doppler effect causes a different frequency of sound to be heard by a stationary observer. What is a requirement for the Doppler effect to occur? A a source that is moving as it produces the sound wave",
+        "B": "a source that produces a polarised sound wave"
+      },
+      "correct_answer": "A",
+      "question_line": 636,
+      "answer_line": 119,
+      "confidence": "high"
+    },
+    {
+      "question_number": "25",
+      "question_content": "25 An electromagnetic wave in free space has a frequency of 2.5  1014 Hz. Which region of the electromagnetic spectrum includes this frequency? A infrared B microwave C ultraviolet D",
+      "options": {
+        "A": "infrared",
+        "B": "microwave",
+        "C": "u",
+        "D": ""
+      },
+      "correct_answer": "A",
+      "question_line": 654,
+      "answer_line": 122,
+      "confidence": "high"
+    },
+    {
+      "question_number": "27",
+      "question_content": "27 A stationary wave on a stretched string is set up between two points P and T. P Q R S T vibrator Which statement about the stationary wave is correct? A Point R is at a node. B Points Q and S vibrate in phase. C The distance between P and T is three wavelengths. D",
+      "options": {
+        "A": "stationary wave on a stretched string is set up between two points P and T. P Q R S T vibrator Which statement about the stationary wave is correct? A Point R is at a node.",
+        "B": "Points Q and S vibrate in phase.",
+        "C": "T",
+        "D": ""
+      },
+      "correct_answer": "B",
+      "question_line": 689,
+      "answer_line": 128,
+      "confidence": "high"
+    },
+    {
+      "question_number": "28",
+      "question_content": "28 A bar vibrates with frequency f to produce water waves in a ripple tank. bar vibrating with frequency f barrier with gap of width x The waves pass through a gap of width x in a barrier so that diffraction occurs. Which combination of vibration frequency and gap width will produce the smallest angle of diffraction? vibration frequency gap width A 2 f 2 x B 2 f 2x C 2f 2 x D",
+      "options": {
+        "A": "bar vibrates with frequency f to produce water waves in a ripple tank. bar vibrating with frequency f barrier with gap of width x The waves pass through a gap of width x in a barrier so that diffraction occurs. Which combination of vibration frequency and gap width will produce the smallest angle of diffraction? vibration frequency gap width A 2 f 2 x",
+        "B": "2 f 2x",
+        "C": "2",
+        "D": ""
+      },
+      "correct_answer": "D",
+      "question_line": 716,
+      "answer_line": 131,
+      "confidence": "high"
+    },
+    {
+      "question_number": "34",
+      "question_content": "34 An iron wire has length 8.0 m and diameter 0.50 mm. The wire has resistance R. A second iron wire has length 2.0 m and diameter 1.0 mm. What is the resistance of the second wire? A 16 R B 8 R C 2 R D",
+      "options": {
+        "A": "second iron wire has length 2.0 m and diameter 1.0 mm. What is the resistance of the second wire? A 16 R",
+        "B": "8 R",
+        "C": "2",
+        "D": ""
+      },
+      "correct_answer": "A",
+      "question_line": 883,
+      "answer_line": 160,
+      "confidence": "high"
+    },
+    {
+      "question_number": "35",
+      "question_content": "35 A cell with constant electromotive force (e.m.f.) is connected across a fixed resistor. Over time, the internal resistance of the cell increases. Which change occurs as the internal resistance of the cell increases? A a decrease in the charge of each charge carrier B a decrease in the potential difference measured across the cell C an increase in the energy dissipated per unit time in the fixed resistor D",
+      "options": {
+        "A": "cell with constant electromotive force (e.m.f.) is connected across a fixed resistor. Over time, the internal resistance of the cell increases. Which change occurs as the internal resistance of the cell increases? A a decrease in the charge of each charge carrier",
+        "B": "a decrease in the potential difference measured across the cell",
+        "C": "a",
+        "D": ""
+      },
+      "correct_answer": "B",
+      "question_line": 901,
+      "answer_line": 163,
+      "confidence": "high"
+    },
+    {
+      "question_number": "37",
+      "question_content": "37 A potentiometer circuit is used to determine the electromotive force (e.m.f.) EX of a cell. The circuit includes a second cell of known e.m.f. E0 and negligible internal resistance, and a uniform resistance wire PQ of known length. EX is less than E0. The movable connection J can be positioned anywhere along the length of the resistance wire. Which circuit is suitable for determining EX? P E0 EX A Q J P E0 EX Q J P E0 EX C Q J D P E0 EX B",
+      "options": {
+        "A": "potentiometer circuit is used to determine the electromotive force (e.m.f.) EX of a cell. The circuit includes a second cell of known e.m.f. E0 and negligible internal resistance, and a uniform resistance wire PQ of known length. EX is less than E0. The movable connection J can be positioned anywhere along the length of the resistance wire. Which circuit is suitable for determining EX? P E0 EX A Q J P E0 EX Q J P E0 EX C Q J D P E0 EX",
+        "C": "Q J"
+      },
+      "correct_answer": "D",
+      "question_line": 941,
+      "answer_line": 169,
+      "confidence": "high"
+    },
+    {
+      "question_number": "40",
+      "question_content": "40 A neutron is composed of one up (u) quark and two down (d) quarks. When a neutron decays to a proton, a beta-particle is emitted. What is the change in the quark structure of the neutron due to the emission of the beta-particle? (The symbol for a neutrino is e and for an antineutrino is e  .) A d    u  +  –  +  e B d    u  +  –  + e  C u    d  +  +  +  e D",
+      "options": {
+        "A": "neutron is composed of one up (u) quark and two down (d) quarks. When a neutron decays to a proton, a beta-particle is emitted. What is the change in the quark structure of the neutron due to the emission of the beta-particle? (The symbol for a neutrino is e and for an antineutrino is e  .) A d    u  +  –  +  e",
+        "B": "d    u  +  –  + e ",
+        "C": "u",
+        "D": ""
+      },
+      "correct_answer": "B",
+      "question_line": 1024,
+      "answer_line": 178,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "total_pairs": 15,
+    "questions_with_options": 15,
+    "questions_without_options": 0,
+    "success_rate": 37.5
+  }
+}

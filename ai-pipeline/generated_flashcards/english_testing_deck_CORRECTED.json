@@ -1,0 +1,75 @@
+{
+  "name": "English Testing Deck (20%) - Corrected",
+  "total_cards": 11,
+  "cards": [
+    {
+      "front": "Define: sympathetic",
+      "back": "Feeling, showing, or expressing sympathy",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: petrichor",
+      "back": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: serendipity",
+      "back": "The occurrence and development of events by chance in a happy or beneficial way",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: imaginative",
+      "back": "Having or showing creativity or inventiveness",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Pride and Prejudice",
+      "question": "Who is the protagonist of \"Pride and Prejudice\"?",
+      "back": "Elizabeth Bennet",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: ethereal",
+      "back": "Extremely delicate and light in a way that seems not to be of this world",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: legitimate",
+      "back": "Conforming to the law or to rules",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: fluent",
+      "back": "Able to express oneself easily and articulately",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: ubiquitous",
+      "back": "Present, appearing, or found everywhere",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "front": "1984",
+      "question": "Who wrote \"1984\"?",
+      "back": "George Orwell",
+      "type": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Define: persuasive",
+      "back": "Good at persuading someone to do or believe something",
+      "type": "vocabulary",
+      "difficulty": "medium"
+    }
+  ],
+  "split": "testing"
+}

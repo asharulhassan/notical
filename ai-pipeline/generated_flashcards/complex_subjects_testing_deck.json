@@ -1,0 +1,231 @@
+{
+  "name": "Complex Subjects Testing Deck (20%)",
+  "total_cards": 32,
+  "cards": [
+    {
+      "front": "Triple Bond",
+      "question": "What is a triple bond?",
+      "back": "Bond sharing three pairs of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Catalyst",
+      "question": "What is a catalyst?",
+      "back": "Substance that speeds up reaction without being consumed",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Conditional",
+      "question": "What is a conditional?",
+      "back": "Code that executes based on condition",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Database",
+      "question": "What is a database?",
+      "back": "Organized collection of data",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Period",
+      "question": "What is period?",
+      "back": "Time for one complete cycle",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Second Law",
+      "question": "What is the Second Law of Thermodynamics?",
+      "back": "Entropy always increases in isolated systems",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Integral",
+      "question": "What is an integral?",
+      "back": "Area under curve or antiderivative",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inhibitor",
+      "question": "What is an inhibitor?",
+      "back": "Substance that slows down reaction",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Binary Search Tree",
+      "question": "What is a BST?",
+      "back": "Tree where left child < parent < right child",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Oxidation",
+      "question": "What is oxidation?",
+      "back": "Loss of electrons",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Critical Point",
+      "question": "What is a critical point?",
+      "back": "Point where derivative is zero or undefined",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Proton",
+      "question": "What is a proton?",
+      "back": "Positively charged subatomic particle",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Network",
+      "question": "What is a network?",
+      "back": "Connected computers sharing resources",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Potential Energy",
+      "question": "What is the formula for gravitational potential energy?",
+      "back": "PE = mgh",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Wave",
+      "question": "What is a wave?",
+      "back": "Disturbance that transfers energy through medium",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Angle",
+      "question": "What is an angle?",
+      "back": "Figure formed by two rays sharing endpoint",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Magnetic Field",
+      "question": "What is a magnetic field?",
+      "back": "Region where magnetic forces act",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Array",
+      "question": "What is an array?",
+      "back": "Ordered collection of elements",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Radiation",
+      "question": "What is radiation?",
+      "back": "Heat transfer through electromagnetic waves",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inheritance",
+      "question": "What is inheritance?",
+      "back": "Class inheriting properties from another",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Endoplasmic Reticulum",
+      "question": "What is the ER?",
+      "back": "Network of membranes for transport",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Golgi Apparatus",
+      "question": "What is the Golgi apparatus?",
+      "back": "Packaging and shipping center",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Recessive",
+      "question": "What is a recessive allele?",
+      "back": "Allele masked by dominant",
+      "type": "biology",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Linear Function",
+      "question": "What is a linear function?",
+      "back": "Function with constant rate of change",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Efficiency",
+      "question": "What is efficiency?",
+      "back": "Ratio of useful work output to total energy input",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Equilibrium",
+      "question": "What is chemical equilibrium?",
+      "back": "Forward and reverse reactions occur at equal rates",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Ohm's Law",
+      "question": "What is Ohm's Law?",
+      "back": "V = IR",
+      "type": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Variable",
+      "question": "What is a variable?",
+      "back": "Symbol representing unknown value",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Neutron",
+      "question": "What is a neutron?",
+      "back": "Neutrally charged subatomic particle",
+      "type": "chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Map",
+      "question": "What is a map?",
+      "back": "Collection of key-value pairs",
+      "type": "computer_science",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Inequality",
+      "question": "What is an inequality?",
+      "back": "Mathematical statement with comparison symbols",
+      "type": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "front": "Heterozygous",
+      "question": "What is heterozygous?",
+      "back": "Having different alleles",
+      "type": "biology",
+      "difficulty": "medium"
+    }
+  ],
+  "split": "testing"
+}

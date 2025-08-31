@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "front": "Define and explain: Force",
+      "back": "A push or pull that can change an object's motion. Measured in Newtons (N). Example: Gravity pulling objects toward Earth.",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Mass",
+      "back": "The amount of matter in an object. Measured in kilograms (kg). Mass is constant regardless of location.",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Weight",
+      "back": "The force of gravity acting on an object's mass. Weight = mass × gravitational acceleration (W = mg).",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Acceleration",
+      "back": "The rate of change of velocity with time. Measured in meters per second squared (m/s²).",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Momentum",
+      "back": "The product of an object's mass and velocity (p = mv). Momentum is conserved in closed systems.",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Energy",
+      "back": "The ability to do work. Types include kinetic (motion), potential (position), and thermal (heat) energy.",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Power",
+      "back": "The rate at which work is done or energy is transferred. Measured in Watts (W). Power = Work/Time.",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Work",
+      "back": "Force applied over a distance. Work = Force × Distance × cos(θ). Measured in Joules (J).",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Efficiency",
+      "back": "The ratio of useful work output to total energy input. Efficiency = (Useful Output/Total Input) × 100%.",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    },
+    {
+      "front": "Define and explain: Conservation of Energy",
+      "back": "Energy cannot be created or destroyed, only transformed from one form to another.",
+      "type": "concept",
+      "subject": "Physics - Mechanics",
+      "tags": [
+        "mechanics",
+        "physics",
+        "concept"
+      ],
+      "difficulty": "intermediate",
+      "category": "mechanics"
+    }
+  ],
+  "total_cards": 10,
+  "subject": "Physics - Mechanics",
+  "type": "concept",
+  "difficulty": "intermediate"
+}

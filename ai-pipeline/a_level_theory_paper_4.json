@@ -1,0 +1,364 @@
+{
+  "paper_info": {
+    "question_paper": "9702_s22_qp_42.pdf",
+    "mark_scheme": "9702_s22_ms_42.pdf",
+    "total_questions": 7,
+    "total_answers": 49,
+    "matched_pairs": 1
+  },
+  "theory_questions": [
+    {
+      "question_number": "2",
+      "part": "",
+      "question_text": "2 hours You must answer on the question paper. No additional materials are needed. INSTRUCTIONS ● Answer all questions. ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs. ● Write your name, centre number and candidate number in the boxes at the top of the page. ● Write your answer to each question in the space provided. ● Do not use an erasable pen or correction fluid. ● Do not write on any bar codes. ● You may use a calculator. ● You should show all your working and use appropriate units. INFORMATION ● The total mark for this paper is 100. ● The number of marks for each question or part question is shown in brackets [ ]. 2 9702/42/M/J/22 © UCLES 2022 Data acceleration of free fall g� =�9.81 m s–2 speed�of�light�in�free�space�� c = 3.00 × 108 m s–1 elementary�charge�� e = 1.60 × 10–19 C unified�atomic�mass�unit��",
+      "line_number": 48
+    },
+    {
+      "question_number": "1",
+      "part": "",
+      "question_text": "1 u� =�1.66�× 10–27 kg rest�mass�of�proton�� mp = 1.67 × 10–27 kg rest�mass�of�electron�� me = 9.11 × 10–31 kg Avogadro�constant�� NA = 6.02 × 1023 mol–1 molar�gas�constant�� R� =�8.31 J K–1 mol–1 Boltzmann�constant�� k = 1.38 × 10–23 J K–1 gravitational�constant�� G = 6.67 × 10–11 N m2 kg–2 permittivity�of�free�space�� ε0 = 8.85 × 10–12 F m–1  (4 1 0 rf  = 8.99 × 109 m F–1) Planck�constant�� h = 6.63 × 10–34 J s Stefan–Boltzmann�constant�� σ = 5.67 × 10–8 W m–2 K–4 Formulae uniformly�accelerated�motion� s = ut + 2",
+      "line_number": 75
+    },
+    {
+      "question_number": "1",
+      "part": "",
+      "question_text": "1 at 2  v 2 = u 2 + 2as hydrostatic�pressure� ∆p = ρg∆h upthrust� F = ρgV Doppler�effect�for�sound�waves� fo = v v f v s s ! electric current I = Anvq resistors�in�series� R = R1 + R2 + ... resistors�in�parallel� R 1  =  R 1 1 + R 1 2 + ... 3 9702/42/M/J/22 © UCLES 2022 [Turn over 2 gravitational�potential� ϕ� =�–  r GM gravitational�potential�energy� EP� =�– r GMm pressure�of�an�ideal�gas� p = V Nm 3 1 〈c2〉 simple�harmonic�motion� a� =�– ω 2x velocity�of�particle�in�s.h.m.� v = v0 cos ωt  v = ! ω ( ) x x 0 2 2 - electric�potential� V = r Q 4 0 rf electrical�potential�energy� EP = r Qq 4 0 rf capacitors�in�series� C 1  =  C 1 1 + C 1 2 + ... capacitors�in�parallel� C = C1 + C2 + ... discharge�of�a�capacitor� x = x e RC t 0 - Hall�voltage� VH = I ntq B alternating�current/voltage� x = x0 sin ωt radioactive�decay� x = x0e– λt decay�constant� λ = . t 0 693 2 1 intensity�reflection�coefficient� I IR 0 = ( ) ( ) Z Z Z Z 1 2 2 1 2 2 + - Stefan–Boltzmann�law� L = 4πσr 2T 4 Doppler�redshift�� ∆λ λ  á f f D  á c v 4 9702/42/M/J/22 © UCLES 2022 1 (a)  (i) Define gravitational potential at a point. ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2]   (ii) Starting from the equation for the gravitational potential due to a point mass, show that the gravitational potential energy EP of a point mass m at a distance r from another point mass M is given by EP = – GMm r   where G is the gravitational constant.  [1]  (b) Fig. 1.1 shows the path of a comet of mass 2.20 × 1014 kg as it passes around a star of mass 1.99 × 1030 kg. X Y 34.1 km s–1 comet mass 2.20 × 1014 kg star mass 1.99 × 1030 kg path of comet Fig. 1.1 (not to scale)   At point X, the comet is 8.44 × 1011 m from the centre of the star and is moving at a speed of 34.1 km s–1.     At point Y, the comet passes its point of closest approach to the star. At this point, the comet is a distance of 6.38 × 1010 m from the centre of the star. 5 9702/42/M/J/22 © UCLES 2022 [Turn over   Both the comet and the star can be considered as point masses at their centres.   (i) Calculate the magnitude of the change in the gravitational potential energy ΔEP of the comet as it moves from position X to position Y.  ΔEP =  ......................................................  J [2]   (ii) State, with a reason, whether the change in gravitational potential energy in (b)(i) is an increase or a decrease. ........................................................................................................................................... ..................................................................................................................................... [1]   (iii) Use your answer in (b)(i) to determine the speed, in km s–1, of the comet at point Y.  speed =  .............................................. km s–1 [3]  (c) A second comet passes point X with the same speed as the comet in (b) and travelling in the same direction. This comet is gradually losing mass. The mass of this comet when it passes point X is the same as the mass of the comet in (b).   Suggest, with a reason, how the path of the second comet compares with the path shown in Fig. 1.1. ................................................................................................................................................... ............................................................................................................................................. [1]  [Total: 10] 6 9702/42/M/J/22 © UCLES 2022 2 (a) State Coulomb’s law. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) Positronium is a system in which an electron and a positron orbit, with the same period, around their common centre of mass, as shown in Fig. 2.1. r centre of mass electron positron Fig. 2.1 (not to scale)   The radius r of the orbit of both particles is 1.59 × 10–10 m.   (i) Explain how the electric force between the electron and the positron causes the path of the moving particles to be circular. ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2]   (ii) Show that the magnitude of the electric force between the electron and the positron is 2.28 × 10–9 N.  [2] 7 9702/42/M/J/22 © UCLES 2022 [Turn over   (iii) Use the information in (b)(ii) to determine the period of the circular orbit of the two particles.  period =  ......................................................  s [3]  (c) Positronium is highly unstable, and after a very short period of time it becomes gamma radiation.   (i) Describe how gamma radiation is formed from the two particles in positronium. ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [3]   (ii) State one medical application of the process described in (c)(i). ..................................................................................................................................... [1]  [Total: 13] 8 9702/42/M/J/22 © UCLES 2022 3 (a) Define specific latent heat of vaporisation. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) The specific latent heat of vaporisation of water at atmospheric pressure of 1.0 × 105 Pa is 2.3 × 106 J kg–1. A mass of 0.37 kg of liquid water at 100 °C is provided with the thermal energy needed to vaporise all of the water at atmospheric pressure.   (i) Calculate the thermal energy q supplied to the water.  q =  ......................................................  J [1]   (ii) The mass of 1.0 mol of water is 18 g. Assume that water vapour can be considered to behave as an ideal gas.   Show that the volume of water vapour produced is 0.64 m3.  [3]   (iii) Assume that the initial volume of the liquid water is negligible compared with the volume of water vapour produced.   Determine the magnitude of the work done by the water in expanding against the atmosphere when it vaporises.  work done =  ......................................................  J [2] 9 9702/42/M/J/22 © UCLES 2022 [Turn over   (iv) Use your answers in (b)(i) and (b)(iii) to determine the increase in internal energy of the water when it vaporises at 100 °C. Explain your reasoning.  increase in internal energy =  ......................................................  J [2]  (c) Use the first law of thermodynamics to suggest, with a reason, how the specific latent heat of vaporisation of water at a pressure greater than atmospheric pressure compares with its value at atmospheric pressure. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  [Total: 12] 10 9702/42/M/J/22 © UCLES 2022 4 (a) State what is meant by resonance. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) Fig. 4.1 shows a heavy pendulum and a light pendulum, both suspended from the same piece of string. This string is secured at each end to fixed points. fixed points string heavy pendulum light pendulum Fig. 4.1   Both pendulums have the same natural frequency.   The heavy pendulum is set oscillating perpendicular to the plane of the diagram. As it oscillates, it causes the light pendulum to oscillate.   Fig. 4.2 shows the variation with time t of the displacements of the two pendulums for three oscillations. 0 t / s 0 displacement / cm heavy light Fig. 4.2 11 9702/42/M/J/22 © UCLES 2022 [Turn over   The variation with t of the displacement x of the light pendulum is given by x = 0.25 sin 5.0rt   where x is in centimetres and t is in seconds.   (i) Calculate the period T of the oscillations.  T =  ......................................................  s [2]   (ii) On Fig. 4.2, label both of the axes with the correct scales. Use the space below for any additional working that you need.  [2]   (iii) Determine the magnitude of the phase difference φ between the oscillations of the light and heavy pendulums. Give a unit with your answer.  φ =  ..................................  unit ............... [2]  [Total: 8] 12 9702/42/M/J/22 © UCLES 2022 5 (a) Define the capacitance of a parallel plate capacitor. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) Two capacitors, of capacitances C1 and C2, are connected in parallel to a power supply of electromotive force (e.m.f.) E, as shown in Fig. 5.1. E C1 C2 Fig. 5.1   Show that the combined capacitance CT of the two capacitors is given by CT = C1 + C2.   Explain your reasoning. You may draw on Fig. 5.1 if you wish.  [3] 13 9702/42/M/J/22 © UCLES 2022 [Turn over  (c) Two capacitors of capacitances 22 μF and 47 μF, and a resistor of resistance 2.7 MΩ, are connected into the circuit of Fig. 5.2.",
+      "line_number": 497
+    },
+    {
+      "question_number": "12",
+      "part": "",
+      "question_text": "12 V 2.7 MΩ 22 μF 47 μF Y X S Fig. 5.2   The battery has an e.m.f. of 12 V.   (i) Show that the combined capacitance of the two capacitors is 15 μF.  [1]   (ii) The two-way switch S is initially at position X, so that the capacitors are fully charged.   Use the information in (c)(i) to calculate the total energy stored in the two capacitors.  total energy =  ......................................................  J [2]   (iii) The two-way switch is now moved to position Y.   Determine the time taken for the potential difference (p.d.) across the 22 μF capacitor to become 6.0 V.  time =  ......................................................  s [3]  [Total: 11] 14 9702/42/M/J/22 © UCLES 2022 6 (a) State the two conditions that must be satisfied for a copper wire, placed in a magnetic field, to experience a magnetic force. 1  ................................................................................................................................................ ................................................................................................................................................... 2  ................................................................................................................................................ ...................................................................................................................................................  [2]  (b) A long air-cored solenoid is connected to a power supply, so that the solenoid creates a magnetic field. Fig. 6.1 shows a cross-section through the middle of the solenoid.  Y Z W X section through solenoid wires  Fig. 6.1   The direction of the magnetic field at point W is indicated by the arrow. Three other points are labelled X, Y and Z.   (i) On Fig. 6.1, draw arrows to indicate the direction of the magnetic field at each of the points X, Y and Z. [3]   (ii) Compare the magnitude of the flux density of the magnetic field: ● at X and at W  ................................................................................................................. ........................................................................................................................................... ● at Y and at Z.  ................................................................................................................. ...........................................................................................................................................  [2] 15 9702/42/M/J/22 © UCLES 2022 [Turn over  (c) Two long parallel current-carrying wires are placed near to each other in a vacuum.   Explain why these wires exert a magnetic force on each other. You may draw a labelled diagram if you wish. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [3]  [Total: 10] 16 9702/42/M/J/22 © UCLES 2022 7 (a) State Faraday’s law of electromagnetic induction. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) Two coils are wound on an iron bar, as shown in Fig. 7.1. V V1 iron bar coil 2 coil 1 Fig. 7.1   Coil 1 is connected to a potential difference (p.d.) V1 that gives rise to a magnetic field in the iron bar.   Fig. 7.2 shows the variation with time t of the magnetic flux density B in the iron bar. B 0 0.1 0.2 0.3 0.4 0 t / s Fig. 7.2   A voltmeter measures the electromotive force (e.m.f.) V2 that is induced across coil 2. 17 9702/42/M/J/22 © UCLES 2022 [Turn over   On Fig. 7.3, sketch the variation with t of V2 between t = 0 and t = 0.40 s. V2 0 0.1 0.2 0.3 0.4 0 t / s Fig. 7.3  [4]  (c) Coil 2 in (b) is now replaced with a copper ring that rests loosely on top of coil 1. The supply to coil 1 is replaced with a cell and a switch that is initially open, as shown in Fig. 7.4. iron bar copper ring coil 1 Fig. 7.4   (i) The switch is now closed. As it is closed, the copper ring is observed to jump upwards.   Explain why this happens. ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [3]   (ii) Suggest, with a reason, what would be the effect of repeating the procedure in (c)(i) with the terminals of the cell reversed. ........................................................................................................................................... ..................................................................................................................................... [1]  [Total: 10] 18 9702/42/M/J/22 © UCLES 2022 8 (a)  State one piece of experimental evidence for:   (i)  the particulate nature of electromagnetic radiation ..................................................................................................................................... [1]   (ii) the wave nature of matter. ..................................................................................................................................... [1]  (b) (i) Calculate the de Broglie wavelength λ of an alpha-particle moving at a speed of 6.2 × 107 m s–1.  λ =  ..................................................... m [3]   (ii) The speed v of the alpha-particle in (b)(i) is gradually reduced to zero.   On Fig. 8.1, sketch the variation with v of λ. λ 0 0 6.2 v / 107 m s–1 Fig. 8.1  [2]  (c) Suggest an explanation for why people are not observed to diffract when they walk through a   doorway. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [1]  [Total: 8] 19 9702/42/M/J/22 © UCLES 2022 [Turn over 9 (a) (i) State Hubble’s law. ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2]   (ii) Explain how cosmologists use observations of emission spectra from stars in distant galaxies to determine that the Universe is expanding. ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ..................................................................................................................................... [2]  (b) Explain how Hubble’s law and the idea of the expanding Universe lead to the Big Bang theory   of the origin of the Universe. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [3]  [Total: 7] 20 9702/42/M/J/22 © UCLES 2022",
+      "line_number": 741
+    },
+    {
+      "question_number": "10",
+      "part": "a",
+      "question_text": "10 (a) State what is meant by radioactive decay. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) A radioactive sample consists of an isotope X of half-life T that decays to form a stable product. Only X and the stable product are present in the sample.   At time t = 0, the sample has an activity of A0 and contains N0 nuclei of X.   (i) On Fig. 10.1, sketch the variation with t of the number N of nuclei of X present in the sample. Your line should extend from time t = 0 to time t = 3T. N t 0 0 T",
+      "line_number": 760
+    },
+    {
+      "question_number": "2",
+      "part": "",
+      "question_text": "2T",
+      "line_number": 761
+    },
+    {
+      "question_number": "3",
+      "part": "",
+      "question_text": "3T 0.25N0 0.50N0 0.75N0 1.00N0 Fig. 10.1  [3] 21 9702/42/M/J/22 © UCLES 2022   (ii) On Fig. 10.2, sketch the variation with N of the activity A of the sample for values of N between N = 0 and N = N0. A N 0.5A0 0.5N0 1.0N0 1.0A0 0 0 Fig. 10.2  [2]  (c) State the name of the quantity represented by the gradient of your line in:   (i) Fig. 10.1 ..................................................................................................................................... [1]   (ii) Fig. 10.2. ..................................................................................................................................... [1]  (d) For the sample in (b), calculate the fraction N N0 at time t = 1.70T.  N N0 =  ......................................................... [2]  [Total: 11] 22 9702/42/M/J/22 © UCLES 2022 BLANK PAGE 23 9702/42/M/J/22 © UCLES 2022 BLANK PAGE 24 9702/42/M/J/22 © UCLES 2022 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge. BLANK PAGE",
+      "line_number": 828
+    }
+  ],
+  "mark_scheme_answers": [
+    {
+      "question_number": "1",
+      "part": "a",
+      "answer_text": "1(a)(i) work (done) per unit mass B1 work (done on mass) in moving mass from infinity (to the point) B1",
+      "line_number": 279
+    },
+    {
+      "question_number": "1",
+      "part": "a",
+      "answer_text": "1(a)(ii) EP = ϕm  EP = (– GM / r)  m = – GMm / r or ϕ = – GM / r  and  EP = ϕm = – GMm / r B1",
+      "line_number": 286
+    },
+    {
+      "question_number": "1",
+      "part": "b",
+      "answer_text": "1(b)(i) EP = 6.67  10–11  1.99  1030  2.20  1014  [1 / (6.38  1010) – 1 / (8.44  1011)] C1 = 4.23  1023 J A1",
+      "line_number": 291
+    },
+    {
+      "question_number": "1",
+      "part": "b",
+      "answer_text": "1(b)(ii) (gravitational) force is attractive so decrease or (gravitational) force does work so decrease B1",
+      "line_number": 296
+    },
+    {
+      "question_number": "1",
+      "part": "b",
+      "answer_text": "1(b)(iii) EP = ½m(v22 – v12) C1 4.23  1023 = ½  2.20  1014  (v2 – 34 1002) C1 v (= 70 800 m s–1) = 70.8 km s–1 A1",
+      "line_number": 303
+    },
+    {
+      "question_number": "1",
+      "part": "c",
+      "answer_text": "1(c) both PE and KE equations include m, so path is unchanged B1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 8 of 16   Question Answer Marks",
+      "line_number": 318
+    },
+    {
+      "question_number": "2",
+      "part": "a",
+      "answer_text": "2(a) (electric) force is (directly) proportional to product of charges B1 force (between point charges) is inversely proportional to the square of their separation B1",
+      "line_number": 323
+    },
+    {
+      "question_number": "2",
+      "part": "b",
+      "answer_text": "2(b)(i) (electric) force is perpendicular to velocity (of particles) B1 force (perpendicular to velocity) causes centripetal acceleration or force does not change the speed of the particles or force has constant magnitude B1",
+      "line_number": 332
+    },
+    {
+      "question_number": "2",
+      "part": "b",
+      "answer_text": "2(b)(ii) F = e2 / 40x2 C1 = (1.60  10–19)2 / [4  8.85  10–12  (2  1.59  10–10)2]  = 2.28  10–9 N A1",
+      "line_number": 339
+    },
+    {
+      "question_number": "2",
+      "part": "b",
+      "answer_text": "2(b)(iii) F = mr2  and   = 2 / T or F = mv2 / r  and  v = 2r / T C1 F = 42mr / T2  T = √ [42  9.11  10–31  1.59  10–10 / (2.28  10–9)] C1 = 1.58  10–15 s A1",
+      "line_number": 350
+    },
+    {
+      "question_number": "2",
+      "part": "c",
+      "answer_text": "2(c)(i)  electron and positron interact  positron is anti-particle of electron  (pair) annihilation occurs Any two points, 1 mark each B2 mass of the electron and positron converted into photon energy B1",
+      "line_number": 361
+    },
+    {
+      "question_number": "2",
+      "part": "c",
+      "answer_text": "2(c)(ii) PET scanning B1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 9 of 16   Question Answer Marks",
+      "line_number": 376
+    },
+    {
+      "question_number": "3",
+      "part": "a",
+      "answer_text": "3(a) (thermal) energy per unit mass B1 energy to change state between liquid and gas at constant temperature B1",
+      "line_number": 381
+    },
+    {
+      "question_number": "3",
+      "part": "b",
+      "answer_text": "3(b)(i) q = mL = 0.37  2.3  106  = 8.5  105 J A1",
+      "line_number": 386
+    },
+    {
+      "question_number": "3",
+      "part": "b",
+      "answer_text": "3(b)(ii) pV = nRT  and  T = 373 K C1 n = 370 / 18 C1 V = [(370 / 18)  8.31  373] / (1.0  105) = 0.64 m3 A1",
+      "line_number": 393
+    },
+    {
+      "question_number": "3",
+      "part": "b",
+      "answer_text": "3(b)(iii) w = pV C1 = 1.0  105  0.64  = 6.4  104 J A1",
+      "line_number": 400
+    },
+    {
+      "question_number": "3",
+      "part": "b",
+      "answer_text": "3(b)(iv) (water does work against atmosphere so) work done on water is negative B1 increase in internal energy = (8.5 – 0.64)  105 = 7.9  105 J A1",
+      "line_number": 405
+    },
+    {
+      "question_number": "3",
+      "part": "c",
+      "answer_text": "3(c) valid reasoning of how work done by water is affected M1 correct use of first law to draw conclusion about effect on specific latent heat that is consistent with work done A1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 10 of 16   Question Answer Marks",
+      "line_number": 422
+    },
+    {
+      "question_number": "4",
+      "part": "a",
+      "answer_text": "4(a) oscillations (of object) at maximum amplitude B1 when driving frequency equals natural frequency (of object) B1",
+      "line_number": 427
+    },
+    {
+      "question_number": "4",
+      "part": "b",
+      "answer_text": "4(b)(i) T  = 2 /  C1 = 2 / 5.0   = 0.40 s A1",
+      "line_number": 435
+    },
+    {
+      "question_number": "4",
+      "part": "b",
+      "answer_text": "4(b)(ii) displacement scale labelled –1.0, –0.5, (0), 0.5, 1.0 on the 2 cm tick marks B1 t scale labelled 0.2, 0.4, 0.6, 0.8, 1.0, 1.2 on the 2 cm tick marks B1",
+      "line_number": 440
+    },
+    {
+      "question_number": "4",
+      "part": "b",
+      "answer_text": "4(b)(iii) ϕ = 2t / T  = 2  0.10 / 0.40  or  2  0.30 / 0.40 C1 = 1.6 rad  or  4.7 rad A1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 11 of 16   Question Answer Marks",
+      "line_number": 459
+    },
+    {
+      "question_number": "5",
+      "part": "a",
+      "answer_text": "5(a) charge / potential (difference) M1 charge is charge on one plate, and potential is p.d. across the plates A1",
+      "line_number": 464
+    },
+    {
+      "question_number": "5",
+      "part": "b",
+      "answer_text": "5(b) p.d. across both capacitors = E B1 QT = Q1 + Q2 B1 CTE = C1E + C2E hence CT = C1 + C2 B1",
+      "line_number": 471
+    },
+    {
+      "question_number": "5",
+      "part": "c",
+      "answer_text": "5(c)(i) [(1 / 22) + (1 / 47)]–1 = 15 F A1",
+      "line_number": 474
+    },
+    {
+      "question_number": "5",
+      "part": "c",
+      "answer_text": "5(c)(ii) energy = ½CV 2 C1 = ½  15  10–6  122   = 1.1  10–3 J A1",
+      "line_number": 482
+    },
+    {
+      "question_number": "5",
+      "part": "c",
+      "answer_text": "5(c)(iii) initial p.d. (across 22 F) = 12  (15 / 22)   = 8.2 V  or  final p.d. across both capacitors = 6.0  (22 / 15)   = 8.8 V C1 V = V0 exp [– t / (2.7  106  15  10–6)] C1 6.0 = 8.2 exp [– t / (2.7  106  15  10–6)] or 8.8 = 12 exp [– t / (2.7  106  15  10–6)]  t = 13 s A1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 12 of 16   Question Answer Marks",
+      "line_number": 515
+    },
+    {
+      "question_number": "6",
+      "part": "a",
+      "answer_text": "6(a) there must be a current (in the wire) B1 (wire) must be at a non-zero angle to the magnetic field B1",
+      "line_number": 520
+    },
+    {
+      "question_number": "6",
+      "part": "b",
+      "answer_text": "6(b)(i) arrow from X pointing horizontally to the left B1 arrow from Y pointing diagonally upwards and to the left at about 45° B1 arrow from Z pointing horizontally to the right B1",
+      "line_number": 527
+    },
+    {
+      "question_number": "6",
+      "part": "b",
+      "answer_text": "6(b)(ii) (flux densities at W and X are approximately) equal B1 (flux density at) Y greater than (flux density at) Z B1",
+      "line_number": 532
+    },
+    {
+      "question_number": "6",
+      "part": "c",
+      "answer_text": "6(c) current in wire creates magnetic field around wire B1 (each) wire sits in the magnetic field created by the other B1 (for each wire,) current / wire is perpendicular to magnetic field (due to other wire), (so) experiences a (magnetic) force B1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 13 of 16   Question Answer Marks",
+      "line_number": 551
+    },
+    {
+      "question_number": "7",
+      "part": "a",
+      "answer_text": "7(a) induced e.m.f. is (directly) proportional to rate M1 of change of (magnetic) flux (linkage) A1",
+      "line_number": 556
+    },
+    {
+      "question_number": "7",
+      "part": "b",
+      "answer_text": "7(b) V2 stepped, all at non-zero values, between t = 0 and t = 0.40 s B1 V2 shown with same non-zero magnitude up to t = 0.15 s and after t = 0.25 s but with a different magnitude between these times B1 V2 shown with a magnitude between t = 0.15 s and t = 0.25 s that is three times the magnitude before t = 0.15 s and after t = 0.25 s B1 V2 shown with same sign up to t = 0.15 s and after t = 0.25 s, and opposite sign in between B1",
+      "line_number": 567
+    },
+    {
+      "question_number": "7",
+      "part": "c",
+      "answer_text": "7(c)(i) changing current in coil causes changing (magnetic) field or changing (magnetic) flux causes induced e.m.f. in ring B1 induced e.m.f. in ring causes current in ring B1 (magnetic) field due to (induced) current in ring interacts with (coil’s) field to cause upwards force (on ring) or (induced) current in ring perpendicular to (coil’s magnetic) field causes upwards force (on ring) B1",
+      "line_number": 578
+    },
+    {
+      "question_number": "7",
+      "part": "c",
+      "answer_text": "7(c)(ii) both magnetic fields reverse direction so ring still jumps up or current (in ring) and (coil’s) field both reverse so ring still jumps up B1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 14 of 16   Question Answer Marks",
+      "line_number": 595
+    },
+    {
+      "question_number": "8",
+      "part": "a",
+      "answer_text": "8(a)(i) photoelectric effect B1",
+      "line_number": 598
+    },
+    {
+      "question_number": "8",
+      "part": "a",
+      "answer_text": "8(a)(ii) electron diffraction B1",
+      "line_number": 601
+    },
+    {
+      "question_number": "8",
+      "part": "b",
+      "answer_text": "8(b)(i)  = h / p C1 p = 4  1.66  10–27  6.2  107  ( = 4.1  10–19 N s) C1   = 6.63  10–34 / 4.1  10–19   = 1.6  10–15 m A1",
+      "line_number": 613
+    },
+    {
+      "question_number": "8",
+      "part": "b",
+      "answer_text": "8(b)(ii) line with negative gradient throughout B1 curve asymptotic to both axes with non-zero  at v = 6.2  107 m s–1 B1",
+      "line_number": 618
+    },
+    {
+      "question_number": "8",
+      "part": "c",
+      "answer_text": "8(c) (de Broglie) wavelength negligible compared with width of doorway B1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 15 of 16   Question Answer Marks",
+      "line_number": 633
+    },
+    {
+      "question_number": "9",
+      "part": "a",
+      "answer_text": "9(a)(i) speed is (directly) proportional to distance M1 where speed is speed of recession of galaxy (from observer) and distance is distance of galaxy away from observer A1",
+      "line_number": 638
+    },
+    {
+      "question_number": "9",
+      "part": "a",
+      "answer_text": "9(a)(ii) wavelengths (of spectral lines) are greater (than their known values) B1 redshift shows stars (in distant galaxies) moving away from Earth B1",
+      "line_number": 643
+    },
+    {
+      "question_number": "9",
+      "part": "b",
+      "answer_text": "9(b) (all) parts of Universe moving away from each other B1 more distant objects are moving away faster B1 matter must have been close together / very dense in the past B1 9702/42 Cambridge International AS & A Level – Mark Scheme PUBLISHED May/June 2022  © UCLES 2022 Page 16 of 16   Question Answer Marks",
+      "line_number": 662
+    },
+    {
+      "question_number": "10",
+      "part": "a",
+      "answer_text": "10(a) spontaneous emission of (ionising) radiation B1 emission from unstable nucleus B1",
+      "line_number": 667
+    },
+    {
+      "question_number": "10",
+      "part": "b",
+      "answer_text": "10(b)(i) curve with decreasing negative gradient passing through (0, N0) B1 curve passing through (T, 0.5N0) B1 curve passing through (2T, 0.25N0) and (3T, 0.125N0) B1",
+      "line_number": 674
+    },
+    {
+      "question_number": "10",
+      "part": "b",
+      "answer_text": "10(b)(ii) line through origin with positive gradient B1 straight line passing through (N0, A0) B1",
+      "line_number": 679
+    },
+    {
+      "question_number": "10",
+      "part": "c",
+      "answer_text": "10(c)(i) activity B1",
+      "line_number": 682
+    },
+    {
+      "question_number": "10",
+      "part": "c",
+      "answer_text": "10(c)(ii) decay constant B1",
+      "line_number": 685
+    },
+    {
+      "question_number": "10",
+      "part": "d",
+      "answer_text": "10(d) N = N0 exp (– ln 2  1.70T / T) C1 N / N0 = 0.31 A1",
+      "line_number": 692
+    }
+  ],
+  "qa_pairs": [
+    {
+      "question_number": "10",
+      "part": "a",
+      "question_text": "10 (a) State what is meant by radioactive decay. ................................................................................................................................................... ................................................................................................................................................... ............................................................................................................................................. [2]  (b) A radioactive sample consists of an isotope X of half-life T that decays to form a stable product. Only X and the stable product are present in the sample.   At time t = 0, the sample has an activity of A0 and contains N0 nuclei of X.   (i) On Fig. 10.1, sketch the variation with t of the number N of nuclei of X present in the sample. Your line should extend from time t = 0 to time t = 3T. N t 0 0 T",
+      "answer_text": "10(a) spontaneous emission of (ionising) radiation B1 emission from unstable nucleus B1",
+      "question_line": 760,
+      "answer_line": 667,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "success_rate": 14.285714285714285,
+    "paper_type": "Theory Paper (Structured Questions)"
+  }
+}

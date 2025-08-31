@@ -1,0 +1,113 @@
+{
+  "paper_info": {
+    "question_paper": "9702_s22_qp_12.pdf",
+    "mark_scheme": "9702_s22_ms_12.pdf",
+    "total_questions": 7
+  },
+  "mcq_data": [
+    {
+      "question_number": "15",
+      "question_content": "15 A closed U-shaped tube contains a stationary liquid of density . One side of the tube contains a gas at pressure p1 and the other side contains a gas at pressure p2, as shown. gas, pressure p1 gas, pressure p2 liquid, density � x y z The acceleration of free fall is g. Which equation is correct?",
+      "options": {
+        "B": "0.63",
+        "C": "1.6",
+        "D": "8.0",
+        "A": "0.13"
+      },
+      "correct_answer": "C",
+      "question_line": 465,
+      "answer_line": 92,
+      "confidence": "high"
+    },
+    {
+      "question_number": "20",
+      "question_content": "20 A wire is being stretched by a tensile force. Which statement about the elastic limit must be correct?",
+      "options": {
+        "B": "They can be demonstrated in ripple tanks.",
+        "C": "They consist of vibrating atoms.",
+        "D": "They transfer energy from one position to another.",
+        "A": "The distance from a peak to the next trough is equal to a wavelength."
+      },
+      "correct_answer": "A",
+      "question_line": 561,
+      "answer_line": 107,
+      "confidence": "high"
+    },
+    {
+      "question_number": "25",
+      "question_content": "25 An electromagnetic wave in free space has a frequency of 2.5  1014 Hz. Which region of the electromagnetic spectrum includes this frequency?",
+      "options": {
+        "B": "2.5 W m–2",
+        "C": "2.9 W m–2",
+        "D": "6.0 W m–2",
+        "A": "zero"
+      },
+      "correct_answer": "A",
+      "question_line": 654,
+      "answer_line": 122,
+      "confidence": "high"
+    },
+    {
+      "question_number": "29",
+      "question_content": "29 An outdoor concert has two large speakers beside the stage for broadcasting music. In order to test the speakers, they are made to emit sound of the same wavelength and the same amplitude. The curved lines in the diagram represent wavefronts. Where is the loudest sound heard?",
+      "options": {
+        "B": "increases",
+        "A": "increases",
+        "C": "decreases",
+        "D": "decreases"
+      },
+      "correct_answer": "D",
+      "question_line": 750,
+      "answer_line": 145,
+      "confidence": "high"
+    },
+    {
+      "question_number": "35",
+      "question_content": "35 A cell with constant electromotive force (e.m.f.) is connected across a fixed resistor. Over time, the internal resistance of the cell increases. Which change occurs as the internal resistance of the cell increases?",
+      "options": {
+        "B": "energy",
+        "C": "current",
+        "D": "energy",
+        "A": "charge"
+      },
+      "correct_answer": "B",
+      "question_line": 901,
+      "answer_line": 163,
+      "confidence": "high"
+    },
+    {
+      "question_number": "37",
+      "question_content": "37 A potentiometer circuit is used to determine the electromotive force (e.m.f.) EX of a cell. The circuit includes a second cell of known e.m.f. E0 and negligible internal resistance, and a uniform resistance wire PQ of known length. EX is less than E0. The movable connection J can be positioned anywhere along the length of the resistance wire. Which circuit is suitable for determining EX? P E0 EX",
+      "options": {
+        "C": "When E absorbs a neutron and then emits an-particle, E transforms into M.",
+        "D": "When M emits a – particle, M transforms into Q.",
+        "B": "Nuclei G and M are isotopes of the same element.",
+        "A": "n uncharged atom of element Q has 24 orbital electrons."
+      },
+      "correct_answer": "D",
+      "question_line": 941,
+      "answer_line": 169,
+      "confidence": "high"
+    },
+    {
+      "question_number": "40",
+      "question_content": "40 A neutron is composed of one up (u) quark and two down (d) quarks. When a neutron decays to a proton, a beta-particle is emitted. What is the change in the quark structure of the neutron due to the emission of the beta-particle? (The symbol for a neutrino is e and for an antineutrino is e  .)",
+      "options": {
+        "B": "d    u  +  –  +",
+        "C": "ambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+        "D": "u    d  +  +  +",
+        "A": "ssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download"
+      },
+      "correct_answer": "B",
+      "question_line": 1024,
+      "answer_line": 178,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "total_pairs": 7,
+    "simple_mcqs_with_options": 7,
+    "questions_without_options": 0,
+    "success_rate": 17.5
+  }
+}
